@@ -1,0 +1,179 @@
+.form {
+  visibility: hidden;
+  opacity: 0;
+  pointer-events: none;
+
+  z-index: 0;
+}
+.RatingForm {
+  position: fixed;
+  width: 100%;
+  top: 0;
+}
+.form.open {
+  pointer-events: all;
+  visibility: visible;
+  opacity: 1;
+  backdrop-filter: brightness(30%);
+  padding: 30rem 60rem;
+  width: 100%;
+  height: 100vh;
+  position: relative;
+  z-index: 9999;
+  transition: all 0.3s;
+}
+.form-container {
+  left: 50%;
+  top: 18%;
+  transform: translateX(-50%);
+  position: absolute;
+  width: 40%;
+  padding-top: 9.6rem;
+  background-color: rgb(251, 251, 251);
+  box-shadow: 0 5px 5px 0px hsla(210, 10%, 23%, 0.06);
+  padding: 3.2rem 3.2rem 0 3.2rem;
+}
+.RatingFormError {
+  font-size: 1.2rem;
+  font-weight: 500;
+  position: absolute;
+  color: rgba(255, 0, 0, 0.714);
+  top: 50%;
+  left: 50%;
+  transform: translateX(-50%);
+}
+.question-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 4.8rem;
+}
+.closeRatingFormBtn {
+  color: hsl(210, 10%, 23%);
+  position: absolute;
+  top: 2rem;
+  right: 2rem;
+  cursor: pointer;
+  font-size: 2rem;
+}
+.closeRatingFormBtn:hover {
+  color: hsla(210, 10%, 23%, 0.627);
+  transition: 0.1s;
+}
+
+.RatingFormFieldset {
+  border: none;
+  padding: 0%;
+  margin-bottom: 9.6rem;
+}
+.form-title {
+  font-size: 2.4rem;
+  color: #495057;
+}
+.sub-btn {
+  border: none;
+  padding: 1.2rem 3.2rem;
+  background: none;
+  cursor: pointer;
+  position: relative;
+  left: 50%;
+  transform: translateX(-50%);
+  background-color: #fd7d14;
+  margin-bottom: 2.4rem;
+  width: 25%;
+}
+.RatingFormTextArea {
+  font-family: inherit;
+  resize: none;
+  width: 100%;
+  padding: 0.5rem;
+  border: 3px solid rgba(255, 104, 4, 0.538);
+  transition: 0.7s;
+  margin-bottom: 1.6rem;
+}
+#RatingFormTextArea:focus {
+  background-color: rgba(240, 248, 255, 0.402);
+  border: 3px solid rgb(221, 69, 38);
+  outline: none;
+  transition: 0.4s;
+  box-shadow: 0 1px 1px 0 rgba(99, 255, 109, 0.575);
+}
+
+/* Radio && Star 1 */
+
+.RatingFormRadio1 {
+  visibility: hidden;
+}
+.RatingFormRadio1 + .RatingFormStar1 {
+  cursor: pointer;
+}
+
+.RatingFormStar1-checked {
+  background-image: url("../images/star_rating_full.ico");
+  cursor: pointer;
+}
+.RatingFormStar1:hover {
+  background-image: url("../images/star_rating_full.ico");
+}
+
+/* Radio && Star 2 */
+.RatingFormRadio2 {
+  visibility: hidden;
+}
+.RatingFormRadio2 + .RatingFormStar2 {
+  cursor: pointer;
+}
+
+.RatingFormStar2-checked {
+  background-image: url("../images/star_rating_full.ico");
+  cursor: pointer;
+}
+.RatingFormStar2:hover {
+  background-image: url("../images/star_rating_full.ico");
+}
+/* Radio && Star 3 */
+.RatingFormRadio3 {
+  visibility: hidden;
+}
+.RatingFormRadio3 + .RatingFormStar3 {
+  cursor: pointer;
+}
+
+.RatingFormStar3-checked {
+  background-image: url("../images/star_rating_full.ico");
+  cursor: pointer;
+}
+.RatingFormStar3:hover {
+  background-image: url("../images/star_rating_full.ico");
+}
+/* Radio && Star 4 */
+.RatingFormRadio4 {
+  visibility: hidden;
+}
+.RatingFormRadio4 + .RatingFormStar4 {
+  cursor: pointer;
+}
+
+.RatingFormStar4-checked {
+  background-image: url("../images/star_rating_full.ico");
+  cursor: pointer;
+}
+.RatingFormStar4:hover {
+  background-image: url("../images/star_rating_full.ico");
+}
+/* Radio && Star 5 */
+.RatingFormRadio5 {
+  visibility: hidden;
+}
+.RatingFormRadio5 + .RatingFormStar4 {
+  cursor: pointer;
+}
+
+.RatingFormStar5-checked {
+  background-image: url("../images/star_rating_full.ico");
+  cursor: pointer;
+}
+.RatingFormStar5:hover {
+  background-image: url("../images/star_rating_full.ico");
+}

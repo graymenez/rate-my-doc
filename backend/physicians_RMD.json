@@ -1,0 +1,3072 @@
+{
+  "physicians": [
+    {
+      "first_name": "Brent",
+      "last_name": "Barker",
+      "title": "MD",
+      "specialty": "Anesthesiology",
+      "located": "Animas Anesthesia Consultants",
+      "street_name": "575 Rivergate Lane",
+      "city": "Durango",
+      "image_url": "https://wp02-media.cdn.ihealthspot.com/wp-content/uploads/sites/200/2018/04/03014706/barker.png",
+      "phone": "(970) 247-3537",
+      "physician_bio": "Dr. Brent Barker is a board-certified anesthesiologist. He earned his medical degree from Loma Linda University School of Medicine in 2010 and performed his residency training at Loma Linda University Medical Center."
+    },
+    {
+      "first_name": "George",
+      "last_name": "Baumchen",
+      "title": "PA-C",
+      "specialty": "Orthopedics - Spine",
+      "located": "Spine Colorado",
+      "street_name": "1 Mercado Street, Suite 200",
+      "city": "Durango",
+      "image_url": "https://wp02-media.cdn.ihealthspot.com/wp-content/uploads/sites/200/2018/03/03014718/baumchen.png",
+      "phone": "(970) 382-9500",
+      "physician_bio": "George and his wife have two children. He enjoys spending time with his family, rafting, camping, skiing, fishing, and sailing."
+    },
+    {
+      "first_name": "Tyson",
+      "last_name": "Bolinske",
+      "title": "MD",
+      "specialty": "Radiology",
+      "located": "Radiology Associates of Durango",
+      "street_name": "575 Rivergate Lane",
+      "city": "Durango",
+      "image_url": "https://wp02-media.cdn.ihealthspot.com/wp-content/uploads/sites/200/2018/04/03014704/tyson-bolinske.png",
+      "phone": "(970) 247-3537",
+      "physician_bio": "Dr. Tyson Bolinske graduated with honors from the University of North Dakota School of Medicine in Grand Forks in 2011. He completed his residency at the University of New Mexico in Albuquerque and a specialized musculoskeletal imaging fellowship at Harvard Medical School at Brigham and Womens Hospital in Boston, Massachusetts."
+    },
+    {
+      "first_name": "John",
+      "last_name": "Brach",
+      "title": "MD",
+      "specialty": "Ophthalmology",
+      "located": "Four Corners Eye Clinic",
+      "street_name": "575 Rivergate Lane, Suite 212",
+      "city": "Durango",
+      "image_url": "https://wp02-media.cdn.ihealthspot.com/wp-content/uploads/sites/200/2018/03/03014718/brach.png",
+      "phone": "(970) 259-2202",
+      "physician_bio": "Outside of Four Corners Eye Clinic, Dr. Brach enjoys snowboarding, hiking, jogging, and other activities that allow him to spend time in western Colorados natural beauty. He and his wife are the proud parents of a son and an adopted canine."
+    },
+    {
+      "first_name": "Nancy",
+      "last_name": "Briller",
+      "title": "MD",
+      "specialty": "Anesthesiology",
+      "located": "Animas Anesthesiology Associates",
+      "street_name": "575 Rivergate Lane",
+      "city": "Durango",
+      "image_url": "https://wp02-media.cdn.ihealthspot.com/wp-content/uploads/sites/200/2019/04/22203558/nancy-briller-img.png",
+      "phone": "970-247-3537",
+      "physician_bio": "Nancy Briller, MD, is a board-certified anesthesiologist who has been practicing medicine for more than 20 years. Dr. Briller received her medical degree from Penn State. She completed her general surgery residency at the University of Washington and her anesthesia residency at the University of California San Francisco."
+    },
+    {
+      "first_name": "Brian",
+      "last_name": "Butzen",
+      "title": "MD",
+      "specialty": "Orthopedics",
+      "located": "Animas Orthopedic Associates",
+      "street_name": "575 Rivergate Lane, Suite 105",
+      "city": "Durango",
+      "image_url": "https://wp02-media.cdn.ihealthspot.com/wp-content/uploads/sites/200/2019/04/22204023/brian-butzen.png",
+      "phone": "(970) 259-3020",
+      "physician_bio": "Dr. Butzens hobbies include downhill and Nordic skiing, mountain and road biking, trail running, and spending time outdoors with his wife and two young sons. He is happy to be practicing in Durango and is committed to providing quality medical care to his patients."
+    },
+    {
+      "first_name": "Rachel",
+      "last_name": "Cain",
+      "title": "MD",
+      "specialty": "ENT",
+      "located": "Southwestern Colorado Ear, Nose, and Throat Associates",
+      "street_name": "1 Mercado Street, Suite 205",
+      "city": "Durango",
+      "image_url": "https://wp02-media.cdn.ihealthspot.com/wp-content/uploads/sites/200/2018/04/03014710/cain.png",
+      "phone": "(970) 385-7272",
+      "physician_bio": "Dr. Cain has extensive training in the diagnosis and treatment of conditions related to the ears, nose, and throat in both children and adults. Her interests include nasal and endoscopic sinus surgery, tonsillectomies, ear surgery, hearing loss, thyroid and parathyroid surgery, cancer of the face or neck, and treatment of voice disorders."
+    },
+    {
+      "first_name": "Andrew",
+      "last_name": "Cook",
+      "title": "MD",
+      "specialty": "Gynecology and OBGYN",
+      "located": "Vital Health Endometriosis Center",
+      "street_name": "1199 Main Avenue #218",
+      "city": "Durango",
+      "image_url": "https://wp02-media.cdn.ihealthspot.com/wp-content/uploads/sites/200/2018/04/03014710/cook.png",
+      "phone": "(408) 358-2511",
+      "physician_bio": "Dr. Cook received his Doctor of Medicine from Baylor College of Medicine, Houston, Texas in 1985. He performed his internship and residency at the Department of Obstetrics and Gynecology at Wesley Medical Center, the University of Kansas School of Medicine in 1989. Dr. Cook graduated his fellowship from the Division of Reproductive Endocrinology and Infertility, Department of Gynecology and Obstetrics, The Johns Hopkins University School of Medicine, Baltimore, Maryland in 1991."
+    },
+    {
+      "first_name": "Nathan",
+      "last_name": "Daley",
+      "title": "MD",
+      "specialty": "Radiology",
+      "located": "Radiology Associates of Durango",
+      "street_name": "575 Rivergate Lane",
+      "city": "Durango",
+      "image_url": "https://wp02-media.cdn.ihealthspot.com/wp-content/uploads/sites/200/2018/03/03014716/daley.png",
+      "phone": "(970) 247-3537",
+      "physician_bio": "Dr. Daley received his medical degree from the University of Oklahoma College of Medicine in Oklahoma City, completed his diagnostic radiology residency at the University of Florida College of Medicine at Jacksonville, and performed a fellowship at Mayo Clinic Florida."
+    },
+    {
+      "first_name": "Jonathan",
+      "last_name": "DeLacey",
+      "title": "MD",
+      "specialty": "Radiology",
+      "located": "Radiology Associates of Durango",
+      "street_name": "575 Rivergate Lane",
+      "city": "Durango",
+      "image_url": "https://wp02-media.cdn.ihealthspot.com/wp-content/uploads/sites/200/2018/03/03014716/delacey.png",
+      "phone": "(970) 247-3537",
+      "physician_bio": "Dr. Jonathan DeLacey is a board-certified radiologist. He earned his medical degree from Wayne State University School of Medicine in Detroit, Michigan, completed his residency in diagnostic radiology at the University of New Mexico in Albuquerque in 2001, and performed a fellowship in neuroradiology. He has been practicing radiology in Durango ever since."
+    },
+    {
+      "first_name": "Brett",
+      "last_name": "Englund",
+      "title": "MD",
+      "specialty": "Radiology",
+      "located": "Radiology Associates of Durango",
+      "street_name": "575 Rivergate Lane",
+      "city": "Durango",
+      "image_url": "https://wp02-media.cdn.ihealthspot.com/wp-content/uploads/sites/200/2018/04/03014710/englund.png",
+      "phone": "(970) 247-3537",
+      "physician_bio": "Dr. Englund graduated from the University of Tennessee College of Medicine at Memphis in 1998 and has been practicing diagnostic radiology for 20 years."
+    },
+    {
+      "first_name": "Domenic",
+      "last_name": "Esposito",
+      "title": "MD",
+      "specialty": "Orthopedics",
+      "located": "Animas Orthopedic Associates",
+      "street_name": "575 Rivergate Lane, Suite 105",
+      "city": "Durango",
+      "image_url": "https://wp02-media.cdn.ihealthspot.com/wp-content/uploads/sites/200/2019/02/13192626/Esposito3-crop.png",
+      "phone": "970-259-3020",
+      "physician_bio": "In his free time, Dr. Esposito enjoys skiing, fishing, golfing, and hiking. He is excited to be joining Animas Orthopedic Associates and Animas Surgical Hospital and looks forward to providing high quality, individualized care to his patients."
+    },
+    {
+      "first_name": "Moss",
+      "last_name": "Fenberg",
+      "title": "MD",
+      "specialty": "Ophthalmology",
+      "located": "Southwest Eye Consultants",
+      "street_name": "270 East 8th Avenue, Suite N-101",
+      "city": "Durango",
+      "image_url": "https://wp02-media.cdn.ihealthspot.com/wp-content/uploads/sites/200/2018/03/03014716/fenberg.png",
+      "phone": "(970) 828-2200",
+      "physician_bio": "Dr. Fenberg and his wife are the parents of five daughters and a son. They love living, working, and raising their family in the beautiful Southwest. Dr. Fenberg’s non-clinical interests include backpacking, river rafting, racquet sports, history, and international relations."
+    },
+    {
+      "first_name": "Jennifer",
+      "last_name": "Forrest",
+      "title": "MD",
+      "specialty": "Orthopedics",
+      "located": "Rivergate Orthopedics and Animas Urology",
+      "street_name": "555 Rivergate Lane, Suite B1-106",
+      "city": "Durango",
+      "image_url": "https://wp02-media.cdn.ihealthspot.com/wp-content/uploads/sites/200/2018/03/03014716/forrest-jennifer.png",
+      "phone": "(970) 247-0508",
+      "physician_bio": "Dr. Jennifer Forrest graduated summa cum laude from Central Michigan University and earned her medical degree from Wayne State University School of Medicine in Detroit in 1998, graduating in the top 5% of class. She completed her orthopedic surgery residency at the University of California-Irvine in 2003. Dr. Forrest is board certified by the American Board of Orthopaedic Surgery."
+    },
+    {
+      "first_name": "Mark",
+      "last_name": "Forrest",
+      "title": "MD",
+      "specialty": "Urology",
+      "located": "Rivergate Orthopedics and Animas Urology",
+      "street_name": "555 Rivergate Lane, Suite B1-106",
+      "city": "Durango",
+      "image_url": "https://wp02-media.cdn.ihealthspot.com/wp-content/uploads/sites/200/2018/03/03014716/forrest-mark.png",
+      "phone": "(970) 247-0508",
+      "physician_bio": "Dr. Mark Forrest earned his undergraduate degree from the University of California at Berkley in 1988, followed by his medical degree from the University of California Irvine College of Medicine in 1995. He completed his residency in urology surgery at the University of Irvine Medical Center in 2001. Dr. Forrest is board certified by the American Board of Urology."
+    },
+    {
+      "first_name": "Jeunesse",
+      "last_name": "Fredrickson",
+      "title": "MD",
+      "specialty": "Gynecology and OBGYN",
+      "located": "Four Corners OBGYN",
+      "street_name": "1 Mercado Street, Suite 105",
+      "city": "Durango",
+      "image_url": "https://wp02-media.cdn.ihealthspot.com/wp-content/uploads/sites/200/2021/12/31195002/JF.png",
+      "phone": "(970) 382-8800",
+      "physician_bio": "It has always been Dr. Fredrickson’s dream to return home to Durango. She loves the ideal climate and magical combination of mountains, deserts and rivers. In her free time, Jeunesse enjoys exploring the Colorado Plateau with her husband, Blake, and daughters, Anya and Siena."
+    },
+    {
+      "first_name": "Casey",
+      "last_name": "Gardner",
+      "title": "PA-C",
+      "specialty": "Orthopedics",
+      "located": "Animas Orthopedic Associates",
+      "street_name": "575 Rivergate Lane, Suite 105",
+      "city": "Durango",
+      "image_url": "https://wp02-media.cdn.ihealthspot.com/wp-content/uploads/sites/200/2018/04/03014708/gardner.png",
+      "phone": "(970) 259-3020",
+      "physician_bio": "She loves Durango and all it has to offer. She the enjoys the outdoors, skiing, hiking, and biking. Her great passion is travel."
+    },
+    {
+      "first_name": "Susan",
+      "last_name": "Ghani",
+      "title": "MD",
+      "specialty": "Internal Medicine",
+      "located": "Animas Internal Medicine",
+      "street_name": "575 Rivergate Lane, Suite 204",
+      "city": "Durango",
+      "image_url": "https://wp02-media.cdn.ihealthspot.com/wp-content/uploads/sites/200/2018/03/03014722/neadeau.png",
+      "phone": "(970) 403-1340",
+      "physician_bio": "Dr. Ghani takes satisfaction in helping patients understand options and take control of their own health. A member of the Durango community, she enjoys mountain biking, skiing, and spending time with her two daughters."
+    },
+    {
+      "first_name": "Lance",
+      "last_name": "Hamlin",
+      "title": "PA-C",
+      "specialty": "Orthopedics - Spine",
+      "located": "Spine Colorado",
+      "street_name": "1 Mercado Street, Suite 200",
+      "city": "Durango",
+      "image_url": "https://wp02-media.cdn.ihealthspot.com/wp-content/uploads/sites/200/2018/03/03014715/hamlin.png",
+      "phone": "(970) 382-9500",
+      "physician_bio": "Lance and his wife have two children. He enjoys the abundant camping, hiking, running, mountain biking, and winter sports with his family here in the Durango area."
+    },
+    {
+      "first_name": "Gareth",
+      "last_name": "Hammond",
+      "title": "MD",
+      "specialty": "Orthopedics",
+      "located": "Animas Orthopedic Associates",
+      "street_name": "575 Rivergate Lane, Suite 105",
+      "city": "Durango",
+      "image_url": "https://wp02-media.cdn.ihealthspot.com/wp-content/uploads/sites/200/2018/04/03014706/gareth-hammond.png",
+      "phone": "(970) 259-3020",
+      "physician_bio": "Prior to joining Animas Orthopedic Associates, Dr. Hammond was in private practice serving the Long Beach and Seal Beach communities in southern California. In his practice, he enjoyed caring for athletes as team physician for the California State University Long Beach Athletic Department and the Long Beach Armada Baseball Team. His hobbies include skiing, mountain biking, golf, running, and traveling with his wife and three children."
+    },
+    {
+      "first_name": "Sara",
+      "last_name": "Haug",
+      "title": "MD, PhD",
+      "specialty": "Ophthalmology",
+      "located": "Southwest Eye Consultants",
+      "street_name": "270 East 8th Avenue, Suite N-101",
+      "city": "Durango",
+      "image_url": "https://wp02-media.cdn.ihealthspot.com/wp-content/uploads/sites/200/2018/03/03014715/haug.png",
+      "phone": "(970) 828-2200",
+      "physician_bio": "Dr. Haug and her husband have a son and enjoy spending time in the outdoors hiking, biking, skiing, or canoeing as well as reading, playing piano, and traveling."
+    },
+    {
+      "first_name": "Robert",
+      "last_name": "Hill",
+      "title": "PA-C",
+      "specialty": "Urgent Care",
+      "located": "Animas Urgent Care",
+      "street_name": "450 S. Camino del Rio, Suite 106",
+      "city": "Durango",
+      "image_url": "https://wp02-media.cdn.ihealthspot.com/wp-content/uploads/sites/200/2018/04/03014705/rob-hill.png",
+      "phone": "(970) 385-2388",
+      "physician_bio": "Between Nederland and Durango, Rob lived briefly in Saipan, a small tropical island in the Pacific. Rob lives in Durango with his wife, teenage son, and terrier. He spends his free time mountain-biking, skiing, and paddleboarding."
+    },
+    {
+      "first_name": "Russell",
+      "last_name": "Hill",
+      "title": "MD",
+      "specialty": "Emergency Medicine",
+      "located": "Animas Surgical Hospital",
+      "street_name": "575 Rivergate Lane",
+      "city": "Durango",
+      "image_url": "https://wp02-media.cdn.ihealthspot.com/wp-content/uploads/sites/200/2018/03/03014714/hill-russell.png",
+      "phone": "(970) 385-2364",
+      "physician_bio": "Following his residency, Dr. Hill worked in emergency medicine at San Juan Regional Medical Center in Farmington, New Mexico for 15 years. In 2005, he moved to Durango and joined Animas Surgical Hospital’s emergency department."
+    },
+    {
+      "first_name": "Nicholas",
+      "last_name": "Hugentobler",
+      "title": "DPM",
+      "specialty": "Podiatry",
+      "located": "Southwest Foot and Ankle",
+      "street_name": "270 E. 8th Avenue, Suite N-102",
+      "city": "Durango",
+      "image_url": "https://wp02-media.cdn.ihealthspot.com/wp-content/uploads/sites/200/2018/03/03014714/hugentobler.png",
+      "phone": "970-235-0780",
+      "physician_bio": "When he isn’t practicing podiatry, Dr. Hugentobler enjoys a wide variety of outdoor activities while spending time with his wife and kids. They like to go on all kinds of adventures including dirt biking, hiking, camping, and fishing."
+    },
+    {
+      "first_name": "Jay",
+      "last_name": "Johnson",
+      "title": "MD",
+      "specialty": "Radiology",
+      "located": "Radiology Associates of Durango",
+      "street_name": "575 Rivergate Lane",
+      "city": "Durango",
+      "image_url": "https://wp02-media.cdn.ihealthspot.com/wp-content/uploads/sites/200/2018/04/03014709/johnson.png",
+      "phone": "(970) 247-3537",
+      "physician_bio": "Dr. Jay Johnson is a diagnostic radiology specialist. He graduated from the University of Colorado School of Medicine in 2002."
+    },
+    {
+      "first_name": "Jay",
+      "last_name": "Mathers",
+      "title": "DO",
+      "specialty": "Emergency Medicine",
+      "located": "Animas Surgical Hospital",
+      "street_name": "575 Rivergate Lane",
+      "city": "Durango",
+      "image_url": "https://wp02-media.cdn.ihealthspot.com/wp-content/uploads/sites/200/2018/03/03014723/mathers.png",
+      "phone": "(970) 385-2364",
+      "physician_bio": "Dr. Mathers has been a ski patrolman, Outward Bound instructor, and high altitude researcher, and he has completed numerous ascents and rescues in Denali, Alaska. In addition to his duties as an emergency medicine physician at Animas Surgical Hospital, Dr. Mathers teaches avalanche and rescue training to other medical professionals. He lives with his wife and two sons in Durango."
+    },
+    {
+      "first_name": "Patrick",
+      "last_name": "McLaughlin",
+      "title": "MD",
+      "specialty": "Pain Management - Spine",
+      "located": "Animas Spine",
+      "street_name": "575 Rivergate Lane, Suite 109",
+      "city": "Durango",
+      "image_url": "https://wp02-media.cdn.ihealthspot.com/wp-content/uploads/sites/200/2018/04/03014705/patrick-mclaughlin.png",
+      "phone": "(970) 382-8292",
+      "physician_bio": "In his off time, Dr. McLaughlin enjoys adventuring with his wife and two children, exploring all that the Four Corners region has to offer."
+    },
+    {
+      "first_name": "Patrick",
+      "last_name": "Messerli",
+      "title": "MD",
+      "specialty": "Radiology",
+      "located": "Radiology Associates of Durango",
+      "street_name": "575 Rivergate Lane",
+      "city": "Durango",
+      "image_url": "https://wp02-media.cdn.ihealthspot.com/wp-content/uploads/sites/200/2018/04/03014709/messerli.png",
+      "phone": "(970) 247-3537",
+      "physician_bio": "Dr. Patrick Messerli received his medical degree from the Sanford School of Medicine at the University of South Dakota in 1989."
+    },
+    {
+      "first_name": "Eric",
+      "last_name": "Meyer",
+      "title": "MD",
+      "specialty": "Ophthalmology",
+      "located": "Four Corners Eye Clinic",
+      "street_name": "575 Rivergate Lane, Suite 212",
+      "city": "Durango",
+      "image_url": "https://wp02-media.cdn.ihealthspot.com/wp-content/uploads/sites/200/2018/03/03014722/meyer.png",
+      "phone": "(970) 259-2202",
+      "physician_bio": "Dr. Meyer lives in Durango with his wife, two children, and two golden retrievers. In his spare time, he enjoys fishing, hunting, hiking, golf, and skiing."
+    },
+    {
+      "first_name": "Josette",
+      "last_name": "Miller",
+      "title": "DO",
+      "specialty": "Internal Medicine",
+      "located": "Animas Internal Medicine",
+      "street_name": "575 Rivergate Lane, Suite 204",
+      "city": "Durango",
+      "image_url": "https://wp02-media.cdn.ihealthspot.com/wp-content/uploads/sites/200/2019/04/24032832/josette-miller-website.png",
+      "phone": "970-403-1340",
+      "physician_bio": "You can schedule an appointment with Dr. Miller by calling 970-403-1340."
+    },
+    {
+      "first_name": "Ryan",
+      "last_name": "Naffziger",
+      "title": "MD",
+      "specialty": "Plastic Surgery",
+      "located": "Animas Plastic Surgery",
+      "street_name": "175 Mercado Street, Suite 111",
+      "city": "Durango",
+      "image_url": "https://wp02-media.cdn.ihealthspot.com/wp-content/uploads/sites/200/2018/03/03014722/naffziger.png",
+      "phone": "(970) 828-1199",
+      "physician_bio": "Dr. Naffziger is also known for reconstruction of facial and body deformities for congenital, traumatic, and cancer disorders, all aspects of hand surgery, cleft lip and palate repairs, and burn care. Dr. Naffziger has performed cleft lip and palate as well as other congenital deformity repairs abroad through the charitable organization Operation Smile."
+    },
+    {
+      "first_name": "Douglas",
+      "last_name": "Orndorff",
+      "title": "MD",
+      "specialty": "Orthopedics - Spine",
+      "located": "Spine Colorado",
+      "street_name": "1 Mercado Street, Suite 200",
+      "city": "Durango",
+      "image_url": "https://wp02-media.cdn.ihealthspot.com/wp-content/uploads/sites/200/2018/03/03014722/orndorff.png",
+      "phone": "(970) 382-9500",
+      "physician_bio": "A passionate golfer and avid outdoorsman, Dr. Orndorff enjoys skiing, golf, mountain biking, cycling, and fly-fishing. He and his wife have three children: Ava, Jackson, and Alex."
+    },
+    {
+      "first_name": "Megan",
+      "last_name": "Palmer",
+      "title": "MD",
+      "specialty": "Gynecology and OBGYN",
+      "located": "Four Corners OBGYN",
+      "street_name": "1 Mercado Street, Suite 105",
+      "city": "Durango",
+      "image_url": "https://wp02-media.cdn.ihealthspot.com/wp-content/uploads/sites/200/2021/12/31195112/Megan.png",
+      "phone": "(970) 382-8800",
+      "physician_bio": "Dr. Palmer’s love of adventure and travel took her to New Zealand where she practiced OB/GYN medicine for a year before returning to Colorado to join Four Corners OB/GYN. She loves living in Durango, and spends her free time skiing, hiking, running, mountain biking, reading and painting."
+    },
+    {
+      "first_name": "Brinceton",
+      "last_name": "Phipps",
+      "title": "MD",
+      "specialty": "Orthopedics",
+      "located": "Animas Orthopedic Associates",
+      "street_name": "575 Rivergate Lane, Suite 105",
+      "city": "Durango",
+      "image_url": "https://wp02-media.cdn.ihealthspot.com/wp-content/uploads/sites/200/2018/03/03014721/phipps.png",
+      "phone": "(970) 259-3020",
+      "physician_bio": "Raised in Austin, Texas, Dr. Phipps earned his undergraduate degree at the University of Texas-Austin, performed his medical training at the University of Texas-Houston, and completed his orthopedic surgery residency training the University of California-Irvine. Dr. Phipps spent his first years in private practice in Mission Viejo, California at the Level 2 Regional Trauma Center where he served as an affiliated academic teacher for orthopedic residents at the University of California-Irvine. He now resides in Durango where he has been in private practice since 2009. Dr. Phipps serves as president of Animas Orthopedic Associates, and he is a board member of Animas Surgical Hospital. He is also a member of the American Association of Hip and Knee Surgeons and the American Academy of Orthopedic Surgeons."
+    },
+    {
+      "first_name": "Angela",
+      "last_name": "Pinkerton",
+      "title": "DMD",
+      "specialty": "Dentistry",
+      "located": "Durango Kids Pediatric Dentistry",
+      "street_name": "20 Pioneer Ave.",
+      "city": "Durango",
+      "image_url": "https://wp02-media.cdn.ihealthspot.com/wp-content/uploads/sites/200/2018/03/03014721/pinkerton.png",
+      "phone": "(970) 259-0600",
+      "physician_bio": "Dr. Pinkerton has three young children. She spends most of her time with her family, entertaining, snowboarding, camping, and enjoying regional artwork and music festivals."
+    },
+    {
+      "first_name": "Nicole",
+      "last_name": "Pinkerton",
+      "title": "MD",
+      "specialty": "Gynecology and OBGYN",
+      "located": "Specialists in Women's Care",
+      "street_name": "555 S. Camino del Rio, Suite B2",
+      "city": "Durango",
+      "image_url": "https://wp02-media.cdn.ihealthspot.com/wp-content/uploads/sites/200/2018/03/03014721/pinkerton2.png",
+      "phone": "(970) 259-0701",
+      "physician_bio": "Married with two active boys, Dr. Pinkerton is grateful that she is able to spend time with her family in this beautiful place."
+    },
+    {
+      "first_name": "James",
+      "last_name": "Pitts",
+      "title": "PA-C",
+      "specialty": "Urgent Care",
+      "located": "Animas Urgent Care",
+      "street_name": "450 S. Camino del Rio, Suite 106",
+      "city": "Durango",
+      "image_url": "https://wp02-media.cdn.ihealthspot.com/wp-content/uploads/sites/200/2018/04/03014705/james-pitts.png",
+      "phone": "(970) 385-2388",
+      "physician_bio": "Jim also served as a combat medic in the army and as a physician assistant (PA) in both Iraq and Afghanistan. After graduating cum laude from the University of Oklahoma College of Medicine, Jim earned a masters degree from the University of Nebraska College of Medicine and completed an academic PA fellowship at the Medical University of South Carolina."
+    },
+    {
+      "first_name": "Sejal",
+      "last_name": "Quayle",
+      "title": "MD",
+      "specialty": "Urology",
+      "located": "La Plata Urological Associates",
+      "street_name": "316 Sawyer Dr.",
+      "city": "Durango",
+      "image_url": "https://wp02-media.cdn.ihealthspot.com/wp-content/uploads/sites/200/2018/09/03014641/Quayle.png",
+      "phone": "970-426-4222",
+      "physician_bio": "Dr. Sejal Quayle has been practicing medicine in Durango for more than 10 years. Dr. Quayle graduated magna cum laude from Yale University and received her medical degree from Duke University. She did her residency training at Washington University School of Medicine in St. Louis, where she served as Chief Resident from 2004-2005. Dr. Quayle offers evaluation and treatment for the full spectrum of urological disorders for men and women, with a special interest in minimally invasive approaches to urological conditions. Dr. Quayle and her husband have four young children and love being a part of the Durango community."
+    },
+    {
+      "first_name": "Amber",
+      "last_name": "Reiss-Holt",
+      "title": "MD",
+      "specialty": "General Surgery",
+      "located": "Pagosa Medical Group",
+      "street_name": "27B Talisman Drive, Suite 3",
+      "city": "Pagosa Springs",
+      "image_url": "https://wp02-media.cdn.ihealthspot.com/wp-content/uploads/sites/200/2018/03/03014721/reiss-holt.png",
+      "phone": "(970) 372-0456",
+      "physician_bio": "Co-owner of Pagosa Medical Group since 2011 with her husband, Dr. Dave Shaeffer, Dr. Reiss-Holt performs breast surgery and breast cancer specialist care. She also provides ongoing care for cancer survivors as well as primary care, women’s health care, and compassionate end-of-life care. In addition, Dr. Reiss-Holt is the medical director for urgent care at Pagosa Medical Group."
+    },
+    {
+      "first_name": "Linda",
+      "last_name": "Rose",
+      "title": "MD, PhD",
+      "specialty": "Ophthalmology",
+      "located": "Four Corners Eye Clinic",
+      "street_name": "575 Rivergate Lane, Suite 212",
+      "city": "Durango",
+      "image_url": "https://wp02-media.cdn.ihealthspot.com/wp-content/uploads/sites/200/2019/02/13211504/rose.png",
+      "phone": "970-259-2202",
+      "physician_bio": "-Refractive surgery"
+    },
+    {
+      "first_name": "Jonathan",
+      "last_name": "Rudolf",
+      "title": "MD",
+      "specialty": "Urgent Care",
+      "located": "Animas Surgical Hospital",
+      "street_name": "450 S. Camino del Rio",
+      "city": "Durango",
+      "image_url": "https://wp02-media.cdn.ihealthspot.com/wp-content/uploads/sites/200/2019/02/07221222/blur2.png",
+      "phone": "970-385-2388",
+      "physician_bio": "Dr. Jonathan Rudolf is an emergency physician who has been practicing for more than 28 years. Dr. Rudolf received his Doctor of Medicine from Temple University in 1991 and completed his residency at SUNY Stony Brook. He has been practicing in the Four Corners region since 2004."
+    },
+    {
+      "first_name": "Dave",
+      "last_name": "Shaeffer",
+      "title": "MD, MPH",
+      "specialty": "General Surgery",
+      "located": "Pagosa Medical Group",
+      "street_name": "27B Talisman Drive, Suite 3",
+      "city": "Pagosa Springs",
+      "image_url": "https://wp02-media.cdn.ihealthspot.com/wp-content/uploads/sites/200/2018/03/03014720/shaeffer.png",
+      "phone": "(970) 372-0456",
+      "physician_bio": "Co-owner of Pagosa Medical Group since 2011 with his wife, Dr. Amber Reiss-Holt, Dr. Shaeffer also served as chief of staff at Pagosa Springs Medical Center from 2013-2015."
+    },
+    {
+      "first_name": "David",
+      "last_name": "Silva",
+      "title": "DO",
+      "specialty": "Pain Management - Spine",
+      "located": "Animas Spine",
+      "street_name": "575 Rivergate Lane, Suite 109",
+      "city": "Durango",
+      "image_url": "https://wp02-media.cdn.ihealthspot.com/wp-content/uploads/sites/200/2018/03/03014720/silva.png",
+      "phone": "(970) 382-8292",
+      "physician_bio": "Originally from Monte Vista, Colorado, Dr. Silva enjoys fishing, hunting, photography, and family."
+    },
+    {
+      "first_name": "Kennard",
+      "last_name": "Stradling",
+      "title": "MD",
+      "specialty": "Emergency Medicine",
+      "located": "Animas Surgical Hospital",
+      "street_name": "575 Rivergate Lane",
+      "city": "Durango",
+      "image_url": "https://wp02-media.cdn.ihealthspot.com/wp-content/uploads/sites/200/2018/03/03014720/stradling.png",
+      "phone": "(970) 385-2364",
+      "physician_bio": "Dr. Stradling is also the founder and president of a multidisciplinary business providing San Juan County with occupational medicine, urgent care, chiropractic services, and wellness services."
+    },
+    {
+      "first_name": "Karyn",
+      "last_name": "Teel",
+      "title": "MD",
+      "specialty": "Ophthalmology",
+      "located": "Four Corners Eye Clinic",
+      "street_name": "575 Rivergate Lane, Suite 212",
+      "city": "Durango",
+      "image_url": "https://wp02-media.cdn.ihealthspot.com/wp-content/uploads/sites/200/2018/03/03014720/teel.png",
+      "phone": "(970) 259-2202",
+      "physician_bio": "Dr. Teel is originally from Atlanta, Georgia. Outside of work, she likes to bike, scuba dive, river raft, and explore the great outdoors with her dogs, Dre and Maya, and her husband, Adam."
+    },
+    {
+      "first_name": "Philip",
+      "last_name": "Wiley",
+      "title": "MD",
+      "specialty": "ENT",
+      "located": "Durango ENT",
+      "street_name": "1165 S. Camino del Rio",
+      "city": "Durango",
+      "image_url": "https://wp02-media.cdn.ihealthspot.com/wp-content/uploads/sites/200/2018/04/03014708/wiley.png",
+      "phone": "(970) 247-2920",
+      "physician_bio": "Board Member: The Durango Double"
+    },
+    {
+      "first_name": "Jeffrey",
+      "last_name": "Williams",
+      "title": "MD",
+      "specialty": "Plastic Surgery",
+      "located": "Peak Rejuvenation",
+      "street_name": "575 Rivergate Lane, Suite 205",
+      "city": "Durango",
+      "image_url": "https://wp02-media.cdn.ihealthspot.com/wp-content/uploads/sites/200/2018/03/03014719/williams.png",
+      "phone": "(970) 259-5990",
+      "physician_bio": "Board certified in plastic and reconstructive surgery, Dr. Williams delivers consistent, positive outcomes for his patients. He is also known for his genuine empathy and demonstrates an embracing, kind bedside manner. He has written many publications and delivered numerous presentations on various plastic surgery topics."
+    },
+    {
+      "first_name": "Joshua",
+      "last_name": "Zastrocky",
+      "title": "MD",
+      "specialty": "Ophthalmology",
+      "located": "Four Corners Eye Clinic",
+      "street_name": "575 Rivergate Lane, Suite 212",
+      "city": "Durango",
+      "image_url": "https://wp02-media.cdn.ihealthspot.com/wp-content/uploads/sites/200/2018/03/03014719/zastrocky.png",
+      "phone": "(970) 259-2202",
+      "physician_bio": "When he’s not in the office, Dr. Zastrocky enjoys hiking, biking, running, snowboarding and spending time with his wife and their seven children."
+    },
+    {
+      "first_name": "Kayse",
+      "last_name": "Lake",
+      "title": "DPM",
+      "specialty": "Podiatry",
+      "located": "Four Corners Foot & Ankle",
+      "street_name": "1266 Escalante Drive, Suite 201",
+      "city": "Durango",
+      "image_url": "https://wp02-media.cdn.ihealthspot.com/wp-content/uploads/sites/200/2018/03/03014714/lake.png",
+      "phone": "970-259-5303",
+      "physician_bio": "When not working, Dr. Lake enjoys the outdoors with his wife, Ashley, and 5 children (4 girls and 1 boy)."
+    },
+    {
+      "first_name": "Jenny L. Abernathy, FNP",
+      "specialty": "Urgent Care",
+      "located": "Urgent Care Center - Gunbarrel",
+      "street_name": "6685 Gunpark Drive, Suite 102\nBoulder, CO, 80301",
+      "phone": "303-415-5199",
+      "image_url": "https://www.bch.org/cms/thumbnails/00/400x500//images/providers/JennyAbernathy_UrgentCare.jpg",
+      "physician_bio": "Jenny Abernathy is a Family Nurse Practitioner who has cared for patients in urgent care and college settings for the last 17 years. She is a graduate of the University of Pennsylvania and University of North Carolina at Chapel Hill."
+    },
+    {
+      "first_name": "Katherine Akers, MD",
+      "specialty": "Nephrology",
+      "located": "Western Nephrology",
+      "street_name": "8410 Decatur Street, Suite 100\nWestminster, CO, 80031",
+      "phone": "303-430-7000",
+      "image_url": "https://www.bch.org/cms/thumbnails/00/400x500//images/providers/KatieAkers_Nephrology.jpg"
+    },
+    {
+      "first_name": "Jeska Albuisson, MD",
+      "specialty": "Hospital Medicine",
+      "located": "BCH-Hospital Medicine Services",
+      "street_name": "4747 Arapahoe Ave.\nBoulder, CO, 80303",
+      "phone": "303-415-7610",
+      "image_url": "https://www.bch.org/cms/thumbnails/00/400x500//images/providers/Albuisson_BCMS.jpg"
+    },
+    {
+      "first_name": "Madison Amos, PA-C",
+      "located": "Boulder Valley Center for Dermatology",
+      "street_name": "1140 W. South Boulder Road, Suite 202\nLafayette, CO, 80026",
+      "phone": "303-604-1444",
+      "image_url": "https://www.bch.org/cms/thumbnails/00/400x500//images/assets/providerPlaceholderFemale.jpg"
+    },
+    {
+      "first_name": "Ivy M. Andersen, MD",
+      "specialty": "Sleep Medicine",
+      "located": "Colorado Sleep Institute",
+      "street_name": "4895 Riverbend Road, Suite A\nBoulder, CO, 80301",
+      "phone": "720-279-9098",
+      "image_url": "https://www.bch.org/cms/thumbnails/00/400x500//images/providers/Ivy-Anderson-MD-REM-Sleep-Medicine.jpg"
+    },
+    {
+      "first_name": "Charles C. Anderson, MD",
+      "specialty": "Urologists",
+      "located": "Colorado Urology",
+      "street_name": "90 Health Park Drive, Suite 340\nLouisville, CO, 80027",
+      "phone": "303-444-9000",
+      "image_url": "https://www.bch.org/cms/thumbnails/00/400x500//images/providers/dr_cragin_anderson-MD-Urology_250x250.jpg"
+    },
+    {
+      "first_name": "Maria Anderson, MD",
+      "specialty": "Electrophysiology",
+      "located": "Boulder Heart at Anderson Medical Center",
+      "street_name": "4743 Arapahoe Avenue\nBoulder, CO, 80303",
+      "phone": "303-442-2395",
+      "image_url": "https://www.bch.org/cms/thumbnails/00/400x500//images/physicians/maria-anderson.jpg"
+    },
+    {
+      "first_name": "David J. Andorsky, MD",
+      "specialty": "Oncology",
+      "located": "Rocky Mountain Cancer Centers",
+      "street_name": "4715 Arapahoe Avenue\nBoulder, CO, 80303",
+      "phone": "303-385-2000",
+      "image_url": "https://www.bch.org/cms/thumbnails/00/400x500//images/providers/Andorsky_David_Largeweb-RMCC.jpg"
+    },
+    {
+      "first_name": "Daniel Andreoli, MD",
+      "specialty": "Nephrology",
+      "located": "Western Nephrology",
+      "street_name": "5265 Vance Street, Suite 200\nArvada, CO, 80002",
+      "phone": "303-232-3366",
+      "image_url": "https://www.bch.org/cms/thumbnails/00/400x500//images/providers/DanielAndreoli_Nephrology.jpg"
+    },
+    {
+      "first_name": "Karen M. Andrews, MD",
+      "specialty": "Allergy and Immunology",
+      "located": "Boulder Medical Center",
+      "street_name": "2750 Broadway\nBoulder, CO, 80304",
+      "phone": "303-440-3000",
+      "image_url": "https://www.bch.org/cms/thumbnails/00/400x500//images/providers/andrews_karen_md_boulder_medical_center1-225x300.jpg"
+    },
+    {
+      "first_name": "Peter Andrews, MD",
+      "specialty": "Ophthalmology",
+      "located": "Eye Care Center of Northern Colorado",
+      "street_name": "3000 Center Green Drive, Suite 250\nBoulder, CO, 80305",
+      "phone": "303-772-3300",
+      "image_url": "https://www.bch.org/cms/thumbnails/00/400x500//images/providers/Dr.-Andrews-opthamology.jpg"
+    },
+    {
+      "first_name": "Jose M. Angel, MD",
+      "specialty": "Anesthesiology",
+      "located": "BVA/BCH Surgery Dept.",
+      "street_name": "4747 Arapahoe Avenue\nBoulder, CO, 80303",
+      "phone": "866-491-1244",
+      "image_url": "https://www.bch.org/cms/thumbnails/00/400x500//images/providers/Jose-Angel-MD.png"
+    },
+    {
+      "first_name": "Kristina A. Anton-Schnell, MD",
+      "specialty": "Internal Medicine",
+      "located": "Spruce Street Internal Medicine",
+      "street_name": "2575 Spruce Street\nBoulder, CO, 80302",
+      "phone": "303-415-3875",
+      "image_url": "https://www.bch.org/cms/thumbnails/00/400x500//images/providers/Anton-Schnell_BCMS.jpg"
+    },
+    {
+      "first_name": "Kristen Antony, NP",
+      "located": "Northwest Family Medicine",
+      "street_name": "3 Superior Drive\nSuperior, CO, 80027",
+      "phone": "303-415-8940",
+      "image_url": "https://www.bch.org/cms/thumbnails/00/400x500//images/providers/Kristen-Antony.jpg"
+    },
+    {
+      "first_name": "David G. Apple, DO",
+      "specialty": "Family Medicine",
+      "located": "Northwest Family Medicine",
+      "street_name": "3 Superior Drive, Suite 100B\nSuperior, CO, 80027",
+      "phone": "303-415-8940",
+      "image_url": "https://www.bch.org/cms/thumbnails/00/400x500//images/providers/Apple_BCMS.jpg"
+    },
+    {
+      "first_name": "Jaclyn H. Arends, MD",
+      "specialty": "Rehabilitation",
+      "located": "Colorado Center for Spine Medicine",
+      "street_name": "4820 Riverbend Rd, Second Floor\nBoulder, CO, 80301",
+      "phone": "303-444-2955",
+      "image_url": "https://www.bch.org/cms/thumbnails/00/400x500//images/providers/JackieArends_Rehab[1].jpg"
+    },
+    {
+      "first_name": "Rishi Ariola-Tirella, MD",
+      "specialty": "Hospital Medicine",
+      "located": "BCH-Hospital Medicine Services",
+      "street_name": "4747 Arapahoe Avenue\nBoulder, CO, 80303",
+      "phone": "303-415-7610",
+      "image_url": "https://www.bch.org/cms/thumbnails/00/400x500//images/providers/RishiARIOLA-TIRELLA_Hospitalist.png"
+    },
+    {
+      "first_name": "Kevin T. Arnold, MD",
+      "specialty": "Anesthesiology",
+      "located": "BVA/BCH Surgery Dept.",
+      "street_name": "4747 Arapahoe Avenue\nBoulder, CO, 80303",
+      "phone": "866-491-1244",
+      "image_url": "https://www.bch.org/cms/thumbnails/00/400x500//images/providers/Dr.-Kevin-Arnold.jpg"
+    },
+    {
+      "first_name": "Amanda O. Babcock, MD",
+      "specialty": "Family Medicine",
+      "located": "Northwest Family Medicine",
+      "street_name": "3 Superior Drive\nSuperior, CO, 80027",
+      "phone": "303-415-8940",
+      "image_url": "https://www.bch.org/cms/thumbnails/00/400x500//images/physicians/BabcockA-Photo.jpeg"
+    },
+    {
+      "first_name": "Brian N. Bailey, MD",
+      "specialty": "Dermatology",
+      "located": "Bailey Dermatology",
+      "street_name": "335 South Boulder Road, Suite 3\nLouisville, CO, 80027",
+      "phone": "303-666-8288",
+      "image_url": "https://www.bch.org/cms/thumbnails/00/400x500//images/providers/Brian-Bailey-MD-Dermatology.jpg"
+    },
+    {
+      "first_name": "Katrina M. Bailey, PA-C",
+      "specialty": "Urologists",
+      "located": "Colorado Urology",
+      "street_name": "300 Exempla Circle, Suite 250\nLafayette, CO, 80026",
+      "phone": "303-444-9000",
+      "image_url": "https://www.bch.org/cms/thumbnails/00/400x500//images/providers/K.-Bailey-Headshot.JPG"
+    },
+    {
+      "first_name": "Allison Ballard, NP",
+      "specialty": "Urgent Care",
+      "located": "Urgent Care Center - Gunbarrel",
+      "street_name": "6685 Gunpark Drive, Suite 102\nBoulder, CO, 80301",
+      "phone": "303-415-5199",
+      "image_url": "https://www.bch.org/cms/thumbnails/00/400x500/images/assets/providerPlaceholderFemale.jpg"
+    },
+    {
+      "first_name": "Moni Banerjee",
+      "specialty": "Cardiology",
+      "located": "Boulder Heart at Anderson Medical Center",
+      "street_name": "4743 Arapahoe Avenue\nBoulder, CO, 80303",
+      "phone": "303-442-2395",
+      "image_url": "https://www.bch.org/cms/thumbnails/00/400x500//images/providers/banerjee004_157x140.jpg"
+    },
+    {
+      "first_name": "Francisco Javier Barajas, MD, FACP",
+      "specialty": "Internal Medicine",
+      "located": "Erie Primary Care",
+      "street_name": "101 Erie Parkway\nErie, CO, 80516",
+      "phone": "303-415-5813",
+      "image_url": "https://www.bch.org/cms/thumbnails/00/400x500//images/providers/dr-barajas-NEW.jpg"
+    },
+    {
+      "first_name": "Anthony Barber, DO",
+      "specialty": "Sleep Medicine",
+      "located": "Colorado Sleep Institute",
+      "street_name": "4895 Riverbend Road, Suite A\nBoulder, CO, 80301",
+      "phone": "720-279-9098",
+      "image_url": "https://www.bch.org/cms/thumbnails/00/400x500//images/providers/anthony.jpg"
+    },
+    {
+      "first_name": "Richard Barnett, DO",
+      "specialty": "Internal Medicine",
+      "located": "Frontier Internal Medicine",
+      "street_name": "2101 Ken Pratt Boulevard\nLongmont, CO, 80501",
+      "phone": "303-415-4155",
+      "image_url": "https://www.bch.org/cms/thumbnails/00/400x500//images/physicians/richard-barnett-v2.jpg"
+    },
+    {
+      "first_name": "Kara D. Beasley, DO",
+      "specialty": "Neurosurgery",
+      "located": "Boulder Neurosurgical and Spine Associates of BCH",
+      "street_name": "4743 Arapahoe Ave.\nBoulder, CO, 80303",
+      "phone": "303-938-5700",
+      "image_url": "https://www.bch.org/cms/thumbnails/00/400x500//images/providers/Kara-Beasley_Neurosurgery.jpg"
+    },
+    {
+      "first_name": "Akin Beckley, MD",
+      "specialty": "Surgery, General",
+      "located": "Alpine Surgical",
+      "street_name": "4743 Arapahoe Avenue, Suite 102\nBoulder, CO, 80303",
+      "phone": "303-449-3642",
+      "image_url": "https://www.bch.org/cms/thumbnails/00/400x500//images/providers/akin-beckley-MD-GEN-SURGEON.jpg"
+    },
+    {
+      "first_name": "Simranjit Bedi, DO",
+      "specialty": "Gastroenterology",
+      "located": "Gastroenterology of the Rockies - Boulder",
+      "street_name": "1755 48th Street, Suite 100\nBoulder, CO, 80301",
+      "phone": "303-604-5000",
+      "image_url": "https://www.bch.org/cms/thumbnails/00/400x500//images/physicians/Sim-Bedi.png"
+    },
+    {
+      "first_name": "Matthew Belton, MD",
+      "specialty": "Orthopedics",
+      "located": "CU Sports Medicine & Performance Center",
+      "street_name": "2150 Stadium Drive, 2nd Floor\nBoulder, CO, 80309",
+      "phone": "303-315-9900",
+      "image_url": "https://www.bch.org/cms/thumbnails/00/400x500//images/physicians/Belton-Matthew.jpg"
+    },
+    {
+      "first_name": "David C. Benner, PA-C",
+      "specialty": "Emergency Medicine",
+      "located": "Boulder Emergency Physicians",
+      "street_name": "4747 Arapahoe Avenue\nBoulder, CO, 80303",
+      "phone": "303-415-7606",
+      "image_url": "https://www.bch.org/cms/thumbnails/00/400x500//images/providers/DavidBennerPAC.jpg"
+    },
+    {
+      "first_name": "Melissa A. Berghoff, PA-C",
+      "specialty": "Family Medicine",
+      "located": "Dakota Ridge Family Medicine",
+      "street_name": "2995 Baseline Road, Suite 210\nBoulder, CO, 80303",
+      "phone": "303-415-8900",
+      "image_url": "https://www.bch.org/cms/thumbnails/00/400x500//images/providers/0034_Berghoff_141204[2].jpg"
+    },
+    {
+      "first_name": "S. Clark Berngard, MD",
+      "specialty": "Pulmonary Diseases",
+      "phone": "303-415-5399",
+      "image_url": "https://www.bch.org/cms/thumbnails/00/400x500//images/providers/berngard2[2].jpg"
+    },
+    {
+      "first_name": "Ravi Bhalodia, MD",
+      "specialty": "Anesthesiology",
+      "located": "BVA/BCH Surgery Department",
+      "street_name": "P.O. Box 9019\nBoulder, CO, 80301-9019",
+      "phone": "303-415-2532",
+      "image_url": "https://www.bch.org/cms/thumbnails/00/400x500//images/providers/Ravi-Bhalodia-MD-BVA.jpeg"
+    },
+    {
+      "first_name": "Ryan A. Bird, PA-C",
+      "specialty": "Dermatology",
+      "located": "Boulder Valley Center for Dermatology",
+      "street_name": "1140 W. South Boulder Road, Suite 202\nLafayette, CO, 80026",
+      "phone": "303-604-1444",
+      "image_url": "https://www.bch.org/cms/thumbnails/00/400x500/images/assets/providerPlaceholderMale.jpg"
+    },
+    {
+      "first_name": "Mark A. Birmingham, DPM",
+      "specialty": "Podiatry",
+      "located": "Boulder Medical Center",
+      "street_name": "2750 Broadway\nBoulder, CO, 80304",
+      "phone": "303-440-3000",
+      "image_url": "https://www.bch.org/cms/thumbnails/00/400x500//images/providers/mark_birmingham_dpm_boulder_medical_center-225x300.jpg"
+    },
+    {
+      "first_name": "C. Brian Blackwood, MD",
+      "specialty": "Sports Medicine",
+      "located": "BoulderCentre for Orthopedics",
+      "street_name": "4740 Pearl Parkway, Suite 200\nBoulder, CO, 80303",
+      "phone": "303-449-2730",
+      "image_url": "https://www.bch.org/cms/thumbnails/00/400x500//images/providers/Dr.-Blackwood-headshot-cropped.jpg"
+    },
+    {
+      "first_name": "Cheryl A. Blackwood, PA-C",
+      "specialty": "Sports Medicine",
+      "located": "BoulderCentre for Orthopedics",
+      "street_name": "4740 Pearl Parkway, Suite 200\nBoulder, CO, 80303",
+      "phone": "303-449-2730",
+      "image_url": "https://www.bch.org/cms/thumbnails/00/400x500//images/providers/Cheryl-Blackwood-PAC-BoulderCentre-for-Orthopedics.jpg"
+    },
+    {
+      "first_name": "William L. Blanchet, MD",
+      "specialty": "Internal Medicine",
+      "phone": "303-327-7047",
+      "image_url": "https://www.bch.org/cms/thumbnails/00/400x500//images/providers/William-Blanchett-MD-Internal-Medicine.jpg"
+    },
+    {
+      "first_name": "Scott Blois, MD",
+      "specialty": "Cardiology",
+      "located": "Boulder Heart at Anderson Medical Center",
+      "street_name": "4743 Arapahoe Avenue\nBoulder, CO, 80303",
+      "phone": "303-442-2395",
+      "image_url": "https://www.bch.org/cms/thumbnails/00/400x500//images/providers/Blois_BCMS.jpg"
+    },
+    {
+      "first_name": "Matthew H. Blomquist, MD",
+      "specialty": "Radiology",
+      "located": "Boulder Radiologists",
+      "street_name": "4747 Arapahoe Avenue, Radiology Department\nBoulder, CO, 80303",
+      "phone": "303-440-2170",
+      "image_url": "https://www.bch.org/cms/thumbnails/00/400x500//images/providers/Matthew-Bloomquist.jpg"
+    },
+    {
+      "first_name": "Erik Bowman, MD",
+      "located": "Boulder Centre for Orthopedics and Spine",
+      "street_name": "4740 Pearl Parkway, Suite 200\nBoulder, CO, 80301",
+      "phone": "303-449-2730",
+      "image_url": "https://www.bch.org/cms/thumbnails/00/400x500//images/physicians/erik-bowman-md.jpg"
+    },
+    {
+      "first_name": "Rachel Brakke-Holman, CUSMPC Medical Director",
+      "specialty": "Sports Medicine",
+      "located": "CU Sports Medicine & Performance Center",
+      "street_name": "2150 Stadium Drive, 2nd Floor\nBoulder, CO, 80309",
+      "phone": "303-315-9900",
+      "image_url": "https://www.bch.org/cms/thumbnails/00/400x500//images/providers/Rachel-Brakke.jpg"
+    },
+    {
+      "first_name": "Kevin Branch, MD",
+      "specialty": "Sleep Medicine",
+      "located": "Colorado Sleep Institute",
+      "street_name": "4895 Riverbend Road, Suite A\nBoulder, CO, 80301",
+      "phone": "720-279-9098",
+      "image_url": "https://www.bch.org/cms/thumbnails/00/400x500//images/providers/Kevin-Branch-MD.jpg"
+    },
+    {
+      "first_name": "Lauren C. Brave, MD",
+      "specialty": "Pediatrics",
+      "located": "Boulder Medical Center",
+      "street_name": "4745 Arapahoe Ave., Suite 200\nBoulder, CO, 80303",
+      "phone": "303-938-4750",
+      "image_url": "https://www.bch.org/cms/thumbnails/00/400x500//images/providers/brave_lauren_md_boulder_medical_center-225x300.jpg"
+    },
+    {
+      "first_name": "Jonathan T. Bravman, MD",
+      "specialty": "Sports Medicine",
+      "located": "CU Sports Medicine & Performance Center",
+      "street_name": "Champions Center, 2150 Stadium Drive, 2nd Floor\nBoulder, CO, 80309",
+      "phone": "303-315-9900",
+      "image_url": "https://www.bch.org/cms/thumbnails/00/400x500//images/providers/JonathanBravman_SportsMed[1].jpg"
+    },
+    {
+      "first_name": "Heather M. Bright Hoffmeyer, MD",
+      "specialty": "Obstetrics",
+      "located": "Boulder Medical Center",
+      "street_name": "4745 Arapahoe Avenue, Suite 200\nBoulder, CO, 80303",
+      "phone": "303-938-4710",
+      "image_url": "https://www.bch.org/cms/thumbnails/00/400x500//images/providers/bright_hoffmeyer_heather_md-225x300-225x300.jpg"
+    },
+    {
+      "first_name": "Laura D. Brown, MD",
+      "specialty": "Neonatal - Perinatal Medicine",
+      "located": "UC Denver",
+      "street_name": "13121 E. 17th Avenue, MS B070\nAurora, CO, 80045",
+      "phone": "303-724-2840",
+      "image_url": "https://www.bch.org/cms/thumbnails/00/400x500//images/providers/Laura_Brown_MD.jpg"
+    },
+    {
+      "first_name": "Hillary L. Browne, MD",
+      "specialty": "Internal Medicine",
+      "located": "Spruce Street Internal Medicine",
+      "street_name": "2575 Spruce Street\nBoulder, CO, 80302",
+      "phone": "303-415-3875",
+      "image_url": "https://www.bch.org/cms/thumbnails/00/400x500//images/providers/Browne_BCMS.jpg"
+    },
+    {
+      "first_name": "Emily E. Bucy, MD",
+      "specialty": "Psychiatry",
+      "phone": "303-415-4299",
+      "image_url": "https://www.bch.org/cms/thumbnails/00/400x500//images/providers/EmilyBucy_Psychiatry[1].jpg"
+    },
+    {
+      "first_name": "Kevin Bundy, MD",
+      "specialty": "Family Medicine",
+      "located": "Boulder Creek Family Medicine",
+      "street_name": "Reynolds Family Medical Building, 1755 48th Street, Suite 200\nBoulder, CO, 80303",
+      "phone": "303-415-7450",
+      "image_url": "https://www.bch.org/cms/thumbnails/00/400x500//images/providers/KevinBundyMD_FamilyMed[1].jpg"
+    },
+    {
+      "first_name": "Leslie T. Busby, MD",
+      "specialty": "Oncology",
+      "located": "Rocky Mountain Cancer Centers",
+      "street_name": "4715 Arapahoe Avenue\nBoulder, CO, 80303",
+      "phone": "303-385-2000",
+      "image_url": "https://www.bch.org/cms/thumbnails/00/400x500//images/providers/Busby_Leslie_Largeweb-RMCC.jpg"
+    },
+    {
+      "first_name": "Eric W. Busch, PA-C",
+      "specialty": "Neurosurgery",
+      "located": "Boulder Neurosurgical and Spine Associates",
+      "street_name": "4743 Arapahoe Avenue, Suite 202\nBoulder, CO, 80303",
+      "phone": "303-983-5700",
+      "image_url": "https://www.bch.org/cms/thumbnails/00/400x500//images/providers/EricBuschPAC_Neurosurgery.jpg"
+    },
+    {
+      "first_name": "Martha A. Cabeen, MD",
+      "specialty": "Emergency Medicine",
+      "located": "Boulder Emergency Physicians",
+      "street_name": "4747 Arapahoe Avenue\nBoulder, CO, 80303",
+      "phone": "303-415-7606",
+      "image_url": "https://www.bch.org/cms/thumbnails/00/400x500//images/providers/130911_Cabeen-95[1].jpg"
+    },
+    {
+      "first_name": "Richard R.. Caffrey, MD",
+      "specialty": "Anesthesiology",
+      "located": "BVA/BCH Surgery Dept.",
+      "street_name": "4747 Arapahoe Avenue\nBoulder, CO, 80303",
+      "phone": "866-491-1244",
+      "image_url": "https://www.bch.org/cms/thumbnails/00/400x500//images/providers/Dr.-Richard-Caffrey.jpg"
+    },
+    {
+      "first_name": "Sikora Cain, PA",
+      "specialty": "Orthopedics",
+      "located": "CU Sports Medicine & Performance Center",
+      "street_name": "2150 Stadium Drive, 2nd Floor\nBoulder, CO, 80309",
+      "phone": "303-315-9900",
+      "image_url": "https://www.bch.org/cms/thumbnails/00/400x500//images/providers/Cain-Sikora-Head-Shot.jpg"
+    },
+    {
+      "first_name": "John R. Campbell, PA-C",
+      "specialty": "Internal Medicine",
+      "located": "Advance Prevention Program at Boulder Internal Medicine",
+      "street_name": "2880 Folsom Avenue, Suite 100\nBoulder, CO, 80304",
+      "phone": "303-327-7047",
+      "image_url": "https://www.bch.org/cms/thumbnails/00/400x500//images/providers/John-Campbell-PA-Internal-Med.jpg"
+    },
+    {
+      "first_name": "Zachary A. Campbell, NP",
+      "specialty": "Urgent Care",
+      "phone": "303-415-5199",
+      "image_url": "https://www.bch.org/cms/thumbnails/00/400x500//images/providers/ZacharyCampbellNP.jpg",
+      "physician_bio": "Zachary Campbell is a Family Nurse Practitioner. He graduated with honors in 2013 and has more than three years of clinical experience helping patients in an urgent care setting."
+    },
+    {
+      "first_name": "Alyssa S. Carlson, MD",
+      "specialty": "Family Medicine",
+      "located": "Dakota Ridge Family Medicine",
+      "street_name": "2995 Baseline Road, Suite 210\nBoulder, CO, 80303",
+      "phone": "303-415-8900",
+      "image_url": "https://www.bch.org/cms/thumbnails/00/400x500//images/providers/Carlson_BCMS.jpg"
+    },
+    {
+      "first_name": "Barbara J. Carlson, NNP",
+      "specialty": "Pediatrics",
+      "located": "Children's Hospital Colorado",
+      "street_name": "13123 East 16th Avenue\nAurora, CO, 80045",
+      "phone": "720-777-6857",
+      "image_url": "https://www.bch.org/cms/thumbnails/00/400x500//images/providers/BarbaraCarlsonNNP.jpg"
+    },
+    {
+      "first_name": "Jeffrey E. Carter, MD",
+      "specialty": "Hospital Medicine",
+      "located": "BCH-Hospital Medicine Services",
+      "street_name": "4747 Arapahoe Ave.\nBoulder, CO, 80303",
+      "phone": "303-415-7610",
+      "image_url": "https://www.bch.org/cms/thumbnails/00/400x500//images/providers/Jeff-Carter-CROP.jpg"
+    },
+    {
+      "first_name": "Kristin Cartledge, PA",
+      "located": "Boulder Valley Surgical Associates",
+      "street_name": "4743 Arapahoe Avenue\nBoulder, CO, 80303",
+      "phone": "303-415-4599",
+      "image_url": "https://www.bch.org/cms/thumbnails/00/400x500//images/providers/kristin-cartledge-pa.jpg"
+    },
+    {
+      "first_name": "Peter L. Castro, MD",
+      "specialty": "Anesthesiology",
+      "located": "BVA/BCH Surgery Dept.",
+      "street_name": "4747 Arapahoe Avenue\nBoulder, CO, 80303",
+      "phone": "866-491-1244",
+      "image_url": "https://www.bch.org/cms/thumbnails/00/400x500//images/providers/Peter-Castro-MD-Anesthesiology.jpg"
+    },
+    {
+      "first_name": "Kevin C. Cavanaugh, MD",
+      "specialty": "Otolaryngology",
+      "located": "Front Range Otolaryngology & Facial Plastic Surgery, PC",
+      "street_name": "1325 Dry Creek Drive, Suite 103\nLongmont, CO, 80503",
+      "phone": "720-494-9111",
+      "image_url": "https://www.bch.org/cms/thumbnails/00/400x500/images/assets/providerPlaceholderMale.jpg"
+    },
+    {
+      "first_name": "Prateek Chaudhary, DO",
+      "specialty": "Rheumatology",
+      "located": "Colorado Center for Arthritis and Osteoporosis",
+      "street_name": "1715 Iron Horse Drive, Suite 100\nLongmont, CO, 80501",
+      "phone": "720-494-4700",
+      "image_url": "https://www.bch.org/cms/thumbnails/00/400x500//images/providers/PrateekChaudhary2_Rheumatology.jpg"
+    },
+    {
+      "first_name": "Michelle Chavez, NP",
+      "specialty": "Urgent Care",
+      "phone": "303-415-5199",
+      "image_url": "https://www.bch.org/cms/thumbnails/00/400x500/images/assets/providerPlaceholderFemale.jpg"
+    },
+    {
+      "first_name": "Austin Chen, MD",
+      "specialty": "Sports Medicine",
+      "located": "BoulderCentre for Orthopedics",
+      "street_name": "4740 Pearl Parkway, Suite 201\nBoulder, CO, 80301",
+      "phone": "303-449-2730",
+      "image_url": "https://www.bch.org/cms/thumbnails/00/400x500//images/providers/AustinChen_Orthopedics.jpg"
+    },
+    {
+      "first_name": "Mingda Chen, MD",
+      "specialty": "Anesthesiology",
+      "located": "BVA/BCH Surgery Department",
+      "street_name": "P.O. Box 9019\nBoulder, CO, 80301-9019",
+      "phone": "303-415-2532",
+      "image_url": "https://www.bch.org/cms/thumbnails/00/400x500//images/providers/Mingda-Chen-MD-BVA.jpeg"
+    },
+    {
+      "first_name": "Sarah Chetham, PA-C",
+      "specialty": "Cardiology",
+      "located": "Boulder Heart at Community Medical Center",
+      "street_name": "1000 W. South Boulder Road\nLafayette, CO, 80026",
+      "phone": "303-442-2395",
+      "image_url": "https://www.bch.org/cms/thumbnails/00/400x500//images/providers/ChethamS-Photo-new.jpg"
+    },
+    {
+      "first_name": "Steven T. Chetham, MD",
+      "specialty": "Gastroenterology",
+      "located": "Gastroenterology of the Rockies",
+      "street_name": "1551 Professional Lane, Suite 290\nLongmont, CO, 80501",
+      "phone": "303-604-5000",
+      "image_url": "https://www.bch.org/cms/thumbnails/00/400x500//images/providers/steven-t-chetman-md-Gastro.jpg"
+    },
+    {
+      "first_name": "Christon J. Chilen, PA-C",
+      "specialty": "Sports Medicine",
+      "located": "BoulderCentre for Orthopedics",
+      "street_name": "4740 Pearl Parkway, Suite 200\nBoulder, CO, 80303",
+      "phone": "303-449-2730",
+      "image_url": "https://www.bch.org/cms/thumbnails/00/400x500//images/providers/Christon-Chilen-PAC-Boulder-Bone-and-Joint.jpg"
+    },
+    {
+      "first_name": "Ashley N. Chrisman, PA-C",
+      "specialty": "Sports Medicine",
+      "located": "CU Sports Medicine & Performance Center",
+      "street_name": "2150 Stadium Drive, 2nd Floor\nBoulder, CO, 80309",
+      "phone": "303-315-9900",
+      "image_url": "https://www.bch.org/cms/thumbnails/00/400x500//images/providers/Ashley-Chrisman-PAC-CU-Sports-Medicine.jpg"
+    },
+    {
+      "first_name": "James E. Clark, MD",
+      "specialty": "Urologists",
+      "located": "Colorado Urology",
+      "street_name": "4743 Arapahoe Avenue, Suite 104\nBoulder, CO, 80303",
+      "phone": "303-444-9000",
+      "image_url": "https://www.bch.org/cms/thumbnails/00/400x500//images/providers/dr_jim_clark-MD-Urology_250x250.jpg"
+    },
+    {
+      "first_name": "Timothy Clark, MD",
+      "specialty": "Pulmonary Diseases",
+      "located": "Boulder Valley Pulmonology - Boulder",
+      "street_name": "4820 Riverbend Road\nBoulder, CO, 80301",
+      "phone": "303-415-5399",
+      "image_url": "https://www.bch.org/cms/thumbnails/00/400x500//images/providers/dr-tim-clark-Copy.jpg"
+    },
+    {
+      "first_name": "Rohan Clarke, MD",
+      "specialty": "Gastroenterology",
+      "located": "Gastroenterology of the Rockies",
+      "street_name": "1960 Ogden Street, Suite 210\nDenver, CO, 80218",
+      "image_url": "https://www.bch.org/cms/thumbnails/00/400x500//images/physicians/Rohan-Clarke-MD.jpg"
+    },
+    {
+      "first_name": "Parker Clement, MD",
+      "specialty": "Pathology",
+      "located": "Boulder Valley Pathology",
+      "street_name": "4747 Arapahoe Avenue\nBoulder, CO, 80303",
+      "phone": "303-415-7725",
+      "image_url": "https://www.bch.org/cms/thumbnails/00/400x500/images/assets/providerPlaceholderMale.jpg"
+    },
+    {
+      "first_name": "Laura J. Clevenger, NNP",
+      "specialty": "Pediatrics",
+      "located": "Children's Hospital Colorado",
+      "street_name": "13123 East 16th Avenue\nAurora, CO, 80045",
+      "phone": "720-777-6857",
+      "image_url": "https://www.bch.org/cms/thumbnails/00/400x500//images/providers/LauraClevengerNNP.jpg"
+    },
+    {
+      "first_name": "Brittany Collins, DO",
+      "specialty": "Anesthesiology",
+      "located": "BVA/BCH Surgery Department",
+      "street_name": "P.O. Box 9019\nBoulder, CO, 80301-9019",
+      "phone": "303-415-2532",
+      "image_url": "https://www.bch.org/cms/thumbnails/00/400x500//images/providers/Brittany-Collins-MD-BVA.jpeg"
+    },
+    {
+      "first_name": "Elizabeth Cowan, FNP",
+      "specialty": "Family Medicine",
+      "located": "Gunbarrel Family Medicine",
+      "street_name": "6685 Gunpark Drive\nBoulder, CO, 80301",
+      "phone": "303-415-7599",
+      "image_url": "https://www.bch.org/cms/thumbnails/00/400x500//images/providers/LizCowan_FamilyMed.jpg"
+    },
+    {
+      "first_name": "Elizabeth Cruse, MD",
+      "specialty": "Internal Medicine",
+      "located": "Erie Primary Care",
+      "street_name": "101 Erie Parkway\nErie, CO, 80516",
+      "phone": "303-415-5813",
+      "image_url": "https://www.bch.org/cms/thumbnails/00/400x500//images/providers/Cruse_BCMS.jpg"
+    },
+    {
+      "first_name": "Raul E. Cubillas, MD",
+      "specialty": "Gastroenterology",
+      "located": "Gastroenterology of the Rockies",
+      "street_name": "11900 Grant Street, Suite 360\nNorthglenn, CO, 80233",
+      "image_url": "https://www.bch.org/cms/thumbnails/00/400x500//images/physicians/Raul-E.-Cubillas-MD.jpg"
+    },
+    {
+      "first_name": "Kevin Cuevas, MD",
+      "specialty": "Ophthalmology",
+      "located": "Boulder Eye Surgeons, PC",
+      "street_name": "4745 Arapahoe Ave., Suite 100\nBoulder, CO, 80303",
+      "phone": "303-444-3000",
+      "image_url": "https://www.bch.org/cms/thumbnails/00/400x500//images/providers/KevinCuevas_Ophthalmology.jpg"
+    },
+    {
+      "first_name": "Sarah Curzon, PA-C",
+      "specialty": "Menopause Care",
+      "located": "Boulder Women's Clinic",
+      "street_name": "4745 Arapahoe Ave, Suite 110\nBoulder, CO, 80303",
+      "phone": "303-444-5110",
+      "image_url": "https://www.bch.org/cms/thumbnails/00/400x500//images/providers/SarahCurzon.jpg"
+    },
+    {
+      "first_name": "Kelly J. Cushing, DO",
+      "specialty": "Hospital Medicine",
+      "located": "BCH-Hospital Medicine Services",
+      "street_name": "4747 Arapahoe Ave.\nBoulder, CO, 80303",
+      "phone": "303-415-7610",
+      "image_url": "https://www.bch.org/cms/thumbnails/00/400x500//images/providers/KellyCushing_Hospitalist.jpg"
+    },
+    {
+      "first_name": "Herman A. Damek, MD",
+      "specialty": "Family Medicine",
+      "located": "Family Medical Associates of Lafayette",
+      "street_name": "1000 W. South Boulder Road, Suite 110\nLafayette, CO, 80026",
+      "phone": "303-415-4355",
+      "image_url": "https://www.bch.org/cms/thumbnails/00/400x500//images/providers/Damek_BCMS.jpg"
+    },
+    {
+      "first_name": "Grace Daniels, PA-C",
+      "specialty": "Otorhinolaryngology",
+      "located": "Boulder Valley Ear, Nose and Throat",
+      "street_name": "4745 Arapahoe Avenue, Suite 130\nBoulder, CO, 80301",
+      "phone": "303-443-2771",
+      "image_url": "https://www.bch.org/cms/thumbnails/00/400x500//images/physicians/GraceDaniels_ENT.png"
+    },
+    {
+      "first_name": "Shoban A. Dave, MD",
+      "specialty": "Allergy and Immunology",
+      "located": "Flatiron Allergy and Asthma Center",
+      "street_name": "90 Health Park Drive, Suite 170\nLouisville, CO, 80027",
+      "phone": "303-862-3303",
+      "image_url": "https://www.bch.org/cms/thumbnails/00/400x500/images/assets/providerPlaceholderMale.jpg"
+    },
+    {
+      "first_name": "Sofia Davies, DO, MS",
+      "specialty": "Family Medicine",
+      "located": "Dakota Ridge Family Medicine",
+      "street_name": "2995 Baseline Road\nBoulder, CO, 80303",
+      "phone": "303-415-8900",
+      "image_url": "https://www.bch.org/cms/thumbnails/00/400x500//images/physicians/sofia-davies.jpg"
+    },
+    {
+      "first_name": "Alison V. Davis, MSN, FNP-C",
+      "specialty": "Pulmonary Diseases",
+      "located": "Boulder Valley Pulmonology - Boulder",
+      "street_name": "4820 Riverbend Road\nBoulder, CO, 80301",
+      "phone": "303-415-5399",
+      "image_url": "https://www.bch.org/cms/thumbnails/00/400x500//images/physicians/Alison-Davis.jpg"
+    },
+    {
+      "first_name": "Jennifer A. De Graauw, MD",
+      "specialty": "Nephrology",
+      "located": "Western Nephrology",
+      "street_name": "1960 Ken Pratt Blvd, Suite B\nLongmont, CO, 80501",
+      "phone": "303-776-7759",
+      "image_url": "https://www.bch.org/cms/thumbnails/00/400x500//images/providers/JenniferdeGraauw_Nephrology.jpg"
+    },
+    {
+      "first_name": "Santiago De La Garza, MD",
+      "specialty": "Hospital Medicine",
+      "located": "BCH - Hospital Medicine Services",
+      "street_name": "4747 Arapahoe Ave.\nBoulder, CO, 80303",
+      "phone": "303-415-7610",
+      "image_url": "https://www.bch.org/cms/thumbnails/00/400x500/images/assets/providerPlaceholderMale.jpg"
+    },
+    {
+      "first_name": "Chantal Dengah, CNM, MSN",
+      "specialty": "Midwifery",
+      "located": "The Birth Center of Boulder",
+      "street_name": "2800 Folsom Street\nBoulder, CO, 80304",
+      "phone": "303-443-3993",
+      "image_url": "https://www.bch.org/cms/thumbnails/00/400x500//images/physicians/chantal-dengah.jpg"
+    },
+    {
+      "first_name": "Melody F. Denham, MD",
+      "specialty": "Anesthesiology",
+      "located": "BVA/BCH Surgery Dept.",
+      "street_name": "P.O. Box 9019\nBoulder, CO, 80301-9019",
+      "phone": "303-415-2532",
+      "image_url": "https://www.bch.org/cms/thumbnails/00/400x500//images/providers/Dr.-Melody-Denham.jpg"
+    },
+    {
+      "first_name": "Chloe M. Dent, MD",
+      "located": "Boulder Pain Institute",
+      "street_name": "3445 Penrose Place, Suite 140\nBoulder, CO, 80301",
+      "phone": "303-413-0100",
+      "image_url": "https://www.bch.org/cms/thumbnails/00/400x500//images/providers/Dent_BCMS.jpg"
+    },
+    {
+      "first_name": "Avninder S. Dhaliwal, MD",
+      "specialty": "Anesthesiology",
+      "located": "BVA/BCH Surgery Dept.",
+      "street_name": "4747 Arapahoe Avenue\nBoulder, CO, 80303",
+      "phone": "866-491-1244",
+      "image_url": "https://www.bch.org/cms/thumbnails/00/400x500//images/providers/Dr.-Avininder-Dhaliwal.jpg"
+    },
+    {
+      "first_name": "Alexandra DiMatteo, MD",
+      "specialty": "Obstetrics",
+      "located": "Boulder Medical Center",
+      "street_name": "4745 Arapahoe Avenue, Suite 200\nBoulder, CO, 80303",
+      "phone": "303-938-4710",
+      "image_url": "https://www.bch.org/cms/thumbnails/00/400x500//images/providers/AlexandraDiMatteo_OBGYN.png"
+    },
+    {
+      "first_name": "C. Tony Dobija, MD",
+      "specialty": "Internal Medicine",
+      "located": "Family Medical Associates of Lafayette",
+      "street_name": "1000 W. South Boulder Road\nLafayette, CO, 80026",
+      "phone": "303-415-4355",
+      "image_url": "https://www.bch.org/cms/thumbnails/00/400x500//images/providers/AnthonyDobija_InternalMedicine-NEW.jpg"
+    },
+    {
+      "first_name": "William H. Dodson, MD",
+      "specialty": "Family Medicine",
+      "located": "Dakota Ridge Family Medicine",
+      "street_name": "2995 Baseline Road\nBoulder, CO, 80303",
+      "phone": "303-415-8900",
+      "image_url": "https://www.bch.org/cms/thumbnails/00/400x500//images/providers/Dodson_BCMS.jpg"
+    },
+    {
+      "first_name": "Robert P. Dolan, MD",
+      "specialty": "Gastroenterology",
+      "located": "Gastroenterology of the Rockies",
+      "street_name": "13952 Denver West Parkway, Suite 100, Building 53\nLakewood, CO, 80401",
+      "phone": "303-604-5000",
+      "image_url": "https://www.bch.org/cms/thumbnails/00/400x500//images/providers/robert-p-dolan-MD-Gastro.jpg"
+    },
+    {
+      "first_name": "Dirk W. Dolbeare, MD",
+      "specialty": "Sports Medicine",
+      "located": "BoulderCentre for Orthopedics",
+      "street_name": "4740 Pearl Parkway, Suite 200\nBoulder, CO, 80301",
+      "phone": "303-449-2730",
+      "image_url": "https://www.bch.org/cms/thumbnails/00/400x500//images/providers/Dirk-Dolbeare-MD-Orthopedics.jpg"
+    },
+    {
+      "first_name": "Christy J. Donahue, NNP",
+      "specialty": "Pediatrics",
+      "located": "Children's Hospital Colorado",
+      "street_name": "13123 East 16th Avenue\nAurora, CO, 80045",
+      "phone": "720-777-6857",
+      "image_url": "https://www.bch.org/cms/thumbnails/00/400x500//images/providers/ChristyDonahueNNP.jpg"
+    },
+    {
+      "first_name": "Jamie J. Doucet, MD",
+      "specialty": "Cardiology",
+      "phone": "303-442-2395",
+      "image_url": "https://www.bch.org/cms/thumbnails/00/400x500//images/providers/Doucet_BCMS.JPG"
+    },
+    {
+      "first_name": "James F. Dougherty, PA-C",
+      "specialty": "Surgery, General",
+      "located": "Boulder Valley Surgical Associates",
+      "street_name": "4743 Arapahoe Avenue, Suite 100\nBoulder, CO, 80303",
+      "phone": "303-443-2123",
+      "image_url": "https://www.bch.org/cms/thumbnails/00/400x500//images/providers/0003_Dougherty_160502[1].jpg",
+      "physician_bio": "James Dougherty is a Physician Assistant who specialized in the areas of General and Trauma Surgery and Family Medicine. He earned his medical Bachelor of Science in 2003 and has been caring for patients ever since."
+    },
+    {
+      "first_name": "Jennifer G. Doyle, NNP",
+      "specialty": "Pediatrics",
+      "located": "Children's Hospital Colorado",
+      "street_name": "13123 East 16th Avenue\nAurora, CO, 80045",
+      "phone": "720-777-6857",
+      "image_url": "https://www.bch.org/cms/thumbnails/00/400x500//images/providers/JenniferDoyleNNP.jpg"
+    },
+    {
+      "first_name": "Harma Drenth, FNP",
+      "specialty": "Urgent Care",
+      "located": "Urgent Care Center - Superior",
+      "street_name": "3 Superior Drive, Suite 100A\nSuperior, CO, 80027",
+      "phone": "303-415-5255",
+      "image_url": "https://www.bch.org/cms/thumbnails/00/400x500/images/assets/providerPlaceholderFemale.jpg"
+    },
+    {
+      "first_name": "Susan Duiker, MD",
+      "specialty": "Family Medicine",
+      "located": "Family Medical Associates of Lafayette",
+      "street_name": "1000 W. South Boulder Road\nLafayette, CO, 80026",
+      "phone": "303-415-4355",
+      "image_url": "https://www.bch.org/cms/thumbnails/00/400x500//images/providers/Duiker_BCMS.jpg"
+    },
+    {
+      "first_name": "Manrique Edmundo, MD",
+      "located": "BCH Hospital Medicine Services",
+      "street_name": "4747 Arapahoe Ave.\nBoulder, CO, 80303",
+      "phone": "303-415-7610",
+      "image_url": "https://www.bch.org/cms/thumbnails/00/400x500//images/providers/Edmundo-Manrique-Photo.jpg"
+    },
+    {
+      "first_name": "Owen G. Ellis, MD",
+      "specialty": "Anesthesiology",
+      "located": "BVA/BCH Surgery Dept.",
+      "street_name": "4747 Arapahoe Avenue\nBoulder, CO, 80303",
+      "phone": "866-491-1244",
+      "image_url": "https://www.bch.org/cms/thumbnails/00/400x500//images/providers/Dr.-Owen-Ellis.jpg"
+    },
+    {
+      "first_name": "Josh M. Emdur, DO",
+      "specialty": "Hospital Medicine",
+      "located": "BCH-Hospital Medicine Services",
+      "street_name": "4747 Arapahoe Avenue\nBoulder, CO, 80303",
+      "phone": "303-415-7610",
+      "image_url": "https://www.bch.org/cms/thumbnails/00/400x500//images/providers/Josh-Emdur.jpg"
+    },
+    {
+      "first_name": "Nancy K. Engellenner, NP",
+      "specialty": "Menopause Care",
+      "located": "Boulder Women's Care",
+      "street_name": "4745 Arapahoe Ave # 320\nBoulder, CO, 80303",
+      "phone": "303-441-0587",
+      "image_url": "https://www.bch.org/cms/thumbnails/00/400x500//images/providers/0052_Engellenner_150224[2].jpg"
+    },
+    {
+      "first_name": "Catherine Evans, MD",
+      "specialty": "Radiology",
+      "located": "Boulder Radiologists",
+      "street_name": "4747 Arapahoe Avenue, Radiology Department\nBoulder, CO, 80303",
+      "phone": "303-440-2170",
+      "image_url": "https://www.bch.org/cms/thumbnails/00/400x500//images/providers/Catherine-Evans.jpg"
+    },
+    {
+      "first_name": "Thomas Fahrbach, MD",
+      "specialty": "Radiology",
+      "located": "Boulder Radiologists",
+      "street_name": "4747 Arapahoe Avenue, Radiology Department\nBoulder, CO, 80303",
+      "phone": "303-440-2170",
+      "image_url": "https://www.bch.org/cms/thumbnails/00/400x500//images/providers/Thomas-Fahrbach.jpg"
+    },
+    {
+      "first_name": "Bradley D. Fanestil, MD",
+      "specialty": "Mind Body Medicine",
+      "located": "Center for Mind Body Medicine",
+      "street_name": "4801 Riverbend Road, Suite 120B\nBoulder, CO, 80301",
+      "phone": "303-415-8615",
+      "image_url": "https://www.bch.org/cms/thumbnails/00/400x500//images/providers/dr-bradley-fanestil-center-for-mind-body-medicine.jpg"
+    },
+    {
+      "first_name": "Allison M. Faucett, MD",
+      "specialty": "Maternal & Fetal Medicine",
+      "located": "UC Denver",
+      "street_name": "1635 Aurora Court\nAurora, CO, 80045",
+      "phone": "303-724-2032",
+      "image_url": "https://www.bch.org/cms/thumbnails/00/400x500//images/providers/AllisonFaucett_MF.jpg"
+    },
+    {
+      "first_name": "Carrie Fearn, APRN, DNP, FNP-C",
+      "specialty": "Neurology",
+      "located": "Associated Neurologists",
+      "street_name": "4801 Riverbend Road\nBoulder, CO, 80301",
+      "phone": "303-415-8800",
+      "image_url": "https://www.bch.org/cms/thumbnails/00/400x500//images/providers/0106_Smith_160226-web.jpg"
+    },
+    {
+      "first_name": "Naomi Y. Feiman, MD",
+      "specialty": "Pediatrics",
+      "located": "The Pediatric Center",
+      "street_name": "4745 Arapahoe Avenue, Suite 310\nBoulder, CO, 80303",
+      "phone": "303-442-2913",
+      "image_url": "https://www.bch.org/cms/thumbnails/00/400x500//images/providers/Dr-Naomi-Feiman-Pediatrics.jpg"
+    },
+    {
+      "first_name": "Kim M. Feldhaus, MD",
+      "specialty": "Emergency Medicine",
+      "located": "Boulder Emergency Physicians",
+      "street_name": "4747 Arapahoe Avenue\nBoulder, CO, 80303",
+      "phone": "303-415-7606",
+      "image_url": "https://www.bch.org/cms/thumbnails/00/400x500//images/providers/130911_Feldhaus-21[1].jpg"
+    },
+    {
+      "first_name": "Amy Fenoglio, MD",
+      "specialty": "Orthopedics",
+      "located": "CU Sports Medicine & Performance Center",
+      "street_name": "Champions Center, 2150 Stadium Drive, 2nd Floor\nBoulder, CO, 80309",
+      "phone": "303-315-9900",
+      "image_url": "https://www.bch.org/cms/thumbnails/00/400x500//images/providers/AmyFenoglio_Orthopedics[1].jpg"
+    },
+    {
+      "first_name": "Anna Fernandez, CNM, MSN",
+      "specialty": "Midwifery",
+      "located": "The Birth Center of Boulder",
+      "street_name": "2800 Folsom Street\nBoulder, CO, 80304",
+      "phone": "303-443-3993",
+      "image_url": "https://www.bch.org/cms/thumbnails/00/400x500//images/providers/bcob-Anna.jpg"
+    },
+    {
+      "first_name": "Lynne A. Fernandez, MD",
+      "specialty": "Occupational Medicine",
+      "located": "BCH - Occupational Health",
+      "street_name": "1000 W. South Boulder Road, Suite 214\nLafayette, CO, 80026",
+      "phone": "303-415-4340",
+      "image_url": "https://www.bch.org/cms/thumbnails/00/400x500//images/providers/Fernandez_BCMS[1].jpg"
+    },
+    {
+      "first_name": "Richard M. Finer, MD",
+      "specialty": "Radiology",
+      "located": "Boulder Radiologists",
+      "street_name": "4747 Arapahoe Avenue, Radiology Department\nBoulder, CO, 80303",
+      "phone": "303-440-2170",
+      "image_url": "https://www.bch.org/cms/thumbnails/00/400x500//images/providers/Rich_Finer_122116-145.jpg"
+    },
+    {
+      "first_name": "Reed Fischer, PA-C",
+      "specialty": "Family Medicine",
+      "located": "Boulder Creek Family Medicine",
+      "street_name": "1755 48th Street\nBoulder, CO, 80303",
+      "phone": "303-415-7450",
+      "image_url": "https://www.bch.org/cms/thumbnails/00/400x500//images/providers/ReedFischer_FamilyMedicine.jpg"
+    },
+    {
+      "first_name": "Daniel R. Fisher, MD",
+      "specialty": "Mental Health",
+      "located": "GF Institute, PLLC",
+      "street_name": "1155 Alpine Ave., Suite 385\nBoulder, CO, 80304",
+      "phone": "303-440-2456",
+      "image_url": "https://www.bch.org/cms/thumbnails/00/400x500//images/providers/danielfisher-MD-Psychiatrist.jpg"
+    },
+    {
+      "first_name": "Michelle Fisher, NP",
+      "specialty": "Psychiatry",
+      "located": "Boulder Community Health Outpatient Counseling Center",
+      "street_name": "4801 Riverbend Road\nBoulder, CO, 80304",
+      "phone": "303-415-4299",
+      "image_url": "https://www.bch.org/cms/thumbnails/00/400x500//images/providers/FisherM-Photo-2020.jpg"
+    },
+    {
+      "first_name": "Benjamin D. Foley, DDS",
+      "specialty": "Oral & Maxillofacial Surgery",
+      "located": "Foley and Le Oral, Maxillofacial, and Dental Implant Surgery",
+      "street_name": "1420 28th St, Suite 100\nBoulder, CO, 80303",
+      "phone": "303-444-2255",
+      "image_url": "https://www.bch.org/cms/thumbnails/00/400x500//images/providers/Benjamin-Foley-Senior-Portrait-DDS-Oral-Surgeon.jpg"
+    },
+    {
+      "first_name": "Robert C. Forsythe, MD",
+      "specialty": "Pathology",
+      "located": "Boulder Valley Pathology",
+      "street_name": "4747 Arapahoe Avenue\nBoulder, CO, 80303",
+      "phone": "303-415-7725",
+      "image_url": "https://www.bch.org/cms/thumbnails/00/400x500//images/providers/RobForsythe_Pathology_new.jpg"
+    },
+    {
+      "first_name": "Christopher R. Fox, MD",
+      "specialty": "Endocrinology",
+      "located": "The Alpine Center for Diabetes, Endocrinology, and Metabolism, PC",
+      "street_name": "500 Discovery Parkway, Suite 150\nSuperior, CO, 80027",
+      "phone": "720-923-7209",
+      "image_url": "https://www.bch.org/cms/thumbnails/00/400x500//images/providers/Christopher-Fox-MD-Endocrinology.jpg"
+    },
+    {
+      "first_name": "Jenny R. Fox, MD",
+      "specialty": "Oncology",
+      "located": "Rocky Mountain Cancer Centers",
+      "street_name": "4715 Arapahoe Ave.\nBoulder, CO, 80303",
+      "phone": "303-385-2000",
+      "image_url": "https://www.bch.org/cms/thumbnails/00/400x500//images/providers/Fox_Jenny_Largeweb-RMCC.jpg"
+    },
+    {
+      "first_name": "Richard J. Fox, MD",
+      "specialty": "Surgery, General",
+      "located": "Alpine Surgical",
+      "street_name": "4743 Arapahoe Avenue, Suite 102\nBoulder, CO, 80303",
+      "phone": "303-449-3642",
+      "image_url": "https://www.bch.org/cms/thumbnails/00/400x500//images/providers/bvc-RICH-FOX-GEN-SURGEON.jpg"
+    },
+    {
+      "first_name": "Erika Freiberg, PA-C",
+      "specialty": "Neurosurgery",
+      "located": "Boulder Neurosurgical and Spine Associates",
+      "street_name": "4743 Arapahoe Avenue, Suite 202\nBoulder, CO, 80303",
+      "phone": "303-938-5700",
+      "image_url": "https://www.bch.org/cms/thumbnails/00/400x500//images/providers/ErikaFreibergPAC_Neurosurgery.jpg"
+    },
+    {
+      "first_name": "Diane Friedman, PA-C",
+      "specialty": "Pain Management",
+      "located": "Creekside Physical Medicine, PLLC",
+      "street_name": "5387 Manhattan Circle, Suite 201\nBoulder, CO, 80303",
+      "phone": "303-494-2705",
+      "image_url": "https://www.bch.org/cms/thumbnails/00/400x500/images/assets/providerPlaceholderFemale.jpg"
+    },
+    {
+      "first_name": "Carolyn Fronczak, MD",
+      "specialty": "Urologists",
+      "located": "Boulder Medical Center",
+      "street_name": "2750 Broadway\nBoulder, CO, 80304",
+      "phone": "303-440-3093",
+      "image_url": "https://www.bch.org/cms/thumbnails/00/400x500//images/providers/CarolynFronczak_Urology.png"
+    },
+    {
+      "first_name": "Lorri J. Fulkerson, MD",
+      "specialty": "Sports Medicine",
+      "located": "BoulderCentre for Orthopedics",
+      "street_name": "4740 Pearl Parkway, Suite 200\nBoulder, CO, 80303",
+      "phone": "303-449-2730",
+      "image_url": "https://www.bch.org/cms/thumbnails/00/400x500//images/providers/Lorri-J.-Fulkerson-MD-Orthopedics.jpg"
+    },
+    {
+      "first_name": "Jeffrey R. Gagliano, MD",
+      "specialty": "Sports Medicine",
+      "located": "Boulder Bone and Joint",
+      "street_name": "4820 Riverbend Road, Suite 200\nBoulder, CO, 80301",
+      "phone": "303-665-0286",
+      "image_url": "https://www.bch.org/cms/thumbnails/00/400x500//images/providers/JeffreyGagliano_Ortho.jpg"
+    },
+    {
+      "first_name": "Thomas C. Gallagher, MD",
+      "specialty": "Dermatology",
+      "located": "Boulder Valley Center for Dermatology",
+      "street_name": "1140 W. South Boulder Road, Suite 202\nLafayette, CO, 80026",
+      "phone": "303-604-1444",
+      "image_url": "https://www.bch.org/cms/thumbnails/00/400x500/images/assets/providerPlaceholderMale.jpg"
+    },
+    {
+      "first_name": "Wael F. Garas, MD",
+      "specialty": "Internal Medicine",
+      "located": "Internal Medicine Associates of Boulder",
+      "street_name": "5495 Arapahoe Avenue\nBoulder, CO, 80303",
+      "phone": "303-415-4250",
+      "image_url": "https://www.bch.org/cms/thumbnails/00/400x500//images/providers/Garas_BCMS.JPG"
+    },
+    {
+      "first_name": "Ashley J. Garcia, NP",
+      "specialty": "Family Medicine",
+      "located": "Dakota Ridge Family Medicine",
+      "street_name": "2995 Baseline Road, Suite 210\nBoulder, CO, 80303",
+      "phone": "303-415-8900",
+      "image_url": "https://www.bch.org/cms/thumbnails/00/400x500//images/providers/0141_Soni_150128[1].jpg"
+    },
+    {
+      "first_name": "Carla K. Garcia, NP",
+      "specialty": "Urgent Care",
+      "located": "Urgent Care Center - Gunbarrel",
+      "street_name": "6685 Gunpark Drive, Suite 102\nBoulder, CO, 80301",
+      "phone": "303-415-5199",
+      "image_url": "https://www.bch.org/cms/thumbnails/00/400x500//images/providers/Carla-Garcia-NP-GBUC.jpg",
+      "physician_bio": "Carla Garcia is an Acute Care and Family Nurse Practitioner who has been caring for patients in emergency and urgent care settings for over 15 years. She earned her degree from Colorado State University at Pueblo in 2012."
+    },
+    {
+      "first_name": "Joshua Garfein, DO",
+      "specialty": "Family Medicine",
+      "located": "Dakota Ridge Family Medicine",
+      "street_name": "2995 Baseline Road, Suite 210\nBoulder, CO, 80303",
+      "phone": "303-415-8900",
+      "image_url": "https://www.bch.org/cms/thumbnails/00/400x500//images/providers/JoshGarfein_FamilyMed_web.jpg"
+    },
+    {
+      "first_name": "David Gatof, MD",
+      "specialty": "Gastroenterology",
+      "located": "Gastroenterology of the Rockies",
+      "street_name": "1755 48th Street, Suite 100\nBoulder, CO, 80301",
+      "phone": "303-604-5000",
+      "image_url": "https://www.bch.org/cms/thumbnails/00/400x500//images/providers/david-gatof.jpg"
+    },
+    {
+      "first_name": "Renee J. Gawrych",
+      "specialty": "Pediatrics",
+      "located": "The Pediatric Center",
+      "street_name": "4745 Arapahoe Ave., Ste. 310\nBoulder, CO, 80303",
+      "phone": "303-442-2913",
+      "image_url": "https://www.bch.org/cms/thumbnails/00/400x500//images/providers/Renee-Gawrych-NP-The-Pediatric-Center.jpg"
+    },
+    {
+      "first_name": "Brian S. Gebhardt, MD",
+      "specialty": "Anesthesiology",
+      "located": "BVA/BCH Surgery Dept.",
+      "street_name": "4747 Arapahoe Avenue\nBoulder, CO, 80303",
+      "phone": "866-491-1244",
+      "image_url": "https://www.bch.org/cms/thumbnails/00/400x500//images/providers/Dr.-Brian-Gebhardt.jpg"
+    },
+    {
+      "first_name": "Kristen M. Geiger, MD",
+      "specialty": "Pediatrics",
+      "located": "Boulder Medical Center",
+      "street_name": "4745 Arapahoe Ave., Suite 200\nBoulder, CO, 80303",
+      "phone": "303-938-4750",
+      "image_url": "https://www.bch.org/cms/thumbnails/00/400x500//images/providers/Geiger-website-225x300.png"
+    },
+    {
+      "first_name": "Michelle D. Gibbs, NNP",
+      "specialty": "Pediatrics",
+      "located": "Children's Hospital Colorado",
+      "street_name": "13123 East 16th Avenue\nAurora, CO, 80045",
+      "phone": "720-777-6857",
+      "image_url": "https://www.bch.org/cms/thumbnails/00/400x500//images/providers/Michelle-Gibbs-NNP-Children-s-Hospital.jpg"
+    },
+    {
+      "first_name": "Jill E. Gibson, MD",
+      "specialty": "Rheumatology",
+      "located": "Colorado Center for Arthritis and Osteoporosis",
+      "street_name": "1715 Iron Horse Drive, Suite 100\nLongmont, CO, 80501",
+      "phone": "720-494-4700",
+      "image_url": "https://www.bch.org/cms/thumbnails/00/400x500//images/providers/JillGibsonMD_Rheumatology.jpg"
+    },
+    {
+      "first_name": "Richard G. Gildersleeve, MD",
+      "specialty": "Anesthesiology",
+      "located": "BVA/BCH Surgery Dept.",
+      "street_name": "4747 Arapahoe Avenue\nBoulder, CO, 80303",
+      "phone": "866-491-1244",
+      "image_url": "https://www.bch.org/cms/thumbnails/00/400x500//images/providers/Dr.-Richard-Gildersleeve.jpg"
+    },
+    {
+      "first_name": "Melissa B. Gillespie, MD",
+      "specialty": "Emergency Medicine",
+      "located": "Boulder Emergency Physicians",
+      "street_name": "4747 Arapahoe Avenue\nBoulder, CO, 80303",
+      "phone": "303-415-7606",
+      "image_url": "https://www.bch.org/cms/thumbnails/00/400x500//images/providers/MelissaGillespie_ED.jpg"
+    },
+    {
+      "first_name": "Jason Glowney, MD",
+      "specialty": "Sports Medicine",
+      "located": "Boulder Biologics",
+      "street_name": "4745 Arapahoe Avenue, Suite 300\nBoulder, CO, 80303",
+      "phone": "720-550-6175",
+      "image_url": "https://www.bch.org/cms/thumbnails/00/400x500//images/providers/JasonGlowney_SportsMed.jpg"
+    },
+    {
+      "first_name": "Andrew C. Goldman, MD",
+      "specialty": "Otorhinolaryngology",
+      "located": "Boulder Valley Ear, Nose & Throat",
+      "street_name": "4745 Arapahoe Avenue, Suite 130\nBoulder, CO, 80303",
+      "phone": "303-443-2771",
+      "image_url": "https://www.bch.org/cms/thumbnails/00/400x500//images/providers/AndrewGoldman_ENT.jpg"
+    },
+    {
+      "first_name": "James Gottlieb, MD",
+      "specialty": "Pediatrics",
+      "located": "Boulder Medical Center",
+      "street_name": "4745 Arapahoe Avenue, Suite 200\nBoulder, CO, 80303",
+      "phone": "303-938-4750",
+      "image_url": "https://www.bch.org/cms/thumbnails/00/400x500//images/providers/JamesGottlieb_Pediatrics.png"
+    },
+    {
+      "first_name": "Timothy C. Govaerts, MD",
+      "specialty": "Nephrology",
+      "located": "Western Nephrology",
+      "street_name": "1960 Ken Pratt Blvd. Suite B\nLongmont, CO, 80501",
+      "phone": "303-776-7759",
+      "image_url": "https://www.bch.org/cms/thumbnails/00/400x500//images/providers/Govaerts_4x6-2-195x300.jpg"
+    },
+    {
+      "first_name": "Brian Gradisek, DPM",
+      "specialty": "Podiatry",
+      "located": "Foot & Ankle Care of Boulder",
+      "street_name": "1400 28th St., Suite 2\nBoulder, CO, 80302",
+      "phone": "303-449-2000",
+      "image_url": "https://www.bch.org/cms/thumbnails/00/400x500//images/providers/Dr.-Brian-Gradisek-Podiatry.jpg"
+    },
+    {
+      "first_name": "Connor Graham, MD",
+      "specialty": "Internal Medicine",
+      "located": "Boulder Medical Center",
+      "street_name": "2750 Broadway\nBoulder, CO, 80302",
+      "phone": "303-440-3082",
+      "image_url": "https://www.bch.org/cms/thumbnails/00/400x500//images/providers/Connor-Graham-MD.jpg"
+    },
+    {
+      "first_name": "Gary L. Grasmick, MD",
+      "specialty": "Family Medicine",
+      "located": "Erie Primary Care",
+      "street_name": "101 Erie Parkway\nErie, CO, 80516",
+      "phone": "303-415-5813",
+      "image_url": "https://www.bch.org/cms/thumbnails/00/400x500//images/providers/Grasmick_BCMS.JPG"
+    },
+    {
+      "first_name": "David Grauer, MD",
+      "specialty": "Sports Medicine",
+      "located": "Boulder Medical Center",
+      "street_name": "80 Health Park Drive, Suite 100\nLouisville, CO, 80027",
+      "phone": "303-440-3036",
+      "image_url": "https://www.bch.org/cms/thumbnails/00/400x500//images/providers/David-Grauer-MD-Orthopedic-Boulder-Medical-Center[1].jpg"
+    },
+    {
+      "first_name": "Justin D. Green, MD",
+      "specialty": "Rehabilitation",
+      "located": "Boulder Bone & Joint",
+      "street_name": "5277 Manhattan Circle, Suite 100\nBoulder, CO, 80303",
+      "phone": "720-304-8154",
+      "image_url": "https://www.bch.org/cms/thumbnails/00/400x500/images/assets/providerPlaceholderMale.jpg"
+    },
+    {
+      "first_name": "Robert A. Greene, MD",
+      "specialty": "Reproductive Endocrinology",
+      "located": "Conceptions Reproductive Associates of Colorado",
+      "street_name": "300 Exempla Circle, Suite 370\nLafayette, CO, 80026",
+      "phone": "303-449-1084",
+      "image_url": "https://www.bch.org/cms/thumbnails/00/400x500/images/assets/providerPlaceholderMale.jpg"
+    },
+    {
+      "first_name": "Sue A. Griffith, PA-C",
+      "specialty": "Family Medicine",
+      "located": "Boulder Creek Family Medicine",
+      "street_name": "1755 48th Street\nBoulder, CO, 80303",
+      "phone": "303-415-7450",
+      "image_url": "https://www.bch.org/cms/thumbnails/00/400x500//images/providers/0082_Griffith_150224[1].jpg"
+    },
+    {
+      "first_name": "Natalia M. Grindler, MD",
+      "specialty": "Reproductive Endocrinology",
+      "located": "Conceptions Reproductive Associates of Colorado",
+      "street_name": "300 Exempla Circle, Suite 370\nLafayette, CO, 80026",
+      "phone": "303-449-1084",
+      "image_url": "https://www.bch.org/cms/thumbnails/00/400x500/images/assets/providerPlaceholderFemale.jpg"
+    },
+    {
+      "first_name": "Jennifer Grodberg, MD",
+      "specialty": "Internal Medicine",
+      "located": "Boulder Medical Center",
+      "street_name": "2750 Broadway\nBoulder, CO, 80304",
+      "phone": "303-440-3082",
+      "image_url": "https://www.bch.org/cms/thumbnails/00/400x500/images/assets/providerPlaceholderFemale.jpg"
+    },
+    {
+      "first_name": "Myles S. Guber, MD",
+      "specialty": "Surgery, Cardio-Thoracic",
+      "located": "Colorado Cardiovascular Surgical Associates",
+      "street_name": "950 E Harvard Ave., Ste. 550\nDenver, CO, 80210",
+      "phone": "303-778-6527",
+      "image_url": "https://www.bch.org/cms/thumbnails/00/400x500//images/providers/MylesGuber_Surgery_Cardio.jpg"
+    },
+    {
+      "first_name": "Aneel Gursahaney, MD",
+      "specialty": "Pediatrics",
+      "located": "The Pediatric Center",
+      "street_name": "4745 Arapahoe Avenue, Suite 310\nBoulder, CO, 80303",
+      "phone": "303-442-2913",
+      "image_url": "https://www.bch.org/cms/thumbnails/00/400x500//images/providers/AneelGursahaney_Pediatrics.JPG"
+    },
+    {
+      "first_name": "Robert L. Gustofson, MD",
+      "specialty": "Reproductive Endocrinology",
+      "located": "Colorado Center for Reproductive Medicine",
+      "street_name": "80 Health Park Dr., Ste. 240\nLouisville, CO, 80027",
+      "phone": "303-665-0150",
+      "image_url": "https://www.bch.org/cms/thumbnails/00/400x500//images/providers/Robert-Gustofson-MD-Reproductive-Medicine.png"
+    },
+    {
+      "first_name": "Susan S. Hagen, MD",
+      "specialty": "Surgery, General",
+      "located": "Boulder Valley Surgical Associates",
+      "street_name": "4743 Arapahoe Avenue\nBoulder, CO, 80303",
+      "phone": "303-443-2123",
+      "image_url": "https://www.bch.org/cms/thumbnails/00/400x500//images/providers/SusanHagen_Surgery.jpg"
+    },
+    {
+      "first_name": "Mark D. Haimes, MD",
+      "specialty": "Internal Medicine",
+      "located": "Internal Medicine Associates of Boulder",
+      "street_name": "5495 Arapahoe Avenue, Suite 100\nBoulder, CO, 80303",
+      "phone": "303-415-4250",
+      "image_url": "https://www.bch.org/cms/thumbnails/00/400x500//images/providers/MarkHaimes_InternalMedicine.jpg"
+    },
+    {
+      "first_name": "Lisabeth C. Hall, MD",
+      "specialty": "Internal Medicine",
+      "located": "Northwest Family Medicine",
+      "street_name": "3 Superior Drive\nSuperior, CO, 80027",
+      "phone": "303-415-8940",
+      "image_url": "https://www.bch.org/cms/thumbnails/00/400x500//images/providers/Lisabeth-Hall-IMA-L.jpg"
+    },
+    {
+      "first_name": "Richard K. Halterman, MD",
+      "specialty": "Nephrology",
+      "located": "Western Nephrology",
+      "street_name": "2655 Crescent Drive, Ste. D\nLafayette, CO, 80026",
+      "phone": "303-443-4200",
+      "image_url": "https://www.bch.org/cms/thumbnails/00/400x500//images/providers/Richard-Halterman-MD-Nephrology.jpg"
+    },
+    {
+      "first_name": "Mikki Hand, MD",
+      "specialty": "Family Medicine",
+      "located": "Family Medical Associates of Lafayette",
+      "street_name": "1000 W. South Boulder Road\nLafayette, CO, 80026",
+      "phone": "303-415-4355",
+      "image_url": "https://www.bch.org/cms/thumbnails/00/400x500//images/providers/MikiHand_FamilyMedicine.jpg"
+    },
+    {
+      "first_name": "Kevin W. Hanley, MD",
+      "specialty": "Pathology",
+      "located": "Boulder Valley Pathology",
+      "street_name": "4747 Arapahoe Avenue\nBoulder, CO, 80303",
+      "phone": "303-415-7725",
+      "image_url": "https://www.bch.org/cms/thumbnails/00/400x500//images/providers/KevinHanley_Pathology.jpg"
+    },
+    {
+      "first_name": "Lessley K. Hanley, NNP",
+      "specialty": "Pediatrics",
+      "located": "Children's Hospital Colorado",
+      "street_name": "13123 East 16th Avenue\nAurora, CO, 80045",
+      "phone": "720-777-6857",
+      "image_url": "https://www.bch.org/cms/thumbnails/00/400x500//images/providers/Lessley-Hanley-NNP-Children-s-Hospital.jpg"
+    },
+    {
+      "first_name": "Christine C. Hansen, MD",
+      "specialty": "Menopause Care",
+      "located": "Boulder Women's Clinic",
+      "street_name": "4745 Arapahoe Avenue, Suite 110\nBoulder, CO, 80303",
+      "phone": "303-444-5110",
+      "image_url": "https://www.bch.org/cms/thumbnails/00/400x500//images/providers/Christine-Hansen-MD[1].jpg"
+    },
+    {
+      "first_name": "Elizabeth Har-Noy, MSN, AGPCNP",
+      "specialty": "Midwifery",
+      "located": "The Birth Center of Boulder",
+      "street_name": "2800 Folsom Street\nBoulder, CO, 80304",
+      "phone": "303-443-3993",
+      "image_url": "https://www.bch.org/cms/thumbnails/00/400x500//images/providers/Har-Noy-Elizabeth.jpg"
+    },
+    {
+      "first_name": "Laura Harmon, MD",
+      "specialty": "Surgery, General",
+      "located": "Boulder Valley Surgical Associates",
+      "street_name": "4743 Arapahoe Avenue\nBoulder, CO, 80303",
+      "phone": "303-415-4599",
+      "image_url": "https://www.bch.org/cms/thumbnails/00/400x500//images/physicians/Laura-Harmon-crop.jpg"
+    },
+    {
+      "first_name": "Clayton S. Harper, DDS, MD",
+      "specialty": "Oral & Maxillofacial Surgery",
+      "located": "Boulder Creek Implant & Oral Surgery",
+      "street_name": "2625 28th St., Suite 200\nBoulder, CO, 80301",
+      "phone": "303-938-5063",
+      "image_url": "https://www.bch.org/cms/thumbnails/00/400x500//images/providers/Clyton-Harper-DDS-MD-ORAL-SURGEON.jpg"
+    },
+    {
+      "first_name": "Teresa C. Harper, MD",
+      "specialty": "Maternal & Fetal Medicine",
+      "located": "UC Denver",
+      "street_name": "1635 Aurora Court\nAurora, CO, 80045",
+      "phone": "303-724-2032",
+      "image_url": "https://www.bch.org/cms/thumbnails/00/400x500//images/providers/TeresaHarperMD_MF.jpg"
+    },
+    {
+      "first_name": "Erin Harper-Sanchez, CNM, MSN",
+      "specialty": "Obstetrics",
+      "located": "Boulder Medical Center",
+      "street_name": "4745 Arapahoe Avenue, Suite 200\nBoulder, CO, 80303",
+      "phone": "303-938-4700",
+      "image_url": "https://www.bch.org/cms/thumbnails/00/400x500//images/providers/Harper-Sanchez.-Erin-004-225x300.png"
+    },
+    {
+      "first_name": "Susie Harris, MD",
+      "specialty": "Mental Health",
+      "located": "Inpatient Behavioral Health",
+      "street_name": "4801 Riverbend Road\nBoulder, CO, 80304",
+      "phone": "303-415-8621",
+      "image_url": "https://www.bch.org/cms/thumbnails/00/400x500//images/providers/SusieHarris_MentalHealth.jpg"
+    },
+    {
+      "first_name": "Winfield Hartley, MD",
+      "specialty": "Surgery, Plastic",
+      "located": "Boulder Plastic Surgery",
+      "street_name": "2525 4th Street, Suite 200\nBoulder, CO, 80304",
+      "phone": "303-443-2277",
+      "image_url": "https://www.bch.org/cms/thumbnails/00/400x500//images/providers/Dr.-Winfield-Hartley-Plastic-Surgery.jpg"
+    },
+    {
+      "first_name": "Courtney Hasson, CNM, MSN",
+      "located": "The Birth Center of Boulder",
+      "street_name": "2800 Folsom Street\nBoulder, CO, 80304",
+      "phone": "303-443-3993",
+      "image_url": "https://www.bch.org/cms/thumbnails/00/400x500//images/providers/courtney-hasson.jpg"
+    },
+    {
+      "first_name": "Robert Helgans, III, MD",
+      "specialty": "Radiology",
+      "located": "Boulder Radiologists",
+      "street_name": "4747 Arapahoe Avenue, Radiology Department\nBoulder, CO, 80303",
+      "phone": "303-440-2170",
+      "image_url": "https://www.bch.org/cms/thumbnails/00/400x500//images/providers/Rob_Helgans_122116-168.jpg"
+    },
+    {
+      "first_name": "Stephanie L. Hess, MD",
+      "specialty": "Internal Medicine",
+      "located": "Frontier Internal Medicine",
+      "street_name": "2101 Ken Pratt Boulevard\nLongmont, CO, 80501",
+      "phone": "303-415-4155",
+      "image_url": "https://www.bch.org/cms/thumbnails/00/400x500//images/providers/hess.jpg"
+    },
+    {
+      "first_name": "Mark G. Hickey, MD",
+      "specialty": "Sleep Medicine",
+      "located": "Colorado Sleep Institute",
+      "street_name": "4895 Riverbend Road, Suite A\nBoulder, CO, 80301",
+      "phone": "720-279-9098",
+      "image_url": "https://www.bch.org/cms/thumbnails/00/400x500//images/providers/MarkHickey_SleepMedicine.jpg"
+    },
+    {
+      "first_name": "Blake Hillenbrand, DO",
+      "specialty": "Anesthesiology",
+      "located": "BVA/BCH Surgery Department",
+      "street_name": "P.O. Box 9019\nBoulder, CO, 80301-9019",
+      "phone": "303-415-2532",
+      "image_url": "https://www.bch.org/cms/thumbnails/00/400x500//images/providers/A.-Blake-Hillenbrand-BVA.jpeg"
+    },
+    {
+      "first_name": "Kathryn Hoch, MD",
+      "specialty": "Obstetrics",
+      "located": "Boulder Medical Center",
+      "street_name": "4745 Arapahoe Avenue, Suite 200\nBoulder, CO, 80303",
+      "phone": "303-938-4710",
+      "image_url": "https://www.bch.org/cms/thumbnails/00/400x500//images/providers/KathrynHoch_OBGYN.png"
+    },
+    {
+      "first_name": "Stephen D. Hoerler, MD",
+      "specialty": "Internal Medicine",
+      "located": "Internal Medicine Associates of Boulder",
+      "street_name": "5495 Arapahoe Avenue\nBoulder, CO, 80303",
+      "phone": "303-415-4250"
+    },
+    {
+      "first_name": "Lindsay Lebin, MD, BA",
+      "specialty": "Psychology",
+      "street_name": "1890 N Revere Ct Anschutz Health Sciences Bldg, Suite 5003, Aurora, CO 80045"
+    },
+    {
+      "first_name": "Joe Morabito, DO",
+      "specialty": "Anesthesiology, Adult Cardiothoracic Anesthesiology",
+      "located": "UCHealth Highlands Ranch Hospital, University of Colorado Hospital",
+      "street_name": "1500 Park Central Drive Highlands Ranch, CO 80129"
+    },
+    {
+      "first_name": "Sean Michael, MD",
+      "specialty": "Emergency Medicine, Clinical Informatics",
+      "located": "University of Colorado Hospital",
+      "street_name": "11820 Destination Drive Broomfield, CO 80021"
+    },
+    {
+      "first_name": "Cindy Rakotz, DO",
+      "specialty": "Internal Medicine",
+      "located": "University of Colorado Hospital",
+      "street_name": "360 S Garfield St Suite 550, Denver, CO 80209"
+    },
+    {
+      "first_name": "McCall Chapman, PA-C",
+      "specialty": "Cancer / Oncology",
+      "street_name": "12605 E. 16th Ave Aurora, CO 80045"
+    },
+    {
+      "first_name": "Meredith Mealer, PhD, RN",
+      "specialty": "720-848-0000",
+      "street_name": "12605 E. 16th Ave Aurora, CO 80045"
+    },
+    {
+      "first_name": "Bryan Haugen, MD",
+      "specialty": "Endocrinology, Diabetes and Metabolism, Internal Medicine",
+      "located": "University of Colorado Hospital",
+      "street_name": "1635 Aurora Ct Aurora, CO 80045"
+    },
+    {
+      "first_name": "Travis Murray, MD",
+      "specialty": "Orthopedics",
+      "located": "Children's Hospital Colorado",
+      "street_name": "4125 Briargate Pkwy Colorado Springs, CO 80920"
+    },
+    {
+      "first_name": "My Giang, MD",
+      "specialty": "Family Medicine",
+      "located": "University of Colorado Hospital",
+      "street_name": "9540 Park Meadows Dr Lone Tree, CO 80124"
+    },
+    {
+      "first_name": "Sizhao Lu, MD, PhD",
+      "specialty": "720-848-0749",
+      "street_name": "1635 Aurora Ct Anschutz Outpatient Pavilion, 7th floor, Aurora, CO 80045"
+    },
+    {
+      "first_name": "Christina Coughlan, PhD",
+      "specialty": "720-848-2080",
+      "street_name": "1635 Aurora Ct 4th Floor, Aurora, CO 80045"
+    },
+    {
+      "first_name": "Nicole Christian, MD",
+      "specialty": "Breast Surgical Oncology",
+      "located": "University of Colorado Hospital",
+      "street_name": "12605 E. 16th Ave Aurora, CO 80045"
+    },
+    {
+      "first_name": "Mario Coleman, MD, MPH/MSPH",
+      "specialty": "Child Neurology",
+      "located": "Children's Hospital Colorado",
+      "street_name": "4125 Briargate Pkwy Colorado Springs, CO 80920"
+    },
+    {
+      "first_name": "Melodie Biblis, FNP",
+      "specialty": "Pediatric Critical Care Medicine",
+      "located": "University of Colorado Hospital",
+      "street_name": "13123 East 16th Ave Aurora, CO 80045"
+    },
+    {
+      "first_name": "David Dunipace, AA",
+      "specialty": "Anesthesiology",
+      "located": "University of Colorado Hospital",
+      "street_name": "100 Cook Street Suite 500, Denver, CO 80206"
+    },
+    {
+      "first_name": "Katherine Alpogianis, PA, MMedSci, BS",
+      "specialty": "Neurology, Vascular Neurology",
+      "located": "University of Colorado Hospital",
+      "street_name": "12505 E. 16th Ave Aurora, CO 80045"
+    },
+    {
+      "first_name": "Stephanie Bengs, PA-C",
+      "specialty": "Pediatric Orthopedics",
+      "located": "University of Colorado Hospital",
+      "street_name": "2000 S. Colorado Blvd The Colorado Center Tower One, Suite 4500, Denver, CO 80222"
+    },
+    {
+      "first_name": "Ann Caldwell, PhD",
+      "specialty": "Psychology",
+      "street_name": "12605 E. 16th Ave Aurora, CO 80045"
+    },
+    {
+      "first_name": "Colleen Conry, MD",
+      "specialty": "Family Medicine",
+      "located": "University of Colorado Hospital",
+      "street_name": "3055 Roslyn Street Suite 100, Denver, CO 80238"
+    },
+    {
+      "first_name": "Sarah Gitomer, MD",
+      "specialty": "Pediatric Otolaryngology",
+      "located": "Children's Hospital Colorado, Denver Health Medical Center",
+      "street_name": "13123 East 16th Ave Aurora, CO 80045"
+    },
+    {
+      "first_name": "Angela Drelles, MSN",
+      "specialty": "Pediatric Surgery",
+      "located": "University of Colorado Hospital, Children's Hospital Colorado",
+      "street_name": "13123 East 16th Ave Aurora, CO 80045"
+    },
+    {
+      "first_name": "Sarah Davidon, M.Ed",
+      "specialty": "(303) 724-7635",
+      "street_name": "13123 East 16th Ave Aurora, CO 80045"
+    },
+    {
+      "first_name": "Jonathan Treem, MD",
+      "specialty": "Hospice and Palliative Medicine, Internal Medicine",
+      "street_name": "1665 Aurora Court Anschutz Cancer Pavilion, Aurora, CO 80045"
+    },
+    {
+      "first_name": "Alison Brent, MD",
+      "specialty": "Pediatric Emergency Medicine, Pediatrics",
+      "located": "Children's Hospital Colorado",
+      "street_name": "13123 East 16th Ave Aurora, CO 80045"
+    },
+    {
+      "first_name": "Brittany Kusek, CPNP-PC, RN",
+      "specialty": "Pediatric Emergency Medicine",
+      "located": "Children's Hospital Colorado",
+      "street_name": "13123 East 16th Ave Aurora, CO 80045"
+    },
+    {
+      "first_name": "Gail Spiegel, MS",
+      "specialty": "Endocrinology, Diabetes and Metabolism",
+      "located": "University of Colorado Hospital",
+      "street_name": "1775 Aurora Ct Suite A140, Aurora, CO 80045"
+    },
+    {
+      "first_name": "Samantha Woodruff, MD",
+      "specialty": "Pediatric Gastroenterology, Pediatrics",
+      "located": "Children's Hospital Colorado, UCHealth Memorial Hospital",
+      "street_name": "4125 Briargate Pkwy Colorado Springs, CO 80920"
+    },
+    {
+      "first_name": "Jason Mansoori, MD",
+      "specialty": "Internal Medicine, Pulmonary Disease and Critical Care Medicine",
+      "located": "University of Colorado Hospital, Denver Health Medical Center",
+      "street_name": "12605 E. 16th Ave Aurora, CO 80045"
+    },
+    {
+      "first_name": "Allison Zurawski, PA-C",
+      "specialty": "Surgery",
+      "street_name": "12605 E. 16th Ave Aurora, CO 80045"
+    },
+    {
+      "first_name": "Mary Meintzer, LAC, LPC",
+      "specialty": "Psychology",
+      "street_name": "13123 East 16th Ave Aurora, CO 80045"
+    },
+    {
+      "first_name": "Jonathan Higgins, MD, FAAP",
+      "specialty": "Pediatrics, Pediatric Emergency Medicine",
+      "located": "Children's Hospital Colorado",
+      "street_name": "469 State Highway 7 Broomfield, CO 80023"
+    },
+    {
+      "first_name": "Lois Nosker, DO",
+      "specialty": "Pediatric Emergency Medicine",
+      "street_name": "13123 East 16th Ave Aurora, CO 80045"
+    },
+    {
+      "first_name": "Kasey Bowden, FNP, NP, MSN, RN",
+      "specialty": "Internal Medicine",
+      "located": "University of Colorado Hospital",
+      "street_name": "1665 Aurora Court, 2nd floor Aurora, CO 80045"
+    },
+    {
+      "first_name": "Sarah Mayson, MD",
+      "specialty": "Endocrinology, Diabetes and Metabolism, Internal Medicine",
+      "located": "University of Colorado Hospital, Veterans Affairs Medical Center",
+      "street_name": "1635 Aurora Ct Aurora, CO 80045"
+    },
+    {
+      "first_name": "Jeremy Prager, MD",
+      "specialty": "Otolaryngology - Head & Neck Surgery",
+      "located": "University of Colorado Hospital, Children's Hospital Colorado",
+      "street_name": "469 State Highway 7 Broomfield, CO 80023"
+    },
+    {
+      "first_name": "Amy Hulstrom, PA",
+      "specialty": "Family Medicine",
+      "street_name": "1022 Depot Hill Road Broomfield, CO 80020"
+    },
+    {
+      "first_name": "Tricia Huguelet, MD",
+      "specialty": "Obstetrics and Gynecology",
+      "located": "University of Colorado Hospital, Children's Hospital Colorado",
+      "street_name": "13123 East 16th Ave Aurora, CO 80045"
+    },
+    {
+      "first_name": "Jessica Howard, CNM",
+      "specialty": "Certified Nurse Midwife",
+      "located": "University of Colorado Hospital, UCHealth Highlands Ranch Hospital",
+      "street_name": "2030 Mountain View Ave Suite 400, Longmont, CO 80501"
+    },
+    {
+      "first_name": "Csaba Galambos, MD, PhD",
+      "specialty": "Pediatric Pathology, Anatomic and Clinical",
+      "located": "Children's Hospital Colorado",
+      "street_name": "13123 East 16th Ave Aurora, CO 80045"
+    },
+    {
+      "first_name": "Luke Eaton, MHS, AA",
+      "specialty": "Anesthesiology",
+      "located": "University of Colorado Hospital",
+      "street_name": "12605 E. 16th Ave Aurora, CO 80045"
+    },
+    {
+      "first_name": "Radhika Acharya-Leon, DO",
+      "specialty": "Hematology, Medical Oncology, Internal Medicine",
+      "located": "University of Colorado Hospital, UCHealth Highlands Ranch Hospital",
+      "street_name": "1665 Aurora Ct Aurora, CO 80045"
+    },
+    {
+      "first_name": "Melisa Tanverdi, MD",
+      "specialty": "Pediatric Emergency Medicine, Pediatrics",
+      "located": "Children's Hospital Colorado",
+      "street_name": "13123 East 16th Ave Aurora, CO 80045"
+    },
+    {
+      "first_name": "Gary Atherholt, MS",
+      "specialty": "720-848-0000",
+      "street_name": "12605 E. 16th Ave Aurora, CO 80045"
+    },
+    {
+      "first_name": "Amy Barley, DO",
+      "specialty": "Cardiovascular Disease, Internal Medicine",
+      "located": "University of Colorado Hospital",
+      "street_name": "12505 E. 16th Ave Anschutz Inpatient Pavilion 2, 3rd floor, Aurora, CO 80045"
+    },
+    {
+      "first_name": "Cara Riley, MD",
+      "specialty": "(720) 777-4582",
+      "street_name": "469 State Highway 7 Broomfield, CO 80023"
+    },
+    {
+      "first_name": "Lauren Willoughby, MPAS",
+      "specialty": "Hematology and Oncology",
+      "street_name": "1665 Aurora Court 3rd floor, Anschutz Cancer Pavilion, Aurora, CO 80045"
+    },
+    {
+      "first_name": "Lonni Williams, PNP",
+      "specialty": "Pediatrics",
+      "located": "Children's Hospital Colorado, University of Colorado Hospital",
+      "street_name": "13123 East 16th Ave Aurora, CO 80045"
+    },
+    {
+      "first_name": "Sean Oser, MD, MPH",
+      "specialty": "Family Medicine",
+      "located": "University of Colorado Hospital",
+      "street_name": "9540 Park Meadows Dr Lone Tree, CO 80124"
+    },
+    {
+      "first_name": "Johannes Von Alvensleben, MD",
+      "specialty": "Pediatric Cardiology, Pediatrics",
+      "located": "Children's Hospital Colorado, University of Colorado Hospital",
+      "street_name": "12605 E. 16th Ave Aurora, CO 80045"
+    },
+    {
+      "first_name": "Alexandria Dulchavsky, MD",
+      "specialty": "Pediatric Emergency Medicine",
+      "street_name": "13123 East 16th Ave Aurora, CO 80045"
+    },
+    {
+      "first_name": "Heather O'Meara, CNM",
+      "specialty": "Certified Nurse Midwife",
+      "street_name": "1635 Aurora Ct Anschutz Outpatient Pavilion, 3rd Fl, Aurora, CO 80045"
+    },
+    {
+      "first_name": "Karol Kerr, MD",
+      "specialty": "Pediatric Hematology / Oncology",
+      "located": "Children's Hospital Colorado, UCHealth Memorial Hospital",
+      "street_name": "4090 Briargate Pkwy Colorado Springs, CO 80920"
+    },
+    {
+      "first_name": "Steven Mikesell, PA",
+      "specialty": "720-848-0000",
+      "street_name": "12605 E. 16th Ave Aurora, CO 80045"
+    },
+    {
+      "first_name": "Elizabeth Troy, MD",
+      "specialty": "Child Neurology",
+      "street_name": "13123 East 16th Ave Aurora, CO 80045"
+    },
+    {
+      "first_name": "Amanda Schaefer, CPNP-PC, MS, RN",
+      "specialty": "Pediatrics",
+      "located": "Children's Hospital Colorado",
+      "street_name": "13123 East 16th Ave Aurora, CO 80045"
+    },
+    {
+      "first_name": "Carly Scahill, DO",
+      "specialty": "Pediatrics, Pediatric Cardiology",
+      "street_name": "13123 East 16th Ave Aurora, CO 80045"
+    },
+    {
+      "first_name": "Lindsey Gumer, MD, MSc",
+      "specialty": "Pediatric Gastroenterology",
+      "located": "University of Colorado Hospital, Children's Hospital Colorado",
+      "street_name": "469 State Highway 7 Broomfield, CO 80023"
+    },
+    {
+      "first_name": "Megan Brockel, MD",
+      "specialty": "Pediatric Anesthesiology",
+      "located": "Children's Hospital Colorado",
+      "street_name": "13123 East 16th Ave Aurora, CO 80045"
+    },
+    {
+      "first_name": "Gil Weintraub, MD",
+      "specialty": "Dermatology",
+      "located": "Veterans Affairs Medical Center, University of Colorado Hospital",
+      "street_name": "1665 Aurora Ct 3rd Floor, Anschutz Cancer Pavilion, Aurora, CO 80045"
+    },
+    {
+      "first_name": "Kirt Jensen, AA",
+      "specialty": "Anesthesiology",
+      "located": "University of Colorado Hospital",
+      "street_name": "12605 E. 16th Ave Aurora, CO 80045"
+    },
+    {
+      "first_name": "Dara Aisner, MD, PhD",
+      "specialty": "Anatomic, Molecular Genetic",
+      "located": "University of Colorado Hospital",
+      "street_name": "12605 E. 16th Ave Aurora, CO 80045"
+    },
+    {
+      "first_name": "Christopher Cavagnaro, MD",
+      "specialty": "Pediatric Emergency Medicine",
+      "street_name": "13123 East 16th Ave Aurora, CO 80045"
+    },
+    {
+      "first_name": "Chadwick Kanney, PA-C",
+      "specialty": "Pediatric Critical Care Medicine",
+      "street_name": "13123 East 16th Ave Aurora, CO 80045"
+    },
+    {
+      "first_name": "Lynne Fenton, MD",
+      "specialty": "Physical Medicine and Rehabilitation, Psychiatry",
+      "located": "University of Colorado Hospital",
+      "street_name": "1890 N Revere Ct Anschutz Health Sciences Bldg, Suite 5240, Aurora, CO 80045"
+    },
+    {
+      "first_name": "Tim DeGrado, PhD",
+      "specialty": "Diagnostic",
+      "street_name": "12605 E. 16th Ave Aurora, CO 80045"
+    },
+    {
+      "first_name": "Jessica Rove, MD",
+      "specialty": "Thoracic and Cardiac",
+      "located": "Veterans Affairs Medical Center, University of Colorado Hospital",
+      "street_name": "12605 E. 16th Ave Aurora, CO 80045"
+    },
+    {
+      "first_name": "Anne Adema, MD",
+      "specialty": "Pediatric Emergency Medicine",
+      "street_name": "13123 East 16th Ave Aurora, CO 80045"
+    },
+    {
+      "first_name": "Beth Flanigan, NP",
+      "specialty": "Nephrology",
+      "located": "University of Colorado Hospital",
+      "street_name": "12605 E. 16th Ave Aurora, CO 80045"
+    },
+    {
+      "first_name": "Marie Wood, MD",
+      "specialty": "Medical Oncology",
+      "located": "UCHealth Highlands Ranch Hospital, University of Colorado Hospital",
+      "street_name": "1665 Aurora Ct Second Floor – Elevator B, Aurora, CO 80045"
+    },
+    {
+      "first_name": "Jessica Rolf-Sheppard, FNP",
+      "specialty": "Pediatric Emergency Medicine",
+      "street_name": "13123 East 16th Ave Aurora, CO 80045"
+    },
+    {
+      "first_name": "Elizabeth Coray, MD",
+      "specialty": "Pediatric Emergency Medicine",
+      "street_name": "13123 East 16th Ave Aurora, CO 80045"
+    },
+    {
+      "first_name": "Jeffrey Michael, DO",
+      "specialty": "Pediatric Emergency Medicine",
+      "street_name": "13123 East 16th Ave Aurora, CO 80045"
+    },
+    {
+      "first_name": "Masanori Hayashi, MD",
+      "specialty": "Pediatrics, Pediatric Hematology / Oncology",
+      "located": "Children's Hospital Colorado",
+      "street_name": "13123 East 16th Ave Aurora, CO 80045"
+    },
+    {
+      "first_name": "Diane Straub, MD, MPH",
+      "specialty": "Adolescent Medicine",
+      "street_name": "860 N Potomac Cir Aurora, CO 80011"
+    },
+    {
+      "first_name": "Satya N Nelluri, MD",
+      "specialty": "Interventional Cardiology",
+      "located": "UCHealth Highlands Ranch Hospital, University of Colorado Hospital",
+      "street_name": "1500 Park Central Drive Highlands Ranch, CO 80129"
+    },
+    {
+      "first_name": "Alice Curchin, PA",
+      "specialty": "Critical Care Medicine",
+      "located": "University of Colorado Hospital",
+      "street_name": "12605 E. 16th Ave Aurora, CO 80045"
+    },
+    {
+      "first_name": "Mark Mikkelsen, MD, MSCE",
+      "specialty": "Pulmonary Disease and Critical Care Medicine",
+      "street_name": "12605 E. 16th Ave Aurora, CO 80045"
+    },
+    {
+      "first_name": "Keleigh McLaughlin, MD",
+      "specialty": "Anesthesiology",
+      "located": "University of Colorado Hospital",
+      "street_name": "12505 E. 16th Ave Aurora, CO 80045"
+    },
+    {
+      "first_name": "John Bealer, MD",
+      "specialty": "Surgery, Pediatric Surgery",
+      "located": "Children's Hospital Colorado, University of Colorado Hospital",
+      "street_name": "9094 E. Mineral Ave Suite 110, Centennial, CO 80112"
+    },
+    {
+      "first_name": "Kristen Van De Velde, RN",
+      "specialty": "Anesthesiology",
+      "street_name": "100 Cook Street Suite 500, Denver, CO 80206"
+    },
+    {
+      "first_name": "Linda Fudge, Au.D",
+      "specialty": "Audiology",
+      "located": "University of Colorado Hospital, UCHealth Highlands Ranch Hospital",
+      "street_name": "9548 Park Meadows Drive Lone Tree, CO 80124"
+    },
+    {
+      "first_name": "Rachel Frank, MD",
+      "specialty": "Orthopedic Sports Medicine",
+      "located": "University of Colorado Hospital",
+      "street_name": "11820 Destination Drive Broomfield, CO 80021"
+    },
+    {
+      "first_name": "Joie Molden, PhD",
+      "specialty": "Neuropsychology",
+      "located": "University of Colorado Hospital",
+      "street_name": "3055 Roslyn Street Suite 120, Denver, CO 80238"
+    },
+    {
+      "first_name": "Kristen French, MD",
+      "specialty": "Emergency Medicine",
+      "street_name": "12505 E. 16th Ave Aurora, CO 80045"
+    },
+    {
+      "first_name": "Courtney Daniels, PNP, MSN, RN",
+      "specialty": "720-777-1234",
+      "street_name": "13123 East 16th Ave Aurora, CO 80045"
+    },
+    {
+      "first_name": "Jose Mayordomo, MD, PhD",
+      "specialty": "Hematology and Oncology",
+      "located": "University of Colorado Hospital, UCHealth Highlands Ranch Hospital",
+      "street_name": "12605 E. 16th Ave Aurora, CO 80045"
+    },
+    {
+      "first_name": "Craig Hornbarger, MD",
+      "specialty": "Surgery",
+      "located": "UCHealth Highlands Ranch Hospital",
+      "street_name": "12605 E. 16th Ave Aurora, CO 80045"
+    },
+    {
+      "first_name": "Stacy Dixon, MD, PhD",
+      "specialty": "Neurology, Neuromuscular Medicine",
+      "located": "Veterans Affairs Medical Center, University of Colorado Hospital",
+      "street_name": "1635 Aurora Ct Aurora, CO 80045"
+    },
+    {
+      "first_name": "AnnaMaria Salas, PA-C",
+      "specialty": "Pediatric Surgery",
+      "located": "Children's Hospital Colorado",
+      "street_name": "13123 East 16th Ave Aurora, CO 80045"
+    },
+    {
+      "first_name": "Jessica Asherin, PA-C",
+      "specialty": "Urology",
+      "located": "UCHealth Highlands Ranch Hospital, University of Colorado Hospital",
+      "street_name": "1500 Park Central Drive Highlands Ranch, CO 80129"
+    },
+    {
+      "first_name": "Will Silkworth, MD",
+      "specialty": "Internal Medicine",
+      "located": "University of Colorado Hospital",
+      "street_name": "12605 E. 16th Ave Aurora, CO 80045"
+    },
+    {
+      "first_name": "Justin Cohen, MD",
+      "specialty": "Plastic Surgery",
+      "located": "University of Colorado Hospital, UCHealth Highlands Ranch Hospital",
+      "street_name": "12348 E. Montview Blvd Anschutz Health and Wellness Center, 2nd floor, Aurora, CO 80045"
+    },
+    {
+      "first_name": "Lisa DeCamp, MD",
+      "specialty": "Pediatrics",
+      "located": "Children's Hospital Colorado",
+      "street_name": "13123 East 16th Ave Aurora, CO 80045"
+    },
+    {
+      "first_name": "Aaron Carlson, MD",
+      "specialty": "Neurology",
+      "located": "University of Colorado Hospital",
+      "street_name": "12605 E. 16th Ave Aurora, CO 80045"
+    },
+    {
+      "first_name": "Charles Buteyn, LCSW",
+      "specialty": "Psychology",
+      "street_name": "1890 N Revere Ct Anschutz Health Sciences Bldg, Suite 5240, Aurora, CO 80045"
+    },
+    {
+      "first_name": "Scott Auerbach, MD",
+      "specialty": "Pediatrics, Pediatric Cardiology",
+      "located": "Children's Hospital Colorado",
+      "street_name": "13123 East 16th Ave Aurora, CO 80045"
+    },
+    {
+      "first_name": "Sean Iwamoto, MD",
+      "specialty": "Endocrinology, Diabetes and Metabolism, Internal Medicine",
+      "located": "Veterans Affairs Medical Center, University of Colorado Hospital",
+      "street_name": "1635 Aurora Ct 6th Floor, Aurora, CO 80045"
+    },
+    {
+      "first_name": "Frances Palmer, MD",
+      "specialty": "Internal Medicine",
+      "street_name": "3055 Rosyln Street Suite 250, Denver, CO 80238"
+    },
+    {
+      "first_name": "Abby Meitzen, FNP-C",
+      "specialty": "Dermatology",
+      "located": "University of Colorado Hospital",
+      "street_name": "14305 E Alameda Ave Suite 225, Aurora, CO 80012"
+    },
+    {
+      "first_name": "Tiffany McCombs, DNP",
+      "specialty": "Pediatric Critical Care Medicine",
+      "street_name": "13123 East 16th Ave Aurora, CO 80045"
+    },
+    {
+      "first_name": "Michael Bauers, CRNA",
+      "specialty": "720-848-0000",
+      "street_name": "100 Cook Street Suite 500, Denver, CO 80206"
+    },
+    {
+      "first_name": "Nina Thomas, MD",
+      "specialty": "Pulmonary Disease and Critical Care Medicine",
+      "street_name": "12605 E. 16th Ave Aurora, CO 80045"
+    },
+    {
+      "first_name": "Jeff Campbell, MD",
+      "specialty": "Pediatric Urology",
+      "located": "University of Colorado Hospital, Children's Hospital Colorado",
+      "street_name": "469 State Highway 7 Broomfield, CO 80023"
+    },
+    {
+      "first_name": "Nancy Hadley-Miller, MD",
+      "specialty": "Pediatric Orthopedics, Orthopedics",
+      "located": "Children's Hospital Colorado",
+      "street_name": "469 State Highway 7 Broomfield, CO 80023"
+    },
+    {
+      "first_name": "Christopher Patton, CRNA",
+      "specialty": "Anesthesiology",
+      "located": "University of Colorado Hospital",
+      "street_name": "12605 E. 16th Ave Aurora, CO 80045"
+    },
+    {
+      "first_name": "Sherrie Ballantine-Talmadge, DO",
+      "specialty": "Family Medicine, Orthopedic Sports Medicine",
+      "located": "University of Colorado Hospital",
+      "street_name": "2150 Stadium Drive 2nd Floor, Boulder, CO 80309"
+    },
+    {
+      "first_name": "Dana Kamp, CRNA, MS",
+      "specialty": "Anesthesiology",
+      "located": "University of Colorado Hospital",
+      "street_name": "12605 E. 16th Ave Aurora, CO 80045"
+    },
+    {
+      "first_name": "Pixie Russell, CPNP",
+      "specialty": "Emergency Medicine",
+      "street_name": "13123 East 16th Ave Aurora, CO 80045"
+    },
+    {
+      "first_name": "Heather Moore, NP, PNP, RN",
+      "specialty": "Pediatric Pulmonology, Sleep Medicine",
+      "located": "Children's Hospital Colorado",
+      "street_name": "469 State Highway 7 Broomfield, CO 80023"
+    },
+    {
+      "first_name": "Lauren Berkovits, PhD",
+      "specialty": "Developmental-Behavioral Pediatrics",
+      "located": "Children's Hospital Colorado",
+      "street_name": "13123 East 16th Ave Aurora, CO 80045"
+    },
+    {
+      "first_name": "Jennifer Post, MD",
+      "specialty": "Internal Medicine",
+      "street_name": "12605 E. 16th Ave Aurora, CO 80045"
+    },
+    {
+      "first_name": "Steven Berkowitz, MD",
+      "specialty": "Child and Adolescent Psychiatry",
+      "located": "Children's Hospital Colorado, University of Colorado Hospital",
+      "street_name": "1890 N Revere Ct Anschutz Health Sciences Bldg, Suite 4020, Aurora, CO 80045"
+    },
+    {
+      "first_name": "Frank Scott, MD",
+      "specialty": "Orthopedics, Hand Surgery",
+      "located": "Children's Hospital Colorado, University of Colorado Hospital",
+      "street_name": "2000 S. Colorado Blvd The Colorado Center Tower One, Suite 4500, Denver, CO 80222"
+    },
+    {
+      "first_name": "Jeffrey Wallace, MD, MPH",
+      "specialty": "Internal Medicine, Geriatric Medicine",
+      "located": "University of Colorado Hospital",
+      "street_name": "12605 E. 16th Ave Aurora, CO 80045"
+    },
+    {
+      "first_name": "Joseph Sakai, MD",
+      "specialty": "Addiction Psychiatry, Psychiatry",
+      "located": "University of Colorado Hospital",
+      "street_name": "12605 E. 16th Ave Aurora, CO 80045"
+    },
+    {
+      "first_name": "Jessica Church, APN",
+      "specialty": "Pediatric Cardiology",
+      "located": "Children's Hospital Colorado",
+      "street_name": "13123 East 16th Ave Aurora, CO 80045"
+    },
+    {
+      "first_name": "Annie Chen, MD",
+      "specialty": "Nephrology",
+      "located": "University of Colorado Hospital",
+      "street_name": "1635 Aurora Ct Anschutz Outpatient Pavilion, 7th floor, Aurora, CO 80045"
+    },
+    {
+      "first_name": "Angela Oltman, PA-C",
+      "specialty": "720-848-0000",
+      "street_name": "12605 E. 16th Ave Aurora, CO 80045"
+    },
+    {
+      "first_name": "Sarah Tillema, PA-C",
+      "specialty": "Adolescent Medicine",
+      "located": "Children's Hospital Colorado",
+      "street_name": "13123 East 16th Ave Aurora, CO 80045"
+    },
+    {
+      "first_name": "Naomi Meeks, MD",
+      "specialty": "Clinical Molecular Genetics and Genomics, Clinical Genetics and Genomics (MD), Pediatrics",
+      "located": "Children's Hospital Colorado",
+      "street_name": "13123 East 16th Ave Aurora, CO 80045"
+    },
+    {
+      "first_name": "Debbie Mood, PhD",
+      "specialty": "720-478-5000",
+      "street_name": "469 State Highway 7 Broomfield, CO 80023"
+    },
+    {
+      "first_name": "Markus Wu, MD",
+      "specialty": "Diagnostic",
+      "located": "University of Colorado Hospital",
+      "street_name": "12605 E. 16th Ave Aurora, CO 80045"
+    },
+    {
+      "first_name": "Kevin Messacar, MD",
+      "specialty": "Pediatric Infectious Diseases, Pediatrics",
+      "located": "Children's Hospital Colorado",
+      "street_name": "13123 East 16th Ave Aurora, CO 80045"
+    },
+    {
+      "first_name": "Gayle Soskolne Nosek, MD",
+      "specialty": "Pediatrics",
+      "street_name": "13123 East 16th Ave Aurora, CO 80045"
+    },
+    {
+      "first_name": "Christopher Yates, DO, MBA",
+      "specialty": "Anesthesiology",
+      "street_name": "12605 E. 16th Ave Aurora, CO 80045"
+    },
+    {
+      "first_name": "Amy Stimmler, CPNP, RN",
+      "specialty": "Pediatric Cardiology",
+      "located": "Children's Hospital Colorado",
+      "street_name": "13123 East 16th Ave Aurora, CO 80045"
+    },
+    {
+      "first_name": "Gretchen Domek, MD, MPhil",
+      "specialty": "Pediatrics",
+      "located": "Children's Hospital Colorado",
+      "street_name": "13123 East 16th Ave Aurora, CO 80045"
+    },
+    {
+      "first_name": "Mandy Dempsey, MD, PhD, MPH/MSPH",
+      "specialty": "Pediatrics",
+      "located": "University of Colorado Hospital, Children's Hospital Colorado",
+      "street_name": "12605 E. 16th Ave Aurora, CO 80045"
+    },
+    {
+      "first_name": "Devin Gilhuly, MD",
+      "specialty": "Geriatric Medicine",
+      "street_name": "12605 E. 16th Ave Aurora, CO 80045"
+    },
+    {
+      "first_name": "Damara Andreoli, CNM",
+      "specialty": "Certified Nurse Midwife",
+      "located": "University of Colorado Hospital",
+      "street_name": "1635 Aurora Ct Anschutz Outpatient Pavilion, 3rd Fl, Aurora, CO 80045"
+    },
+    {
+      "first_name": "Margaret Schenkman, PhD, PT, FAPTA",
+      "specialty": "Physical Medicine and Rehabilitation",
+      "located": "University of Colorado Hospital",
+      "street_name": "12605 E. 16th Ave Aurora, CO 80045"
+    },
+    {
+      "first_name": "Sarah Schwenk, NP",
+      "specialty": "Psychology",
+      "located": "University of Colorado Hospital",
+      "street_name": "1890 N Revere Ct Anschutz Health Sciences Bldg, Suite 5240, Aurora, CO 80045"
+    },
+    {
+      "first_name": "Nelson Head, PA-C",
+      "specialty": "Pediatric Hematology / Oncology",
+      "located": "Children's Hospital Colorado",
+      "street_name": "13123 East 16th Ave Aurora, CO 80045"
+    },
+    {
+      "first_name": "Lauren Grossman, MD, MS",
+      "specialty": "Emergency Medicine",
+      "located": "University of Colorado Hospital",
+      "street_name": "1500 Park Central Drive Suite 101, Highlands Ranch, CO 80129"
+    },
+    {
+      "first_name": "Hana Smith, MD",
+      "specialty": "Pediatrics",
+      "located": "Children's Hospital Colorado",
+      "street_name": "860 N Potomac Cir Aurora, CO 80011"
+    },
+    {
+      "first_name": "Alison Percowycz, FNP",
+      "specialty": "Neurology",
+      "located": "University of Colorado Hospital",
+      "street_name": "8111 E. Lowry Blvd Denver, CO 80230"
+    },
+    {
+      "first_name": "Marina Shindell, DO",
+      "specialty": "Anesthesiology",
+      "located": "University of Colorado Hospital",
+      "street_name": "100 Cook Street Suite 500, Denver, CO 80206"
+    },
+    {
+      "first_name": "Dianna Quan, MD",
+      "specialty": "Neuromuscular Medicine, Neurology",
+      "located": "University of Colorado Hospital",
+      "street_name": "1635 Aurora Ct Aurora, CO 80045"
+    },
+    {
+      "first_name": "Melanie Levin, MD",
+      "specialty": "Pediatric Radiology",
+      "located": "University of Colorado Hospital, Children's Hospital Colorado",
+      "street_name": "1811 Plaza Drive Highlands Ranch, CO 80129"
+    },
+    {
+      "first_name": "Sarah Tamura, PA-C, MPAS, MPH",
+      "specialty": "Orthopedics",
+      "street_name": "Anschutz Inpatient Pavilion - 1st Floor 12605 E. 16th Avenue, Aurora, CO 80045"
+    },
+    {
+      "first_name": "Abdelrahman Abdelazim, MD",
+      "specialty": "Abdominal Radiology",
+      "street_name": "12605 E. 16th Ave Aurora, CO 80045"
+    },
+    {
+      "first_name": "Kathleen (Katie) Dorris, MD",
+      "specialty": "Pediatric Hematology / Oncology, Pediatrics",
+      "located": "Children's Hospital Colorado",
+      "street_name": "13123 East 16th Ave Aurora, CO 80045"
+    },
+    {
+      "first_name": "Mitchell Daniel, MD",
+      "specialty": "Pediatric Anesthesiology",
+      "street_name": "13123 East 16th Ave Aurora, CO 80045"
+    },
+    {
+      "first_name": "Kelly Maize, AA",
+      "specialty": "Anesthesiology",
+      "street_name": "12605 E. 16th Ave Aurora, CO 80045"
+    },
+    {
+      "first_name": "Amy Nordon-Craft, DSC, PT",
+      "specialty": "720-848-0000",
+      "street_name": "12605 E. 16th Ave Aurora, CO 80045"
+    },
+    {
+      "first_name": "Kim Weigers, MD",
+      "specialty": "Pediatric Anesthesiology",
+      "located": "University of Colorado Hospital, Children's Hospital Colorado",
+      "street_name": "13123 East 16th Ave Aurora, CO 80045"
+    },
+    {
+      "first_name": "Devon Wall, FNP",
+      "specialty": "720-848-9474",
+      "street_name": "9544 Park Meadows Drive Suite 100, Lone Tree, CO 80124"
+    },
+    {
+      "first_name": "Emily Wheat, PhD",
+      "specialty": "Psychology",
+      "street_name": "13123 East 16th Ave Aurora, CO 80045"
+    },
+    {
+      "first_name": "Melkon DomBourian, MD",
+      "specialty": "720-777-1234",
+      "street_name": "1635 Aurora Ct Aurora, CO 80045"
+    },
+    {
+      "first_name": "Joshua Smith, MD",
+      "specialty": "Critical Care Medicine, Pulmonary Disease, Internal Medicine",
+      "located": "University of Colorado Hospital",
+      "street_name": "12605 E. 16th Ave Aurora, CO 80045"
+    },
+    {
+      "first_name": "Alexis Ritvo, MD, MPH, BA",
+      "specialty": "Psychiatry, Addiction Psychiatry",
+      "street_name": "1890 N Revere Ct Anschutz Health Sciences Bldg, Suite 4020, Aurora, CO 80045"
+    },
+    {
+      "first_name": "Jennifer Tilden, MSW, LCSW",
+      "specialty": "Endocrinology, Diabetes and Metabolism",
+      "street_name": "1775 Aurora Ct Suite A140, Aurora, CO 80045"
+    },
+    {
+      "first_name": "Daniel Pastula, MD",
+      "specialty": "Neurology",
+      "located": "University of Colorado Hospital",
+      "street_name": "1635 Aurora Ct 4th Floor, Aurora, CO 80045"
+    },
+    {
+      "first_name": "Stephen Scott, MD, MPH",
+      "specialty": "Obstetrics and Gynecology",
+      "located": "University of Colorado Hospital, Children's Hospital Colorado",
+      "street_name": "13123 East 16th Ave Aurora, CO 80045"
+    },
+    {
+      "first_name": "Christina Yannetsos, MD",
+      "specialty": "Emergency Medicine",
+      "located": "University of Colorado Hospital",
+      "street_name": "12505 E. 16th Ave Aurora, CO 80045"
+    },
+    {
+      "first_name": "Stacey Martiniano, MD",
+      "specialty": "Pediatrics, Pediatric Pulmonology",
+      "located": "Children's Hospital Colorado, University of Colorado Hospital",
+      "street_name": "13123 East 16th Ave Aurora, CO 80045"
+    },
+    {
+      "first_name": "Laura Reinman, PhD, MA",
+      "specialty": "Child and Adolescent Psychiatry",
+      "street_name": "13123 East 16th Ave Aurora, CO 80045"
+    },
+    {
+      "first_name": "Alicia Wong, MD, MA, MPH",
+      "specialty": "Family Medicine",
+      "street_name": "12605 E. 16th Ave Aurora, CO 80045"
+    },
+    {
+      "first_name": "Michael Moore, PA-C",
+      "specialty": "Trauma and Acute Care Surgery",
+      "street_name": "12605 E. 16th Ave Aurora, CO 80045"
+    },
+    {
+      "first_name": "Deepika Patel, PsyD",
+      "specialty": "Developmental-Behavioral Pediatrics",
+      "located": "Children's Hospital Colorado",
+      "street_name": "4125 Briargate Pkwy Colorado Springs, CO 80920"
+    },
+    {
+      "first_name": "Casey Madison, NP",
+      "specialty": "Child Neurology",
+      "street_name": "13123 East 16th Ave Aurora, CO 80045"
+    },
+    {
+      "first_name": "Allana Lenz, PA-C, MMSc",
+      "specialty": "Pediatric Orthopedics",
+      "located": "Children's Hospital Colorado",
+      "street_name": "1811 Plaza Drive Highlands Ranch, CO 80129"
+    },
+    {
+      "first_name": "Venessa Mazur, PA-C",
+      "specialty": "720-848-2777",
+      "street_name": "1635 Aurora Ct 5th Floor, Aurora, CO 80045"
+    },
+    {
+      "first_name": "James Colbert, MD",
+      "specialty": "Infectious Disease",
+      "street_name": "1635 Aurora Ct 7th Floor, Aurora, CO 80045"
+    },
+    {
+      "first_name": "Nanette Santoro, MD",
+      "specialty": "Reproductive Endocrinology / Infertility, Obstetrics and Gynecology",
+      "located": "University of Colorado Hospital",
+      "street_name": "100 Cook Street Suite 312, Denver, CO 80206"
+    },
+    {
+      "first_name": "Rachel Clopton, MD",
+      "specialty": "Anesthesiology, Pediatric Anesthesiology",
+      "located": "Children's Hospital Colorado, Saint Joseph Hospital, University of Colorado Hospital",
+      "street_name": "12605 E. 16th Ave Aurora, CO 80045"
+    },
+    {
+      "first_name": "Elizabeth Gray, PA-C",
+      "specialty": "Emergency Medicine",
+      "located": "University of Colorado Hospital",
+      "street_name": "12505 E. 16th Ave Aurora, CO 80045"
+    },
+    {
+      "first_name": "Kenny Chan, MD",
+      "specialty": "Pediatric Otolaryngology, Otolaryngology - Head & Neck Surgery",
+      "located": "University of Colorado Hospital, Children's Hospital Colorado",
+      "street_name": "1811 Plaza Drive Highlands Ranch, CO 80129"
+    },
+    {
+      "first_name": "Donna Colobong, PA",
+      "specialty": "Hospital Medicine",
+      "street_name": "12605 E. 16th Ave Aurora, CO 80045"
+    },
+    {
+      "first_name": "Peter T. Kennealey, MD, FACS",
+      "specialty": "Surgery",
+      "located": "Children's Hospital Colorado, University of Colorado Hospital",
+      "street_name": "1635 Aurora Ct 7th Floor, Aurora, CO 80045"
+    },
+    {
+      "first_name": "Naveen Kukreja, MD",
+      "specialty": "Anesthesiology, Critical Care Medicine",
+      "located": "University of Colorado Hospital",
+      "street_name": "12605 E. 16th Ave Aurora, CO 80045"
+    },
+    {
+      "first_name": "Tara Eastman, NP",
+      "specialty": "Critical Care Medicine",
+      "street_name": "12605 E. 16th Ave Aurora, CO 80045"
+    },
+    {
+      "first_name": "Emily Stoddard, LCSW",
+      "specialty": "Psychology",
+      "street_name": "13123 East 16th Ave Aurora, CO 80045"
+    },
+    {
+      "first_name": "Susan Johnson, PhD",
+      "specialty": "(303) 724-3260",
+      "street_name": "13123 East 16th Ave Aurora, CO 80045"
+    },
+    {
+      "first_name": "Kristin Kim, MD, PhD",
+      "specialty": "Pediatrics, Pediatric Emergency Medicine",
+      "street_name": "13123 East 16th Ave Aurora, CO 80045"
+    },
+    {
+      "first_name": "Jordan Volk, NP, MSN",
+      "specialty": "Hematology",
+      "located": "University of Colorado Hospital",
+      "street_name": "12605 E. 16th Ave Aurora, CO 80045"
+    },
+    {
+      "first_name": "KC Woulfe, PhD",
+      "specialty": "720-848-0000",
+      "street_name": "12605 E. 16th Ave Aurora, CO 80045"
+    },
+    {
+      "first_name": "Mark Brittan, MD",
+      "specialty": "Pediatrics",
+      "located": "Children's Hospital Colorado",
+      "street_name": "13123 East 16th Ave Aurora, CO 80045"
+    },
+    {
+      "first_name": "Marguerite Korber, NP",
+      "specialty": "Urology",
+      "located": "Children's Hospital Colorado",
+      "street_name": "469 State Highway 7 Broomfield, CO 80023"
+    },
+    {
+      "first_name": "Nazanin Bahraini, PhD",
+      "specialty": "Physical Medicine and Rehabilitation",
+      "street_name": "12605 E. 16th Ave Aurora, CO 80045"
+    },
+    {
+      "first_name": "Thomas Gross, MD, PhD",
+      "specialty": "Pediatric Hematology / Oncology",
+      "street_name": "13123 East 16th Ave Aurora, CO 80045"
+    }
+  ]
+}

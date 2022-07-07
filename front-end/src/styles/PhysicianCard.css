@@ -1,0 +1,156 @@
+.PhysicianCard {
+  display: grid;
+  grid-template-columns: 1fr;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 0 5px 5px 0 rgba(0, 0, 0, 0.1);
+  width: 35rem;
+}
+.card-heading {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.name {
+  color: #495057;
+  font-size: 1.6rem;
+  margin-bottom: 0.8rem;
+}
+.specialty {
+  font-size: 1.2rem;
+  margin-bottom: 2rem;
+  font-weight: 600;
+}
+.image {
+  width: 100%;
+  height: 40rem;
+  align-self: start;
+  justify-self: center;
+}
+.PhysicianBio {
+  line-height: 1.8;
+  margin-bottom: 2.4rem;
+  padding: 2rem;
+  font-weight: 500;
+  font-size: 1.2rem;
+}
+.details {
+  display: flex;
+  flex-direction: column;
+  gap: 1.2rem;
+  padding: 1.6rem;
+}
+.detail-list {
+  display: flex;
+  flex-direction: column;
+  gap: 2.4rem;
+  margin-bottom: 1.8rem;
+}
+.detail-item {
+  list-style: none;
+  font-size: 1.6rem;
+  font-weight: 500;
+}
+
+.rating {
+  margin-right: 2rem;
+  margin-bottom: 4.8rem;
+}
+.stars {
+  display: flex;
+  gap: 0.2rem;
+}
+.physician-card-link:link,
+.physician-card-link:visited {
+  text-decoration: none;
+  color: #495057;
+  margin-bottom: 1rem;
+  padding-bottom: 0.5rem;
+  transition: 0.3s;
+}
+.physician-card-link:hover,
+.physician-card-link:active {
+  box-shadow: 0 2px 0 0 #212529;
+  text-decoration: none;
+  color: #495057;
+}
+.card-footer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  justify-self: center;
+  font-size: 2.4rem;
+  margin-bottom: 2.5rem;
+}
+/* @media only screen and (max-width: 768px) {
+  .PhysicianCard {
+    display: block;
+    text-align: center;
+    width: 100%;
+  }
+  .PhysicianCardImage {
+    max-width: 100%;
+    border-radius: 5%;
+  }
+  .PhysicianCardImageContainer {
+    width: 50%;
+    margin: 0 0 10% 25%;
+  }
+  .PhysicianCardInfo {
+    width: 100%;
+  }
+  .PhysicianBio {
+    width: 60%;
+    padding: 0;
+  }
+  .physicianRatingContainer img {
+    margin-right: 1%;
+    margin-left: 1%;
+    margin-bottom: 5%;
+    cursor: pointer;
+  }
+}
+@media only screen and (min-width: 768px) {
+  .PhysicianCard {
+    border-radius: 30px;
+    display: block;
+    text-align: center;
+    margin: 30px 30px 30px 30px;
+    padding: 30px 30px 150px 30px;
+    width: 30%;
+    text-align: left;
+  }
+  .PhysicianCardImage {
+    position: relative;
+    bottom: 60px;
+    max-width: 100%;
+    max-height: 100%;
+    border-radius: 5%;
+    margin: 0;
+  }
+  .PhysicianCardImageContainer {
+    width: 35%;
+    margin: 0;
+  }
+  .PhysicianCardInfo {
+    width: 40%;
+    float: right;
+  }
+  .PhysicianBio {
+    width: 60%;
+    padding: 0;
+  }
+  .physicianRatingContainer {
+    position: relative;
+    top: 350px;
+    left: 420px;
+    height: 100%;
+    width: 40%;
+    text-align: left;
+  }
+  .physicianRatingContainer img {
+    margin-right: 3px;
+    cursor: pointer;
+  }
+} */

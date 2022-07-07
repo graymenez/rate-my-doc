@@ -1,0 +1,188 @@
+/* ###################################################################### */
+
+/*                         UPDATE FORM                                    */
+
+/* ###################################################################### */
+
+.ProfileUpdateInfoForm {
+  display: flex;
+  flex-direction: column;
+  gap: 1.8rem;
+  /* background-color: aqua; */
+  padding: 2rem 2rem;
+  width: 100%;
+  box-shadow: 0 10px 10px 0 #49505712;
+  border-radius: 1rem;
+  border: 0.5px solid #4950570d;
+  grid-row: 1/-1;
+}
+.form-title {
+  font-size: 2.4rem;
+  margin-bottom: 2.4rem;
+}
+.ProfileForm-section {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-template-rows: 2fr 1fr;
+  width: 100%;
+  gap: 5rem;
+}
+.ProfileUpdateInfoForm input {
+  padding: 1rem 0.4rem;
+  font-size: 1.2rem;
+  font-style: inherit;
+  font-weight: 600;
+}
+.ProfileUpdateInfoForm button {
+  background: none;
+  border: none;
+  background-color: #339af0;
+  color: #fff;
+  width: 30%;
+  padding: 1.4rem 0;
+  font-size: 1.4rem;
+  font-weight: 500;
+  align-self: center;
+  cursor: pointer;
+  box-shadow: 0 5px 5px 0 rgba(72, 79, 86, 0.112);
+  border-radius: 2px;
+}
+
+/* ###################################################################### */
+
+/*                         PROFILE DETAILS                                */
+
+/* ###################################################################### */
+
+.current-information {
+  justify-self: center;
+  display: block;
+  padding: 2rem 2rem;
+  box-shadow: 0 10px 10px 0 #49505712;
+  border-radius: 1rem;
+  border: 0.5px solid #4950570d;
+}
+.current-information-title {
+  font-size: 2.4rem;
+  margin-bottom: 2.4rem;
+}
+.info-list {
+  display: flex;
+  flex-direction: column;
+  gap: 2.4rem;
+  list-style: none;
+  font-size: 1.6rem;
+}
+.info-list li {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  width: 100%;
+  gap: 3.2rem;
+  align-items: center;
+}
+.info-list li p {
+  display: flex;
+  overflow: hidden;
+  align-items: flex-end;
+}
+.user-detail {
+  padding: 1rem;
+  background-color: #ffe8cca0;
+}
+.user-detail-empty {
+  padding: 1rem 1rem;
+  background-color: #ffffff;
+}
+.informationlist-warning-icon {
+  justify-self: center;
+  align-self: center;
+  font-size: 2rem;
+  padding: 0 1rem;
+  color: #ffd43b;
+}
+
+/* ###################################################################### */
+
+/*                         ADD PHOTO                                      */
+
+/* ###################################################################### */
+.add-photo-container {
+  grid-column: -4/-1;
+}
+.image-form-title {
+  grid-column: 1/-1;
+  margin-bottom: 2.8rem;
+  align-self: center;
+  justify-self: center;
+  font-size: 2.4rem;
+}
+.ProfileImageContainer {
+  background-color: #4950570d;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  align-items: center;
+  justify-content: space-around;
+  padding: 3.2rem 4.8rem;
+  width: 50%;
+  box-shadow: 0 5px 5px 0 rgba(72, 79, 86, 0.112);
+  border-radius: 1rem;
+}
+.image-form {
+  align-self: flex-end;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 9.6rem;
+  gap: 2.4rem;
+}
+.image-form-input {
+  display: none;
+}
+.image-upload-btn {
+  font-size: 9.6rem;
+  cursor: pointer;
+}
+.image-btn {
+  background: none;
+  border: none;
+  background-color: #339af0;
+  color: #fff;
+  padding: 0.8rem 2rem;
+  border-radius: 0.8rem;
+  cursor: pointer;
+}
+.preview-image {
+  background-color: white;
+  border: 2px solid rgba(128, 128, 128, 0.3);
+  padding: 4rem 4rem;
+  justify-self: center;
+  align-self: center;
+  width: 40rem;
+  height: 40rem;
+}
+.preview-no-image {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  align-items: center;
+  background-color: white;
+  border: 2px solid rgba(128, 128, 128, 0.3);
+  padding: 4rem 4rem;
+  justify-self: center;
+  align-self: center;
+  width: 40rem;
+  height: 40rem;
+  font-size: 2.8rem;
+  gap: 2rem;
+  color: #4950578d;
+}
+
+.click-instruction {
+  font-size: 2rem;
+}
+.click-instruction-arrow {
+  font-size: 2rem;
+  color: #339af0;
+}

@@ -1,0 +1,901 @@
+{
+  "hospitals": [
+    {
+      "name": "Animas Surgical Hospital",
+      "city": "Durango",
+      "service_type": "Acute Hospital",
+      "location_type": "Rural",
+      "address": "575 Rivergate LnDurango, CO 81301-7487 US",
+      "phone": "(970) 247-3537",
+      "fax": "(970) 385-2355",
+      "hospital_website": "http://www.animassurgical.com/"
+    },
+    {
+      "name": "Arkansas Valley Regional Medical Center",
+      "city": "La Junta",
+      "service_type": "Critical Access Hospital",
+      "address": "1100 Carson AvenueLa Junta, CO 81050-2751 US",
+      "phone": "(719) 384-5412",
+      "fax": "(719) 383-6005",
+      "hospital_website": "http://www.avrmc.org/"
+    },
+    {
+      "name": "Aspen Valley Hospital",
+      "city": "Aspen",
+      "service_type": "Critical Access Hospital",
+      "address": "0401 Castle Creek RdAspen, CO 81611-1159 US",
+      "phone": "(970) 925-1120",
+      "fax": "(970) 544-1585",
+      "hospital_website": "http://www.aspenvalleyhospital.org/"
+    },
+    {
+      "name": "Avista Adventist Hospital",
+      "city": "Louisville",
+      "service_type": "Acute Hospital",
+      "address": "100 Health Park DriveLouisville, CO 80027 US",
+      "phone": "(303) 673-1000",
+      "fax": "(303) 673-1048",
+      "hospital_website": "http://www.avistahospital.org/"
+    },
+    {
+      "name": "Banner Fort Collins Medical Center",
+      "city": "Fort Collins",
+      "service_type": "Acute Hospital",
+      "address": "4700 Lady Moon Dr.Fort Collins, CO 80528 US",
+      "phone": "(970) 821-4000",
+      "fax": "www.bannerhealth.com",
+      "hospital_website": "http://www.bannerhealth.com/"
+    },
+    {
+      "name": "Boulder Community Health",
+      "city": "Boulder",
+      "service_type": "Acute Hospital",
+      "address": "4747 Arapahoe AveBoulder, CO 80303 US",
+      "phone": "(303) 415-7000",
+      "fax": "(303) 415-7439",
+      "hospital_website": "http://www.bch.org/"
+    },
+    {
+      "name": "Castle Rock Adventist Hospital",
+      "city": "Castle Rock",
+      "service_type": "Acute Hospital",
+      "address": "2350 Meadows BlvdCastle Rock, CO 80109 US",
+      "phone": "(720) 455-5000",
+      "fax": "(720) 455-2555",
+      "hospital_website": "http://www.castlerockhospital.org/"
+    },
+    {
+      "name": "Cedar Springs Hospital",
+      "city": "Colorado Springs",
+      "service_type": "Psychiatric Hospital",
+      "address": "2135 Southgate RoadColorado Springs, Colorado 80906 US",
+      "phone": "(719) 633-4114",
+      "fax": "(719) 329-5315",
+      "hospital_website": "http://www.cedarspringshospital.com/"
+    },
+    {
+      "name": "Centennial Hospital",
+      "city": "Centennial",
+      "service_type": "Acute Hospital",
+      "address": "14200 E Arapahoe RdCentennial, CO 80112-4065 US",
+      "phone": "(303) 699-3000",
+      "fax": "healthonecares.com/campaigns/centennial-medical-center",
+      "hospital_website": "https://healthonecares.com/campaigns/centennial-medical-center"
+    },
+    {
+      "name": "Centennial Peaks Hospital",
+      "city": "Louisville",
+      "service_type": "Psychiatric Hospital",
+      "address": "2255 S. 88th StreetLouisville, CO 80027 US",
+      "phone": "(303) 673-9990",
+      "fax": "(303) 673-9703",
+      "hospital_website": "http://www.centennialpeaks.com/"
+    },
+    {
+      "name": "Children's Hospital Colorado",
+      "city": "Aurora",
+      "service_type": "Acute Hospital",
+      "address": "13123 E. 16th Ave.Aurora, CO 80045 US",
+      "phone": "(720) 777-1234",
+      "fax": "(720) 777-7267",
+      "hospital_website": "http://www.childrenscolorado.org/"
+    },
+    {
+      "name": "Children's Hospital Colorado - Colorado Springs",
+      "city": "Colorado Springs",
+      "service_type": "Acute Hospital",
+      "address": "4090 Briargate PkwyColorado Springs, CO 80920-7804 US",
+      "phone": "(719) 305-1234"
+    },
+    {
+      "name": "Community Hospital",
+      "city": "Grand Junction",
+      "service_type": "Acute Hospital",
+      "address": "2351 G RoadGrand Junction, CO 81505 US",
+      "phone": "(970) 242-0920",
+      "fax": "(970) 256-6510",
+      "hospital_website": "http://www.yourcommunityhospital.com/"
+    },
+    {
+      "name": "Craig Hospital",
+      "city": "Englewood",
+      "service_type": "Long Term Acute Hospital",
+      "address": "3425 S. Clarkson StEnglewood, CO 80113 US",
+      "phone": "(303) 789-8000",
+      "fax": "(303) 789-8219",
+      "hospital_website": "http://www.craighospital.org/"
+    },
+    {
+      "name": "Delta Health",
+      "city": "Delta",
+      "service_type": "Acute Hospital",
+      "address": "PO Box 101001501 E 3rd StDelta, CO 81416 US",
+      "phone": "(970) 874-7681",
+      "fax": "(970) 874-2227",
+      "hospital_website": "http://www.deltahealthco.org/"
+    },
+    {
+      "name": "Denver Health",
+      "city": "Denver",
+      "service_type": "Acute Hospital",
+      "address": "777 Bannock StreetDenver, CO 80204 US",
+      "phone": "(303) 436-6000",
+      "fax": "www.denverhealth.org",
+      "hospital_website": "http://www.denverhealth.org/"
+    },
+    {
+      "name": "Denver Springs",
+      "city": "Englewood",
+      "service_type": "Psychiatric Hospital",
+      "address": "8835 American WayEnglewood, CO 80112-7056 US",
+      "phone": "(720) 643-4300",
+      "fax": "www.denversprings.com",
+      "hospital_website": "http://www.denversprings.com/"
+    },
+    {
+      "name": "East Morgan County Hospital",
+      "city": "Brush",
+      "service_type": "Critical Access Hospital",
+      "address": "2400 W. EdisonBrush, CO 80723 US",
+      "phone": "(970) 842-6200",
+      "fax": "(970) 842-3572",
+      "hospital_website": "http://www.bannerhealth.com/EastMorgan"
+    },
+    {
+      "name": "Encompass Health Rehabilitation Hospital of Colorado Springs",
+      "city": "Colorado Springs",
+      "service_type": "Rehabilitation Hospital",
+      "address": "325 Parkside DriveColorado Springs, CO 80910 US",
+      "phone": "(719) 630-8000",
+      "fax": "www.encompasshealth.com/coloradospringsrehab",
+      "hospital_website": "https://www.encompasshealth.com/coloradospringsrehab"
+    },
+    {
+      "name": "Encompass Health Rehabilitation Hospital of Littleton",
+      "city": "Littleton",
+      "service_type": "Rehabilitation Hospital",
+      "address": "1001 West Mineral AvenueLittleton, CO 80120 US",
+      "phone": "(303) 334-1100",
+      "fax": "(303) 334-1495",
+      "hospital_website": "https://www.encompasshealth.com/littletonrehab"
+    },
+    {
+      "name": "Estes Park Health",
+      "city": "Estes Park",
+      "service_type": "Critical Access Hospital",
+      "address": "PO Box 2740555 Prospect AveEstes Park, CO 80517 US",
+      "phone": "(970) 586-2317",
+      "fax": "(970) 586-9514",
+      "hospital_website": "http://www.eph.org/"
+    },
+    {
+      "name": "Family Health West Hospital",
+      "city": "Fruita",
+      "service_type": "Critical Access Hospital",
+      "address": "PO Box 130300 West Ottley AveFruita, CO 81521-2118 US",
+      "phone": "(970) 858-3900",
+      "fax": "(970) 858-2202",
+      "hospital_website": "http://www.fhw.org/"
+    },
+    {
+      "name": "Good Samaritan Medical Center",
+      "city": "Lafayette",
+      "service_type": "Acute Hospital",
+      "address": "200 Exempla CircleLafayette, CO 80026 US",
+      "phone": "(303) 689-4000",
+      "fax": "(303) 689-6999",
+      "hospital_website": "http://www.goodsamaritancolorado.org/"
+    },
+    {
+      "name": "Grand River Hospital District",
+      "city": "Rifle",
+      "service_type": "Critical Access Hospital",
+      "address": "PO Box 912501 Airport RdRifle, CO 81650 US",
+      "phone": "(970) 625-1510",
+      "fax": "(970) 625-6486",
+      "hospital_website": "http://www.grhd.org/"
+    },
+    {
+      "name": "Gunnison Valley Health",
+      "city": "Gunnison",
+      "service_type": "Critical Access Hospital",
+      "address": "711 N. Taylor St.Gunnison, CO 81230 US",
+      "phone": "(970) 641-1456",
+      "fax": "(970) 641-7219",
+      "hospital_website": "http://www.gunnisonvalleyhealth.org/"
+    },
+    {
+      "name": "Haxtun Hospital District",
+      "city": "Haxtun",
+      "service_type": "Critical Access Hospital",
+      "address": "235 W Fletcher StHaxtun, Colorado 80731 US",
+      "phone": "(970) 774-6123",
+      "fax": "(970) 774-6158",
+      "hospital_website": "http://www.haxtunhealth.org/"
+    },
+    {
+      "name": "Heart of the Rockies Regional Medical Center",
+      "city": "Salida",
+      "service_type": "Critical Access Hospital",
+      "address": "PO Box 4291000 Rush DrSalida, CO 81201 US",
+      "phone": "(719) 530-2200",
+      "fax": "(719) 530-2201",
+      "hospital_website": "http://www.hrrmc.com/"
+    },
+    {
+      "name": "Highlands Behavioral Health System",
+      "city": "Littleton",
+      "service_type": "Psychiatric Hospital",
+      "address": "8565 S. Poplar WayLittleton, CO 80130 US",
+      "phone": "(720) 348-2800",
+      "fax": "(720) 348-2803",
+      "hospital_website": "http://www.highlandsbhs.com/"
+    },
+    {
+      "name": "Keefe Memorial Health Service District",
+      "city": "Cheyenne Wells",
+      "service_type": "Critical Access Hospital",
+      "address": "PO Box 578602 N 6th West StCheyenne Wells, CO 80810 US",
+      "phone": "(719) 767-5661",
+      "fax": "(719) 767-8042",
+      "hospital_website": "http://www.keefememorial.com/"
+    },
+    {
+      "name": "Kindred Hospital - Aurora",
+      "city": "Aurora",
+      "service_type": "Long Term Acute Hospital",
+      "address": "700 Potomac St, 2nd FlrAurora, CO 80011 US",
+      "phone": "(720) 857-8333",
+      "fax": "(720) 858-0366",
+      "hospital_website": "http://www.khaurora.com/"
+    },
+    {
+      "name": "Kindred Hospital - Denver",
+      "city": "Denver",
+      "service_type": "Long Term Acute Hospital",
+      "address": "1920 High StreetDenver, CO 80218 US",
+      "phone": "(303) 320-5871",
+      "fax": "(303) 377-6212",
+      "hospital_website": "http://www.kh-denver.com/"
+    },
+    {
+      "name": "Kit Carson County Health Service District",
+      "city": "Burlington",
+      "service_type": "Critical Access Hospital",
+      "address": "286 16th StreetBurlington, CO 80807 US",
+      "phone": "(719) 346-5311",
+      "fax": "(719) 346-4880",
+      "hospital_website": "http://www.kcchsd.org/"
+    },
+    {
+      "name": "Lincoln Health",
+      "city": "Hugo",
+      "service_type": "Critical Access Hospital",
+      "address": "PO Box 248111 6th StHugo, CO 80821 US",
+      "phone": "(719) 743-2421",
+      "fax": "(719) 743-2880",
+      "hospital_website": "https://www.hugohospital.com/"
+    },
+    {
+      "name": "Littleton Adventist Hospital",
+      "city": "Littleton",
+      "service_type": "Acute Hospital",
+      "address": "7700 S BroadwayLittleton, CO 80122 US",
+      "phone": "(303) 730-8900",
+      "fax": "(303) 730-5858",
+      "hospital_website": "http://www.mylittletonhospital.org/"
+    },
+    {
+      "name": "Longmont United Hospital",
+      "city": "Longmont",
+      "service_type": "Acute Hospital",
+      "address": "1950 Mountain View AveLongmont, CO 80501 US",
+      "phone": "(303) 651-5111",
+      "fax": "(303) 678-4050",
+      "hospital_website": "http://www.luhcares.org/"
+    },
+    {
+      "name": "Lutheran Medical Center",
+      "city": "Wheat Ridge",
+      "service_type": "Acute Hospital",
+      "address": "8300 W. 38th AvenueWheat Ridge, CO 80033 US",
+      "phone": "(303) 425-4500",
+      "fax": "(303) 425-8198",
+      "hospital_website": "http://www.sclhealth.org/locations/lutheran-medical-center"
+    },
+    {
+      "name": "McKee Medical Center",
+      "city": "Loveland",
+      "service_type": "Acute Hospital",
+      "address": "2000 Boise AveLoveland, CO 80538 US",
+      "phone": "(970) 820-4640",
+      "fax": "(970) 635-4066",
+      "hospital_website": "http://www.mckeeloveland.com/"
+    },
+    {
+      "name": "Melissa Memorial Hospital",
+      "city": "Holyoke",
+      "service_type": "Critical Access Hospital",
+      "address": "1001 E Johnson StHolyoke, CO 80734 US",
+      "phone": "(970) 854-2241",
+      "fax": "(970) 854-3821",
+      "hospital_website": "http://www.melissamemorial.org/"
+    },
+    {
+      "name": "Memorial Regional Health",
+      "city": "Craig",
+      "service_type": "Critical Access Hospital",
+      "address": "750 Hospital LoopCraig, CO 81625 US",
+      "phone": "(970) 824-9411",
+      "fax": "(970) 826-3119",
+      "hospital_website": "http://www.memorialregionalhealth.com/"
+    },
+    {
+      "name": "Mercy Regional Medical Center",
+      "city": "Durango",
+      "service_type": "Acute Hospital",
+      "address": "1010 Three Springs BlvdDurango, CO 81301 US",
+      "phone": "(970) 247-4311",
+      "fax": "(970) 764-3919",
+      "hospital_website": "http://www.mercydurango.org/"
+    },
+    {
+      "name": "Middle Park Health - Kremmling/Granby",
+      "city": "Kremmling",
+      "service_type": "Critical Access Hospital",
+      "address": "214 S. 4th StreetP.O. Box 399Kremmling, CO 80459 US",
+      "phone": "(970) 724-3442",
+      "fax": "(970) 724-9606",
+      "hospital_website": "http://www.middleparkhealth.org/"
+    },
+    {
+      "name": "Montrose Regional Health",
+      "city": "Montrose",
+      "service_type": "Acute Hospital",
+      "address": "800 South Third StMontrose, CO 81401 US",
+      "phone": "(970) 249-2211",
+      "fax": "(970) 252-2525",
+      "hospital_website": "http://www.montrosehealth.com/"
+    },
+    {
+      "name": "Mt. San Rafael Hospital",
+      "city": "Trinidad",
+      "service_type": "Critical Access Hospital",
+      "address": "410 Benedicta Ave.Trinidad, CO 81082 US",
+      "phone": "(719) 846-9213",
+      "fax": "(719) 846-2752",
+      "hospital_website": "http://www.msrhc.org/"
+    },
+    {
+      "name": "National Jewish Health",
+      "city": "Denver",
+      "service_type": "Acute Hospital",
+      "address": "1400 Jackson StDenver, CO 80206 US",
+      "phone": "(303) 388-4461",
+      "fax": "(303) 398-1040",
+      "hospital_website": "http://www.njhealth.org/"
+    },
+    {
+      "name": "North Colorado Medical Center",
+      "city": "Greeley",
+      "service_type": "Acute Hospital",
+      "address": "1801 16th StGreeley, CO 80631 US",
+      "phone": "(970) 810-4121",
+      "fax": "(970) 810-6644",
+      "hospital_website": "http://www.bannerhealth.com/"
+    },
+    {
+      "name": "North Suburban Medical Center",
+      "city": "Thornton",
+      "service_type": "Acute Hospital",
+      "address": "9191 Grant StreetThornton, CO 80229 US",
+      "phone": "(303) 451-7800",
+      "fax": "(303) 450-4458",
+      "hospital_website": "http://www.northsuburban.com/"
+    },
+    {
+      "name": "OrthoColorado Hospital",
+      "city": "Lakewood",
+      "service_type": "Acute Hospital",
+      "address": "11650 West 2nd PlaceLakewood, CO 80228 US",
+      "phone": "(720) 321-5000",
+      "fax": "www.orthocolorado.org",
+      "hospital_website": "http://www.orthocolorado.org/"
+    },
+    {
+      "name": "Pagosa Springs Medical Center",
+      "city": "Pagosa Springs",
+      "service_type": "Critical Access Hospital",
+      "address": "95 S. Pagosa Blvd.Pagosa Springs, CO 81147 US",
+      "phone": "(970) 731-3700",
+      "fax": "(970) 731-3707",
+      "hospital_website": "http://www.pagosaspringsmedicalcenter.com/"
+    },
+    {
+      "name": "Parker Adventist Hospital",
+      "city": "Parker",
+      "service_type": "Acute Hospital",
+      "address": "9395 Crown Crest BlvdParker, CO 80138-8573 US",
+      "phone": "(303) 269-4000",
+      "fax": "(303) 269-4019",
+      "hospital_website": "http://www.parkerhospital.org/"
+    },
+    {
+      "name": "Parkview Health System",
+      "city": "Pueblo",
+      "service_type": "Acute Hospital",
+      "address": "400 West 16th St.Pueblo, CO 81003 US",
+      "phone": "(719) 584-4000",
+      "fax": "(719) 584-4739",
+      "hospital_website": "http://www.parkviewmc.com/"
+    },
+    {
+      "name": "Penrose-St. Francis Health Services",
+      "city": "Colorado Springs",
+      "service_type": "Acute Hospital",
+      "address": "2222 N. Nevada Ave.Colorado Springs, CO 80907 US",
+      "phone": "(719) 776-5000",
+      "fax": "(719) 776-2770",
+      "hospital_website": "http://www.penrosestfrancis.org/"
+    },
+    {
+      "name": "Pioneers Medical Center",
+      "city": "Meeker",
+      "service_type": "Critical Access Hospital",
+      "address": "100 Pioneers Medical Center DrMeeker, CO 81641-3181 US",
+      "phone": "(970) 878-5047",
+      "fax": "(970) 878-9262",
+      "hospital_website": "http://www.pioneershospital.org/"
+    },
+    {
+      "name": "Platte Valley Medical Center",
+      "city": "Brighton",
+      "service_type": "Acute Hospital",
+      "address": "1600 Prairie Center ParkwayBrighton, Colorado 80601 US",
+      "phone": "(303) 498-1600",
+      "fax": "(303) 498-1474",
+      "hospital_website": "http://www.pvmc.org/"
+    },
+    {
+      "name": "Porter Adventist Hospital",
+      "city": "Denver",
+      "service_type": "Acute Hospital",
+      "address": "2525 S. Downing StDenver, CO 80210 US",
+      "phone": "(303) 778-1955",
+      "fax": "(303) 778-5252",
+      "hospital_website": "http://www.centura.org/"
+    },
+    {
+      "name": "Post-Acute Medical Specialty Hospital of Denver",
+      "city": "Denver",
+      "service_type": "Long Term Acute Hospital",
+      "address": "1690 N. Meade StreetDenver, CO 80204 US",
+      "phone": "(303) 264-6900",
+      "fax": "(303) 264-6897",
+      "hospital_website": "http://www.postacutemedical.com/"
+    },
+    {
+      "name": "Presbyterian/St. Luke's Medical Center",
+      "city": "Denver",
+      "service_type": "Acute Hospital",
+      "address": "1719 East 19th Ave.Denver, CO 80218 US",
+      "phone": "(303) 839-6000",
+      "fax": "(303) 869-2428",
+      "hospital_website": "http://www.pslmc.com/"
+    },
+    {
+      "name": "Prowers Medical Center",
+      "city": "Lamar",
+      "service_type": "Critical Access Hospital",
+      "address": "401 Kendall DrLamar, CO 81052 US",
+      "phone": "(719) 336-4343",
+      "fax": "(719) 336-7207",
+      "hospital_website": "http://www.prowersmedical.com/"
+    },
+    {
+      "name": "Rangely District Hospital",
+      "city": "Rangely",
+      "service_type": "Critical Access Hospital",
+      "address": "225 Eagle Crest DriveRangely, CO 81648 US",
+      "phone": "(970) 675-5011",
+      "fax": "(970) 675-5224",
+      "hospital_website": "http://www.rangelyhospital.com/"
+    },
+    {
+      "name": "Rio Grande Hospital",
+      "city": "Del Norte",
+      "service_type": "Critical Access Hospital",
+      "address": "310 County Road 14Del Norte, CO 81132 US",
+      "phone": "(719) 657-2510",
+      "fax": "(719) 657-2511",
+      "hospital_website": "http://www.riograndehospital.org/"
+    },
+    {
+      "name": "Rose Medical Center",
+      "city": "Denver",
+      "service_type": "Acute Hospital",
+      "address": "4567 E 9th AveDenver, CO 80220-3908 US",
+      "phone": "(303) 320-2121",
+      "fax": "(303) 320-2200",
+      "hospital_website": "http://www.rosemed.com/"
+    },
+    {
+      "name": "Saint Joseph Hospital",
+      "city": "Denver",
+      "service_type": "Acute Hospital",
+      "address": "1375 East 19th AveDenver, CO 80218 US",
+      "phone": "(303) 812-2000",
+      "fax": "(303) 812-4296",
+      "hospital_website": "http://www.saintjosephdenver.org/"
+    },
+    {
+      "name": "San Luis Valley Health",
+      "city": "Alamosa",
+      "service_type": "Acute Hospital",
+      "address": "106 Blanca Ave.Alamosa, CO 81101-2393 US",
+      "phone": "(719) 589-2511",
+      "fax": "(719) 587-1372",
+      "hospital_website": "http://www.sanluisvalleyhealth.org/"
+    },
+    {
+      "name": "San Luis Valley Health Conejos County Hospital",
+      "city": "La Jara",
+      "service_type": "Critical Access Hospital",
+      "address": "19021 U.S. Hwy. 285La Jara, CO 81140 US",
+      "phone": "(719) 274-5121",
+      "fax": "(719) 274-6003",
+      "hospital_website": "http://www.sanluisvalleyhealth.org/"
+    },
+    {
+      "name": "Sedgwick County Health Center",
+      "city": "Julesburg",
+      "service_type": "Critical Access Hospital",
+      "address": "900 Cedar StJulesburg, CO 80737 US",
+      "phone": "(970) 474-3323",
+      "fax": "(970) 474-2758",
+      "hospital_website": "http://www.schealth.org/"
+    },
+    {
+      "name": "Sky Ridge Medical Center",
+      "city": "Lone Tree",
+      "service_type": "Acute Hospital",
+      "address": "10101 Ridgegate ParkwayLone Tree, CO 80124 US",
+      "phone": "(720) 225-1000",
+      "fax": "(720) 225-1009",
+      "hospital_website": "http://www.skyridgemedcenter.com/"
+    },
+    {
+      "name": "Southeast Colorado Hospital District",
+      "city": "Springfield",
+      "service_type": "Critical Access Hospital",
+      "address": "373 E 10th AveSpringfield, CO 81073 US",
+      "phone": "(719) 523-4501",
+      "fax": "(719) 523-4763",
+      "hospital_website": "http://www.sechosp.org/"
+    },
+    {
+      "name": "Southwest Health System, Inc.",
+      "city": "Cortez",
+      "service_type": "Critical Access Hospital",
+      "address": "1311 North Mildred RoadCortez, Colorado 81321 US",
+      "phone": "(970) 565-6666",
+      "fax": "(970) 564-2149",
+      "hospital_website": "http://www.swhealth.org/"
+    },
+    {
+      "name": "Spalding Rehabilitation Hospital",
+      "city": "Aurora",
+      "service_type": "Rehabilitation Hospital",
+      "address": "900 Potomac St.Aurora, CO 80011 US",
+      "phone": "(303) 367-1166",
+      "fax": "(303) 363-5112",
+      "hospital_website": "http://www.spaldingrehab.com/"
+    },
+    {
+      "name": "Spanish Peaks Regional Health Center & Spanish Peaks Veterans Community Living Center",
+      "city": "Walsenburg",
+      "service_type": "Critical Access Hospital",
+      "address": "23500 U.S. Highway 160Walsenburg, Colorado 81089 US",
+      "phone": "(719) 738-5100",
+      "fax": "(719) 738-5138",
+      "hospital_website": "http://www.sprhc.org/"
+    },
+    {
+      "name": "St. Anthony Hospital",
+      "city": "Lakewood",
+      "service_type": "Acute Hospital",
+      "address": "11600 W. 2nd PlaceLakewood, CO 80228 US",
+      "phone": "(720) 321-0000",
+      "fax": "www.stanthonyhosp.org",
+      "hospital_website": "http://www.stanthonyhosp.org/"
+    },
+    {
+      "name": "St. Anthony North Hospital",
+      "city": "Westminster",
+      "service_type": "Acute Hospital",
+      "address": "14300 Orchard ParkwayWestminster, CO 80023 US",
+      "phone": "(720) 627-0000",
+      "fax": "(720) 627-3526",
+      "hospital_website": "http://www.centura.org/location/st-anthony-north-hospital"
+    },
+    {
+      "name": "St. Anthony Summit Medical Center",
+      "city": "Frisco",
+      "service_type": "Acute Hospital",
+      "address": "PO Box 738340 Peak One DrFrisco, CO 80443 US",
+      "phone": "(970) 668-3300",
+      "fax": "(970) 668-6905",
+      "hospital_website": "http://www.summitmedicalcenter.org/"
+    },
+    {
+      "name": "St. Elizabeth Hospital",
+      "city": "Fort Morgan",
+      "service_type": "Acute Hospital",
+      "address": "1000 Lincoln StreetFort Morgan, CO 80701 US",
+      "phone": "(970) 867-3391",
+      "fax": "(970) 542-3306",
+      "hospital_website": "http://www.coloradoplainsmedicalcenter.com/"
+    },
+    {
+      "name": "St. Francis Medical Center",
+      "city": "Colorado Springs",
+      "service_type": "Acute Hospital",
+      "address": "6001 E. Woodmen RdColorado Springs, CO 80923 US",
+      "phone": "(719) 571-1000",
+      "fax": "(719) 571-2113",
+      "hospital_website": "http://www.penrosestfrancis.org/"
+    },
+    {
+      "name": "St. Mary-Corwin Medical Center",
+      "city": "Pueblo",
+      "service_type": "Acute Hospital",
+      "address": "1008 Minnequa AvenuePueblo, CO 81004 US",
+      "phone": "(719) 557-4000",
+      "fax": "(719) 557-5950",
+      "hospital_website": "http://www.stmarycorwin.org/"
+    },
+    {
+      "name": "St. Mary's Hospital & Medical Center, Inc.",
+      "city": "Grand Junction",
+      "service_type": "Acute Hospital",
+      "address": "PO Box 16282635 N 7th StGrand Junction, CO 81502-1628 US",
+      "phone": "(970) 298-2273",
+      "fax": "www.stmarygj.org",
+      "hospital_website": "http://www.stmarygj.org/"
+    },
+    {
+      "name": "St. Thomas More Hospital",
+      "city": "Cañon City",
+      "service_type": "Critical Access Hospital",
+      "address": "1338 Phay Ave.Cañon City, CO 81212 US",
+      "phone": "(719) 285-2000",
+      "fax": "(719) 285-2370",
+      "hospital_website": "http://www.stmhospital.org/"
+    },
+    {
+      "name": "St. Vincent Health",
+      "city": "Leadville",
+      "service_type": "Critical Access Hospital",
+      "address": "822 W. 4th StreetLeadville, CO 80461 US",
+      "phone": "(719) 486-0230",
+      "fax": "(719) 486-1077",
+      "hospital_website": "http://www.stvincent.health/"
+    },
+    {
+      "name": "Sterling Regional MedCenter",
+      "city": "Sterling",
+      "service_type": "Acute Hospital",
+      "address": "615 Fairhurst St.Sterling, CO 80751 US",
+      "phone": "(970) 522-0122",
+      "fax": "(970) 522-8532",
+      "hospital_website": "http://www.bannerhealth.com/"
+    },
+    {
+      "name": "Swedish Medical Center",
+      "city": "Englewood",
+      "service_type": "Acute Hospital",
+      "address": "501 E. Hampden AveEnglewood, CO 80113 US",
+      "phone": "(303) 788-5000",
+      "fax": "(303) 788-6269",
+      "hospital_website": "http://www.swedishhospital.com/"
+    },
+    {
+      "name": "Telluride Medical Center",
+      "city": "Telluride",
+      "service_type": "Acute Hospital",
+      "address": "500 W Pacific AvenueTelluride, CO 81435",
+      "phone": "(970) 728-3848",
+      "fax": "www.tellmed.org",
+      "hospital_website": "http://www.tellmed.org/"
+    },
+    {
+      "name": "The Medical Center of Aurora",
+      "city": "Aurora",
+      "service_type": "Acute Hospital",
+      "address": "1501 S. Potomac StreetAurora, CO 80012 US",
+      "phone": "(303) 695-2600",
+      "fax": "www.auroramed.com",
+      "hospital_website": "http://www.auroramed.com/"
+    },
+    {
+      "name": "UCHealth Broomfield Hospital",
+      "city": "Broomfield",
+      "service_type": "Acute Hospital",
+      "address": "11820 Destination DrBroomfield, CO 80021 US",
+      "phone": "(303) 464-4500",
+      "fax": "www.uchealth.org",
+      "hospital_website": "http://www.uchealth.org/"
+    },
+    {
+      "name": "UCHealth Grandview Hospital",
+      "city": "Colorado Springs",
+      "service_type": "Acute Hospital",
+      "address": "5623 Pulpit Peak VwColorado Springs, CO 80918-3954 US",
+      "phone": "(719) 272-3600",
+      "fax": "(719) 272-3799",
+      "hospital_website": "http://www.uchealth.org/"
+    },
+    {
+      "name": "UCHealth Greeley Hospital",
+      "city": "Greeley",
+      "service_type": "Acute Hospital",
+      "address": "6767 29th StGreeley, CO 80634 US",
+      "phone": "(970) 652-2000"
+    },
+    {
+      "name": "UCHealth Highlands Ranch Hospital",
+      "city": "Highlands Ranch",
+      "service_type": "Acute Hospital",
+      "address": "1500 Park Central DriveHighlands Ranch, CO 80129 US",
+      "phone": "(720) 516-1000",
+      "fax": "(720) 516-0115",
+      "hospital_website": "http://www.uchealth.org/"
+    },
+    {
+      "name": "UCHealth Longs Peak Hospital",
+      "city": "Longmont",
+      "service_type": "Acute Hospital",
+      "address": "1750 E Ken Pratt BlvdLongmont, CO 80504",
+      "phone": "(720) 718-7000",
+      "fax": "www.uchealth.org",
+      "hospital_website": "http://www.uchealth.org/"
+    },
+    {
+      "name": "UCHealth Medical Center of the Rockies",
+      "city": "Loveland",
+      "service_type": "Acute Hospital",
+      "address": "2500 Rocky Mountain AveLoveland, CO 80538 US",
+      "phone": "(970) 624-2500",
+      "fax": "(970) 624-1290",
+      "hospital_website": "http://www.uchealth.org/"
+    },
+    {
+      "name": "UCHealth Memorial Hospital/UCHealth Memorial Hospital North",
+      "city": "Colorado Springs",
+      "service_type": "Acute Hospital",
+      "address": "1400 E. Boulder StColorado Springs, CO 80909 US",
+      "phone": "(719) 365-5000",
+      "fax": "(719) 365-6870",
+      "hospital_website": "http://www.uchealth.org/"
+    },
+    {
+      "name": "UCHealth Pikes Peak Regional Hospital",
+      "city": "Woodland Park",
+      "service_type": "Critical Access Hospital",
+      "address": "16420 West U.S. Highway 24Woodland Park, CO 80863 US",
+      "phone": "(719) 374-6060",
+      "fax": "(719) 374-6112",
+      "hospital_website": "http://www.uchealth.org/"
+    },
+    {
+      "name": "UCHealth Poudre Valley Hospital",
+      "city": "Fort Collins",
+      "service_type": "Acute Hospital",
+      "address": "1024 S. Lemay Ave.Fort Collins, CO 80524 US",
+      "phone": "(970) 495-7000",
+      "fax": "(970) 495-7601",
+      "hospital_website": "http://www.uchealth.org/"
+    },
+    {
+      "name": "UCHealth Yampa Valley Medical Center",
+      "city": "Steamboat Springs",
+      "service_type": "Acute Hospital",
+      "address": "1024 Central Park DriveSteamboat Springs, CO 80487 US",
+      "phone": "(970) 879-1322",
+      "fax": "(970) 870-1223",
+      "hospital_website": "http://www.uchealth.org/"
+    },
+    {
+      "name": "University of Colorado Hospital",
+      "city": "Aurora",
+      "service_type": "Acute Hospital",
+      "address": "12401 E 17th AveMail Stop F417Aurora, CO 80045-2548 US",
+      "phone": "(720) 848-0000",
+      "fax": "(720) 848-5541",
+      "hospital_website": "http://www.uchealth.org/"
+    },
+    {
+      "name": "VA Eastern Colorado Health Care System, Rocky Mountain Regional VA Medical Center",
+      "city": "Aurora",
+      "service_type": "Acute Hospital",
+      "address": "1700 North Wheeling StreetAurora, CO 80045 US",
+      "phone": "(303) 399-8020",
+      "fax": "www.denver.va.gov",
+      "hospital_website": "http://www.denver.va.gov/"
+    },
+    {
+      "name": "Vail Health",
+      "city": "Vail",
+      "service_type": "Acute Hospital",
+      "address": "PO Box 40000181 W Meadow DrVail, CO 81658 US",
+      "phone": "(970) 476-2451",
+      "fax": "(970) 479-7192",
+      "hospital_website": "http://www.vailhealth.org/"
+    },
+    {
+      "name": "Valley View Hospital",
+      "city": "Glenwood Springs",
+      "service_type": "Acute Hospital",
+      "address": "1906 Blake AvenueGlenwood Springs, CO 81601 US",
+      "phone": "(970) 945-6535",
+      "fax": "(970) 384-4235",
+      "hospital_website": "http://www.vvh.org/"
+    },
+    {
+      "name": "Weisbrod Memorial County Hospital",
+      "city": "Eads",
+      "service_type": "Critical Access Hospital",
+      "address": "PO Box 8171208 Luther StEads, CO 81036",
+      "phone": "(719) 438-5401",
+      "fax": "(719) 438-5697",
+      "hospital_website": "http://www.kchd.org/"
+    },
+    {
+      "name": "West Springs Hospital",
+      "city": "Grand Junction",
+      "service_type": "Psychiatric Hospital",
+      "address": "515 28 3/4 Rd.Grand Junction, CO 81501 US",
+      "phone": "(970) 263-4918",
+      "fax": "(970) 683-7005",
+      "hospital_website": "http://www.mindspringshealth.org/west-springs-hospital"
+    },
+    {
+      "name": "Wray Community District Hospital",
+      "city": "Wray",
+      "service_type": "Critical Access Hospital",
+      "address": "1017 W. 7th St.Wray, CO 80758 US",
+      "phone": "(970) 332-4811",
+      "fax": "(970) 332-4800",
+      "hospital_website": "http://www.wraycommunitydistricthospital.com/"
+    },
+    {
+      "name": "Yuma District Hospital",
+      "city": "Yuma",
+      "service_type": "Critical Access Hospital",
+      "address": "1000 W. 8th Ave.Yuma, CO 80759 US",
+      "phone": "(970) 848-5405",
+      "fax": "(970) 848-5475",
+      "hospital_website": "http://www.yumahospital.org/"
+    }
+  ]
+}

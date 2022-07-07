@@ -1,0 +1,157 @@
+.Physician-detail {
+  display: flex;
+  flex-direction: column;
+  gap: 2.6rem;
+}
+.sub-nav {
+  display: flex;
+  flex-direction: column;
+  gap: 1.2rem;
+  font-weight: 700;
+  width: 10rem;
+  align-items: flex-start;
+}
+.back-btn:link,
+.back-btn:visited {
+  color: inherit;
+  display: flex;
+  font-size: 3.6rem;
+  padding: 0 0.5rem;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  box-shadow: 0 2px 0 0 #fd7e14;
+}
+.back-btn:hover,
+.back-btn:active {
+  box-shadow: 0 1px 0px 0px #ffc493;
+}
+
+ion-icon {
+  --ionicon-stroke-width: 4rem;
+}
+
+.Physician-info {
+  display: flex;
+  flex-direction: column;
+  gap: 1.2rem;
+}
+
+.Physician-info p {
+  margin: 1.2rem;
+  box-shadow: 0 2px 5px 0 hsla(210, 10%, 23%, 0.05);
+  width: 50%;
+  padding: 1.2rem 1.2rem;
+}
+.Physician-info .rate-btn {
+  margin: 1.2rem 1.2rem 0 1.2rem;
+  width: 10rem;
+  padding: 1.2rem 1.2rem;
+  justify-content: center;
+  background-color: #fd7e14;
+  cursor: pointer;
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 600;
+}
+
+.rate-btn-inactive {
+  text-decoration: none;
+  margin: 1.2rem 1.2rem 0 1.2rem;
+  width: 15rem;
+  padding: 1.2rem 1.2rem;
+  justify-content: center;
+  background-color: #f1f3f5;
+  box-shadow: 0 5px 5px 0 #cbcbcb71;
+  color: #868e96;
+  cursor: pointer;
+  display: flex;
+  font-size: 1.2rem;
+  font-weight: 600;
+}
+
+.info-name {
+  text-transform: uppercase;
+  font-size: 3.2rem;
+  margin-bottom: 3.2rem;
+}
+.info-location {
+  font-size: 2.4rem;
+}
+.info-phone {
+  font-size: 2.4rem;
+}
+.info-fax {
+  font-size: 2.4rem;
+}
+.info-specialty {
+  font-size: 2.4rem;
+}
+.info-address {
+  font-size: 2.4rem;
+}
+.info-website {
+  font-size: 2.4rem;
+}
+.commentSection {
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+}
+
+.reviews {
+  width: 10rem;
+  padding: 1.2rem 1.2rem;
+  font-size: 1.6rem;
+}
+.ratings {
+  width: 10rem;
+  padding: 1.2rem 1.2rem;
+  font-size: 1.6rem;
+}
+.stars {
+  width: 10rem;
+  padding: 1.2rem 1.2rem;
+  font-size: 1.6rem;
+}
+.comments-container {
+  background-color: #fff4e6;
+  display: flex;
+  flex-direction: column;
+  gap: 2.4rem;
+}
+.no-comments {
+  background-color: #fff4e6;
+  display: flex;
+  flex-direction: column;
+  gap: 9.6rem;
+}
+.comment-count {
+  background-color: #fff;
+  padding-bottom: 1.8rem;
+  border-bottom: 1px solid;
+  border-image: linear-gradient(-45deg, #f03e3e82, #fd7d14) 1;
+}
+.no-comments {
+  font-weight: 600;
+  font-size: 1.6rem;
+  align-self: center;
+  margin-bottom: 4.8rem;
+}
+.comment-container {
+  display: flex;
+  flex-direction: column;
+  gap: 1.2rem;
+  padding: 0 2.4rem;
+  align-items: flex-start;
+  justify-content: center;
+  margin-bottom: 4.8rem;
+}
+.comment-stars {
+}
+.comment-rating {
+  font-size: 1.2rem;
+}
+.comment-review {
+  font-size: 2rem;
+}

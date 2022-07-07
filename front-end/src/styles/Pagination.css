@@ -1,0 +1,36 @@
+.Pagination {
+  display: flex;
+  gap: 5rem;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 9.6rem;
+}
+.pageIndicator {
+  font-size: 1.8rem;
+}
+.pageBtn {
+  color: #495057;
+  font-size: 1.6rem;
+  font-weight: 600;
+  width: 2rem;
+  cursor: pointer;
+}
+.pgActive {
+  color: red;
+}
+
+.pageBtn:hover {
+  color: #6a6f74;
+}
+.Pagination-prev {
+  border-radius: 50%;
+  align-self: center;
+  cursor: pointer;
+  color: #f03e3e;
+  font-size: 1.8rem;
+}
+.Pagination-next {
+  cursor: pointer;
+  color: #f03e3e;
+  font-size: 1.8rem;
+}

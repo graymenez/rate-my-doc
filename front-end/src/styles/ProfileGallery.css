@@ -1,0 +1,35 @@
+.ProfileGallery-hide {
+  position: relative;
+  visibility: hidden;
+  width: 50%;
+  opacity: 0;
+  padding: 1% 1% 2.5% 1%;
+  transition: 0.1s;
+  bottom: 15vw;
+}
+.ProfileGallery-show {
+  text-align: center;
+  position: relative;
+  opacity: 1;
+  width: 50%;
+  padding: 0% 1% 2.5% 1%;
+  transition: 0.2s;
+  bottom: 15vw;
+}
+.ProfileGallerySmall {
+  margin-right: 35%;
+  margin-left: 35%;
+}
+.GalleryPhotos {
+  border-radius: 50%;
+  height: 10vw;
+  width: 20vh;
+  margin-right: 2.5%;
+  margin-top: 5%;
+  margin-bottom: 5%;
+  display: inline;
+  float: left;
+}
+.GalleryPhotos:hover {
+  opacity: 0.4;
+}

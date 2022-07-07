@@ -1,0 +1,92 @@
+.register-form-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 3.2rem;
+}
+.form-heading {
+  align-self: flex-start;
+  margin-bottom: 3.2rem;
+  font-size: 2.8rem;
+  padding: 1rem;
+  text-transform: uppercase;
+  position: relative;
+  letter-spacing: 0.12rem;
+}
+.error {
+  position: relative;
+}
+.error::after {
+  content: "Username is already taken";
+  color: rgba(255, 0, 0, 0.804);
+  position: absolute;
+  font-size: 1.2rem;
+  top: 5rem;
+  left: 0;
+  font-weight: 500;
+}
+.form-heading::after {
+  content: "";
+  width: 10rem;
+  background-color: #4950573a;
+  height: 0.22rem;
+  top: 4.3rem;
+  left: 2.5rem;
+  position: absolute;
+}
+.Register {
+  background-color: #f8f9fa;
+  box-shadow: 0 5px 5px 0 hsl(210, 9%, 31%, 0.1);
+  width: 20%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 2.4rem;
+  padding-bottom: 9.6rem;
+}
+.input-register {
+  display: block;
+  padding: 0.4rem 0.6rem;
+  font-size: 1.6rem;
+  font-family: inherit;
+}
+.input-container {
+  display: flex;
+  flex-direction: column;
+  gap: 0.8rem;
+}
+.form-label {
+  font-size: 1.2rem;
+  font-weight: 600;
+}
+.register-btn {
+  background: none;
+  border: none;
+  background-color: #339af0;
+  padding: 0.8rem 2.4rem;
+  font-size: 1.6rem;
+  color: #fff;
+  cursor: pointer;
+  box-shadow: 0 5px 5px 0 rgba(72, 79, 86, 0.112);
+  border-radius: 2px;
+}
+.register-btn:hover {
+  background-color: #228be6;
+}
+
+.question {
+  font-size: 1.2rem;
+  letter-spacing: 0.04rem;
+}
+.question-link:link,
+.question-link:visited {
+  text-decoration: none;
+  color: #228be6;
+  font-weight: 500;
+}
+.question-link:hover,
+.question-link:active {
+  text-decoration: none;
+  color: #339af0;
+}

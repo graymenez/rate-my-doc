@@ -1,0 +1,106 @@
+.ProfileSideBarContainer {
+  display: grid;
+  grid-template-columns: 1fr 1fr 3fr;
+  column-gap: 4.8rem;
+  margin-bottom: 3.2rem;
+}
+.sideBar {
+  display: flex;
+  flex-direction: column;
+  gap: 6.4rem;
+  box-shadow: 0 10px 10px 0 #49505712;
+  width: 40rem;
+  margin-bottom: 3rem;
+  padding: 2rem 2rem;
+  border-radius: 1rem;
+  border: 0.5px solid #4950570d;
+}
+
+.ProfileImage {
+  align-self: center;
+  width: 30rem;
+  justify-self: start;
+}
+.ProfileSideBar {
+  display: flex;
+  flex-direction: column;
+  gap: 1.6rem;
+  align-items: center;
+  margin-bottom: 2rem;
+}
+.ProfileSideBar li {
+  text-align: center;
+  font-size: 2.4rem;
+  display: block;
+  width: 100%;
+  padding: 3rem 0;
+  cursor: pointer;
+  border-radius: 20px;
+  border: 0.5px solid #49505712;
+  box-shadow: 0 2px 2px 0 #49505712;
+}
+.right-side {
+  /* background-color: black; */
+  grid-column: 2/-1;
+  display: grid;
+  height: 80rem;
+  grid-template-rows: 1fr 3fr;
+}
+.disclaimer-content {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  font-size: 1.2rem;
+}
+.disclaimer-content p {
+  font-weight: 500;
+  width: 100%;
+  padding: 0 2rem;
+  line-height: 1.4;
+  margin-bottom: 3.2rem;
+}
+.important-words {
+  text-transform: uppercase;
+  font-weight: 700;
+}
+/* ion-icon {
+  font-size: 2rem;
+} */
+.disclaimer-icon {
+  font-size: 3.2rem;
+  align-self: center;
+  justify-self: center;
+  padding: 1rem 1rem;
+  margin: 1rem 1rem;
+  background-color: #ffe8cca0;
+  border-radius: 50%;
+}
+.disclaimer-word {
+  font-size: 3.2rem;
+  letter-spacing: 0.2rem;
+  position: relative;
+  padding-bottom: 0.3rem;
+  margin-bottom: 2rem;
+}
+
+.disclaimer-word::after {
+  content: "";
+  background-color: #49505712;
+  height: 0.2rem;
+  width: 90rem;
+  bottom: 0;
+  left: 0;
+  position: absolute;
+}
+.Profile {
+  width: 100%;
+  justify-self: start;
+  align-self: center;
+}
+.top-bar-disclaimer {
+  padding: 2rem 2rem;
+  border-radius: 1rem;
+  box-shadow: 0 2px 2px 0 #49505712;
+  align-self: stretch;
+  border: 0.5px solid #4950570d;
+  margin-bottom: 3.2rem;
+}

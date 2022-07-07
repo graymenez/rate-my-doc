@@ -1,0 +1,225 @@
+/* 
+--- 01 TYPOGRAPHY SYSTEM
+FONT SIZE SYSTEM (px)
+10 / 12 / 14 / 16 / 18 / 20 / 24 / 30 / 36 / 44 / 52 / 62 / 74 / 86 / 98
+
+
+
+SPACING SYSTEM (px)
+2 / 4 / 8 / 12 / 16 / 24 / 32 / 48 / 64 / 80 / 96 / 128
+*/
+.container {
+  margin: 0 auto;
+  max-width: 140rem;
+}
+
+/* Main NavBar component */
+
+.NavContainer {
+  height: 25rem;
+  padding: 2.4rem 0;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+.Nav-links {
+  list-style: none;
+  border-bottom: 5px solid;
+  border-image: linear-gradient(-45deg, #f03e3e, #fd7e14) 1;
+  padding-bottom: 2.4rem;
+  display: flex;
+  align-items: center;
+  gap: 4.8rem;
+  z-index: 1;
+  font-size: 1.8rem;
+}
+.nav-link:link,
+.nav-link:visited {
+  display: inline-block;
+  color: #495057;
+  font-size: 1.8rem;
+  text-decoration: none;
+  position: relative;
+  transition: all 0.3s;
+  z-index: 1;
+}
+.nav-link:link::after {
+  content: "";
+  background: linear-gradient(45deg, #f03e3e 0%, #fd7e14 100%);
+  position: absolute;
+  top: 2rem;
+  left: 0;
+  height: 0.2rem;
+  width: 0%;
+  transition: all 0.4s ease-out;
+  z-index: 1;
+}
+.NavBarLogout:link,
+.NavBarLogout:visited {
+  display: inline-block;
+  color: #495057;
+  font-size: 1.8rem;
+  text-decoration: none;
+  position: relative;
+  transition: all 0.3s;
+  z-index: 1;
+}
+.active:link::after {
+  content: "";
+
+  background-color: #f03e3e;
+
+  position: absolute;
+  top: 2rem;
+  left: 0;
+  height: 0.2rem;
+  width: 110%;
+  z-index: 1;
+}
+.nav-link:hover::after {
+  content: "";
+  background: linear-gradient(-45deg, #f03e3e 30%, #fd7e14 100%);
+  position: absolute;
+  top: 2rem;
+  left: 0;
+  height: 0.2rem;
+  width: 110%;
+  z-index: 1;
+}
+.nav-link:hover,
+.nav-link:active {
+  color: #868e96;
+  z-index: 1;
+}
+.NavBarLogo {
+  margin-bottom: 0.4rem;
+  transform: translateX(-1.8rem);
+}
+/* .active::after {
+  content: "";
+  background-color: #f03e3e;
+  position: absolute;
+  width: 2rem;
+  height: 2rem;
+} */
+/* .active:link,
+.active:visited {
+} */
+.logo {
+  width: 9.6rem;
+  height: 9.6rem;
+  border-radius: 50%;
+}
+
+/* @media only screen and (max-width: 768px) {
+  .Nav {
+    position: sticky;
+    top: 0;
+    padding: 3.5% 0 8% 0;
+    background-color: rgba(0, 0, 0, 0.763);
+    width: 100%;
+    border-top: 4px solid orangered;
+    z-index: 99;
+  }
+  nav a {
+    font-size: 3vw;
+    float: left;
+    margin: 0 1.5% 0% 1.5%;
+    text-decoration: none;
+    color: rgba(255, 255, 255, 0.47);
+  }
+  #physicianPhoto {
+    width: 100%;
+    height: 25vh;
+  }
+  #logo {
+    display: none;
+    opacity: 0.9;
+    width: 7%;
+    position: absolute;
+  }
+  #leafPhoto {
+    display: none;
+  }
+  #leafSection {
+    display: none;
+  }
+  #leafQuote {
+    display: none;
+  }
+  #breakPointUnderLogo {
+    width: 100%;
+    border: 0.5px solid rgba(255, 68, 0, 0.474);
+    box-shadow: 0px 0px 2px 2px rgba(173, 216, 230, 0.555);
+  }
+
+  .active {
+    color: white;
+    text-decoration: underline;
+  }
+}
+@media only screen and (min-width: 768px) {
+  .Nav {
+    padding: 0.8% 0 2.4% 0;
+    background-color: rgba(0, 0, 0, 0.763);
+    width: 100%;
+    border-top: 4px solid orangered;
+    z-index: 99;
+  }
+  nav a {
+    font-size: 1vw;
+    float: left;
+    margin: 0 1.5% 0% 1.5%;
+    text-decoration: none;
+    color: rgba(255, 255, 255, 0.47);
+  }
+  #physicianPhoto {
+    margin-left: 200px;
+    height: 30vh;
+  }
+  #logo {
+    opacity: 0.9;
+    width: 7%;
+    position: absolute;
+  }
+
+  #leafPhoto {
+    opacity: 0.15;
+    width: 150px;
+    margin-left: 400px;
+  }
+  #leafSection {
+    position: absolute;
+    left: 1000px;
+    bottom: 630px;
+    width: 300px;
+    text-align: center;
+  }
+  #leafQuote {
+    opacity: 1;
+    position: relative;
+    bottom: 40px;
+    left: 20px;
+    padding: 40px 10px 40px 40px;
+    border: none;
+    border-radius: 5px;
+    box-shadow: 0px 0px 20px 0px rgba(232, 232, 232, 0.317);
+    color: rgba(0, 0, 0, 0.28);
+    font-size: 20px;
+    font-family: cursive;
+  }
+  #breakPointUnderLogo {
+    width: 100%;
+    border: 0.5px solid rgba(255, 68, 0, 0.474);
+    box-shadow: 0px 0px 2px 2px rgba(173, 216, 230, 0.555);
+  }
+  .NavBarLogout {
+    cursor: pointer;
+  }
+  .active {
+    color: white;
+    text-decoration: underline;
+  }
+} */

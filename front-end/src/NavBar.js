@@ -53,6 +53,33 @@ const NavBar = () => {
             </li>
             <li>
               <NavLink className="nav-link" to="/physicians">
+                About us
+              </NavLink>
+            </li>
+            <li>
+              <NavLink className="nav-link" to="/hospitals">
+                Blog
+              </NavLink>
+            </li>
+            <li>
+              <NavLink className="nav-link" to="/register">
+                Sign Up
+              </NavLink>
+            </li>
+            <li>
+              <NavLink className="nav-link" to="/login">
+                Login
+              </NavLink>
+            </li>
+          </ul>
+          {/* <ul className="Nav-links">
+            <li>
+              <NavLink className="nav-link" to="/">
+                Home
+              </NavLink>
+            </li>
+            <li>
+              <NavLink className="nav-link" to="/physicians">
                 Physicians
               </NavLink>
             </li>
@@ -71,7 +98,7 @@ const NavBar = () => {
                 Login
               </NavLink>
             </li>
-          </ul>
+          </ul> */}
         </nav>
       )}
     </header>

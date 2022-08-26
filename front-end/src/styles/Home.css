@@ -73,3 +73,40 @@
   margin-bottom: 1.8rem;
   cursor: pointer;
 }
+
+/* .sample {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  row-gap: 4.8rem;
+  column-gap: 2.8rem;
+}
+.sample__header {
+  grid-column: 1/-1;
+  margin-bottom: 4.8rem;
+  display: flex;
+  position: relative;
+}
+
+.sample__header-text {
+  text-transform: uppercase;
+  font-size: 4.8rem;
+  font-weight: 600;
+  z-index: 1;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+.sample__header-img {
+  width: 40%;
+  position: absolute;
+  filter: blur(0.1rem) grayscale(100%);
+  top: -4rem;
+  left: 5rem;
+  transform: rotate(-35deg);
+  opacity: 0.1;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+} */
